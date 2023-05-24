@@ -1,0 +1,30 @@
+﻿ID.,ISO-639-3,Original,Morphemic,Gloss,Translation ,Source,Comment
+cao_ex_01,cao,,siri ȿo honi.,old DECL man ,The man is old.,,
+cao_ex_02,cao,,naa motó tsi ȿo yói.,DEM motorcycle p5 DECL bad,This motorcycle is bad,,"The morpheme tsi, glossed as “position 5 formative” (p5) optionally occurs when there is a fronted stem or constituent in position 2 or 3 (Tallman, 2018: p. 304)."
+cao_ex_03,cao,,honi siri,man old,an/the old man,,
+cao_ex_04,cao,,motó yói,motorcycle bad,a/the bad motorcycle,, 
+cao_ex_05,cao,,naa motó tsi ȿo [yói karetera ka=tí].,Dem motorcycle p5 DECL bad highway go=NMLZ:PURP,The motorcycle is bad for driving on the highway.,,"Having the modifier phrases after the adjective appears to be more natural, but both of these were accepted."
+cao_ex_06,cao,,naa motó tsi ȿo [karetera ka=tí yói].,Dem motorcycle p5 DECL highway go=NMLZ:PURP bad,The motorcycle is bad for driving on the highway.,,
+cao_ex_07,cao,,naa yoȿa tsi ȿo [hia adán=kí].,DEM woman p5 DECL pretty Adam=DAT,This woman is pretty to Adam (Adam finds her pretty).,,
+cao_ex_08,cao,,naa yoȿa tsi ȿo [adán=kí hia].,DEM woman p5 DECL Adam=DAT pretty ,This woman is pretty to Adam (Adam finds her pretty).,,
+cao_ex_09,cao,,motó [yói karetera ka=tí] kopi=ki paɨ.,motorcycle bad highway go=NMLZ:PURP buy=DECL.NPST Paë,Paë buys/will buy a motorcycle (which is) bad for driving on  the highway.,,
+cao_ex_10,cao,,yoȿa [hia adán=kí] haba=kɨ hawƗ́ ȿóbo=kí.,woman pretty Adam=DAT run=DECL.PST 3SG.GEN house=DAT,A woman pretty to Adam (which Adam finds pretty) ran to his house.,,ki (non-past) forces the subject to appear after the clause-type morpheme (and thus postverbally). 
+cao_ex_11,cao,,*motó [karetera ka=tí yói] kopi=ki paɨ.  ,motorcycle highway go=NMLZ:PURP bad buy=DECL.NPST Paë,,,Speakers insisted on relativizing the constructions with ka(to).
+cao_ex_12,cao,,motó [karetera ka=tí yói=ka] kopi=ki paɨ.  ,motorcycle highway go=NMLZ:PURP bad=REL buy=DECL.NPST Paë,,,
+cao_ex_13,cao,,*yoȿa [adán=kí hia] haba=kɨ hawƗ́ ȿóbo=kí.,woman Adam=DAT pretty run=DECL.PST 3SG.GEN house=DAT,,,Speakers insisted on relativizing the constructions with ka(to).
+cao_ex_14,cao,,yoȿa [adán=kí hia=ka] haba=kɨ hawƗ́ ȿóbo=kí.,woman Adam=DAT pretty=REL run=DECL.PST 3SG.GEN house=DAT,,,
+cao_ex_15,cao,,honi ȿobo tsaya=ȿɨni raaʔa yoȿa=' wa=kɨ.,man house look_at=ADJLZ scold woman=ERG TR=DECL.PST,The woman scolded the man who always looks at houses (lit: the always-house-looking man),,The speaker stated that the sentence sounded better if there was a pause after the first word – suggesting that there was really something hard to process about this sentence.
+cao_ex_16,cao,,yoȿa raaʔa honi ȿobo tsaya=ȿɨni=' wa=kɨ.,woman scold man house look_at=ADJLZ=ERG TR=DECL.PST,The man who always looks at houses (lit: the always-house-looking man) scolded the woman/wife.,,Unclear whether the construction should be regarded as complex APs or appositional N-clausal N combinations.
+cao_ex_17,cao,,*honi noti=',man canoe=SPAT,intended: the man in the canoe,,
+cao_ex_18,cao,,honi noti='=ka,man canoe=SPAT=REL,the man (who is) in the canoe,,
+cao_ex_19,cao,,naa ȿobo='=ka ȿokobo,DEM house=SPAT=REL child,this child in the house,,
+cao_ex_20,cao,,katʃa=ȿó ina hɨri=' pabɨ=má=ki.,outside=A dog Gere=ERG dance=CAUS=DECL.PST,Gere made the dog dance from outside (i.e Gere was outside). ,,If an adjunct that modifies an N(P) is in first or last position in the clause then it can be marked for a participant agreement marking that tells you which of the core arguments it is associated with.
+cao_ex_21,cao,,honi pia=yá,man arrow=COM,the man with the arrow,,The comitative marker allows the relevant word order.
+cao_ex_22,cao,,oi=yá / bari=yá tiá,rain=COM/ sun=COM season,the rainy/ sunny season (lit. the time with rain/ sun),,An example of prenominal comitative
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
