@@ -1,15 +1,15 @@
 ID,ISO-639-3,Original,Morphemic,Gloss,Translation,Source,Comment
-cao_ex_01,cao,,siri ȿo honi.,old DECL man,The man is old.,,
-cao_ex_02,cao,,naa motó tsi ȿo yói.,DEM motorcycle P5 DECL bad,This motorcycle is bad.,,"The morpheme tsi, glossed as “position 5 formative” (p5) optionally occurs when there is a fronted stem or constituent in position 2 or 3 (Tallman, 2018: p. 304)."
-cao_ex_03,cao,,honi siri,man old,an/the old man,,
-cao_ex_04,cao,,motó yói,motorcycle bad,a/the bad motorcycle,,
+cao_ex_01,cao,,siri ȿo honi.,old DECL man,'The man is old.',"(Adam Tallman, p.c.)",
+cao_ex_02,cao,,naa motó tsi ȿo yói.,DEM motorcycle P5 DECL bad,This motorcycle is bad.,"(Adam Tallman, p.c.)","The morpheme tsi, glossed as “position 5 formative” (p5) optionally occurs when there is a fronted stem or constituent in position 2 or 3 (Tallman, 2018: p. 304)."
+cao_ex_03,cao,,honi siri,man old,an/the old man,"(Adam Tallman, p.c.)",
+cao_ex_04,cao,,motó yói,motorcycle bad,a/the bad motorcycle,"(Adam Tallman, p.c.)",
 cao_ex_05,cao,,naa motó tsi ȿo [yói karetera ka=tí].,DEM motorcycle P5 DECL bad highway go=NMLZ:PURP,The motorcycle is bad for driving on the highway.,,"Having the modifier phrases after the adjective appears to be more natural, but both of these were accepted."
 cao_ex_06,cao,,naa motó tsi ȿo [karetera ka=tí yói].,DEM motorcycle P5 DECL highway go=NMLZ:PURP bad,The motorcycle is bad for driving on the highway.,,
 cao_ex_07,cao,,naa yoȿa tsi ȿo [hia adán=kí].,DEM woman P5 DECL pretty Adam=DAT,This woman is pretty to Adam (Adam finds her pretty).,,
 cao_ex_08,cao,,naa yoȿa tsi ȿo [adán=kí hia].,DEM woman P5 DECL Adam=DAT pretty,This woman is pretty to Adam (Adam finds her pretty).,,
 cao_ex_09,cao,,motó [yói karetera ka=tí] kopi=ki paɨ.,motorcycle bad highway go=NMLZ:PURP buy=DECL.NPST Paë,Paë buys/will buy a motorcycle (which is) bad for driving on the highway.,,
 cao_ex_10,cao,,yoȿa [hia adán=kí] haba=kɨ hawɨ́ ȿóbo=kí.,woman pretty Adam=DAT run=DECL.PST 3SG.GEN house=DAT,A woman pretty to Adam (which Adam finds pretty) ran to his house.,,ki (non-past) forces the subject to appear after the clause-type morpheme (and thus postverbally). 
-cao_ex_11,cao,,*motó [karetera ka=tí yói] kopi=ki paɨ.,motorcycle highway go=NMLZ:PURP bad buy=DECL.NPST Paë,Intended: Paë buys/will buy a motorcycle (which is) bad for driving on the highway.,,Speakers insisted on relativizing the constructions with ka(to).
+cao_ex_11,cao,,*motó [karetera ka=tí yói] kopi=ki paɨ.,motorcycle highway go=NMLZ:PURP bad buy=DECL.NPST Paë,Intended: 'Paë buys/will buy a motorcycle (which is) bad for driving on the highway.',,Speakers insisted on relativizing the constructions with ka(to).
 cao_ex_12,cao,,motó [karetera ka=tí yói=ka] kopi=ki paɨ.,motorcycle highway go=NMLZ:PURP bad=REL buy=DECL.NPST Paë,Paë buys/will buy a motorcycle (which is) bad for driving on the highway.,,
 cao_ex_13,cao,,*yoȿa [adán=kí hia] haba=kɨ hawɨ́ ȿóbo=kí.,woman Adam=DAT pretty run=DECL.PST 3SG.GEN house=DAT,Intended: A woman pretty to Adam (which Adam finds pretty) ran to his house.,,Speakers insisted on relativizing the constructions with ka(to).
 cao_ex_14,cao,,yoȿa [adán=kí hia=ka] haba=kɨ hawɨ́ ȿóbo=kí.,woman Adam=DAT pretty=REL run=DECL.PST 3SG.GEN house=DAT,A woman pretty to Adam (which Adam finds pretty) ran to his house.,,
