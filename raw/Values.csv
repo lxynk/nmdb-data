@@ -1,0 +1,13 @@
+ID,Language,Parameter,Value,Comment
+cao:A,cao,Are there adjectival modifiers?,,
+cao:A-N,cao,Can adjectival modifiers be placed prenominally?,,
+cao:N-A,cao,Can adjectival modifiers be placed postnominally?,,
+cao:AP-N,cao,Can prenominal adjectival modifiers take dependents?,,
+cao:A-XP-N,cao,Can the dependent follow the head in prenominal adjectival modifiers?,,
+cao:XP-A-N,cao,Can the dependent precede the head in prenominal adjectival modifiers?,,
+cao:N-AP,cao,Can postnominal adjectival modifiers take dependents?,,
+cao:N-A-XP,cao,Can the dependent follow the head in postnominal adjectival modifiers?,,
+cao:N-XP-A,cao,Can the dependent precede the head in postnominal adjectival modifiers?,,
+cao:V,cao,Are there deverbal modifiers?,,
+cao:C,cao,Are there clausal modifiers?,,
+cao:P,cao,Are there adpositional modifiers?,,

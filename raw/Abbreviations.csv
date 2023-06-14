@@ -1,0 +1,27 @@
+ID,Name
+ABL,ablative
+ACT,-active (voice)
+ADJLZ,adjectivalizer
+AN,-animate (grammatical gender)
+CAUS,causative
+COM,comitative
+COMP,complementizer
+COP,copula
+DAT,dative
+DECL,declarative
+DEM,demonstrative
+DIR,-directive
+ERG,ergative
+IN,-inanimated
+INACT,-inactive
+LOC,locative
+NMLZ,nominalizer
+NPST,non-past
+OBV,obviative
+PL,plural
+PROX,-proximate
+Purp,-purpose
+SG,singular
+SPAT,spatial
+TA,-transitive animate
+TR,-transitive
