@@ -1,33 +1,33 @@
 ﻿ID,ISO-639-3,Original,Morphemic,Gloss,Translation,Source,Comment
 "orm_ex_01	",orm,,nam-i-cca dureys-umma=tti boon-ø-u,person-EP-SGV.M.ABSL rich-NMLZ-LOC proud-3SG.M-DPT,‘(The) man who is proud of being rich.’,"(Shimelis Mazengia, p.c.)",
-"orm_ex_01	",orm,,nama namaa-n waɟɟi wal-tah-u,person person-INS with RCP-agreeable-DPT,‘an agreeable person’ (Lit. a person who agrees with others),"(Shimelis Mazengia, p.c.)","concering the symbol 'ɟ', it shows ok in the upper line but not here"
-"orm_ex_01	",orm,,walgayii zaʔaa boodaa,meeting hour after.GEN,‘(an/the) afternoon meeting’,"(Shimelis Mazengia, p.c.)",
-"orm_ex_01	",orm,,níitíi-n magaláa xéesáa meesháa náa-f {gurgur-t-e},woman-NOM market inside.GEN things me-DAT {sold-f-?},‘The woman inside the market sold goods for me.’,"(Shimelis Mazengia, p.c.)",last word - order of morphemes does not correspond to the gloss in Shimelis' document (Oromo_1)
-"orm_ex_01	",orm,,níitíi-n magaláa xéesá meesháa náa-f {gurgur-t-e},woman-NOM market inside things me-DAT {sold-f-?},‘The woman sold goods for me inside the market.’,{Owens},
-"orm_ex_01	",orm,,*zaʔaa boodaa walgayii,hour after.GEN meeting,Intended: ‘(an/the) afternoon meeting’,"(Shimelis Mazengia, p.c.)",
-"orm_ex_01	",orm,,*magaláa xéesáa níitíi-n,market inside.GEN woman-NOM,Intended: ‘The woman inside the market sold goods for me.’,"(Shimelis Mazengia, p.c.)",
-"orm_ex_01	",orm,,mana gurraacca,house black,‘a black house’,"(Shimelis Mazengia, p.c.)",
-"orm_ex_01	",orm,,nama furdaa,person fat,‘a fat person’,"(Shimelis Mazengia, p.c.)",
-"orm_ex_01	",orm,,nam-i-cc-ø-i kanii-n kalee yam-ø-e du'-ø-e,man-EP-SGV-NOM-EP {RL}-1SG yesterday call-1SG-PFV die-3SG.M-PFV,‘(The) man I called yesterday (has) died.’,"(Shimelis Mazengia, p.c.)",RL - relativizer?
-"orm_ex_01	",orm,,nam-i-cc-ø-i kalee du'-ø-e ka'-ø-e,man-EP-SGV-NOM-EP yesterday die-3SG.M-PFV arise-3SG.M-PFV,‘(The) man who died yesterday arose/has arisen (from the dead).’,"(Shimelis Mazengia, p.c.)",
-"orm_ex_01	",orm,,biʃaan lagaa,{water river.GEN},‘river water’,"(Shimelis Mazengia, p.c.)",
-"orm_ex_01	",orm,,mana duuba,{house behind},‘behind (a/the) house’,"(Shimelis Mazengia, p.c.)",
-"orm_ex_01	",orm,,nam-i-cc-ø-i kun boonaa-ɗa,person-EP-SGV-NOM-EP this proud-COP,‘This man is proud.’,"(Shimelis Mazengia, p.c.)",a
-"orm_ex_01	",orm,,nam-i-cc-ø-i kun ni=boon-ø-a,person-EP-SGV-NOM-EP this FOC=get.proud-3SG.M-IPFV,{?‘This man is/gets proud.’},"(Shimelis Mazengia, p.c.)",2. (doc4); relates to a
-"orm_ex_01	",orm,,{nam-i-cc-ø-i kun dureys-ummɑ=tti boon-ø-a},person-EP-SGV-NOM-EP this rich-NMLZ=LOC proud-3SG.M-IPFV,‘This man is proud of being rich.’,"(Shimelis Mazengia, p.c.)",b1
-"orm_ex_01	",orm,,{nam-i-cc-ø-i kun dureys-ummɑ=tti boon-aa-ɗa},person-EP-SGV-NOM-EP this rich-NMLZ=LOC proud-3SG.M-COP,‘This man is proud of being rich.’,"(Shimelis Mazengia, p.c.)",2. (doc4); relates to b1
-"orm_ex_01	",orm,,*nam-i-cc-ø-i kun boon-ø-a dureys-umma=tti,person-EP-SGV-NOM-EP this proud-3SG.M-IPFV rich-NMLZ=LOC,Intended: ‘This man is proud of being rich.’,"(Shimelis Mazengia, p.c.)",5. (doc4); relates to b1
-"orm_ex_01	",orm,,nam-i-cc-ø-i kun kan dureys-ummɑ=tti boon-ø-u,person-EP-SGV-NOM-EP this {who} rich-NMLZ=LOC get.proud-3SG.M-DPT,‘This man is who gets proud of being rich.’,"(Shimelis Mazengia, p.c.)",b2
-"orm_ex_01	",orm,,*nam-i-cc-ø-i kun kan dureys-ummɑ=tti boon-aa-ɗa,person-EP-SGV-NOM-EP this who rich-NMLZ=LOC get.proud-3SG.M-COP,Intended: ‘This man is who gets proud of being rich.’,"(Shimelis Mazengia, p.c.)",2. (doc4); relates to b2
-"orm_ex_01	",orm,,*nam-i-cc-ø-i kun kan boon-ø-u dureys-ummɑ=tti ,person-EP-SGV-NOM-EP this {who} get.proud-3SG.M-DPT rich-NMLZ=LOC,Intended: ‘This man is who gets proud of being rich.’,"(Shimelis Mazengia, p.c.)",5. (doc4); relates to b2
-"orm_ex_01	",orm,,Muussa nama boonaa-ɗa,Muussa person proud-COP,‘Muussa is a proud person.’,"(Shimelis Mazengia, p.c.)",c
-"orm_ex_01	",orm,,*Muussa nama ni=boon-ø-a,Muussa person FOC=get.proud-3SG.M-IPFV,{??? Intended: ‘Mussaa is a person getting/being proud.’},"(Shimelis Mazengia, p.c.)",2. (doc4); relates to c
-"orm_ex_01	",orm,,*Muussa boonaa-ɗa nama,Muussa proud-COP person,Intended: ‘Muussa is a proud person.’,"(Shimelis Mazengia, p.c.)",6. (doc4); relates to c
-"orm_ex_01	",orm,,*Muussa boonaa nama-ɗa,Muussa proud person-COP,Intended: ‘Muussa is a proud person.’,"(Shimelis Mazengia, p.c.)",6. (doc4); relates to c
-"orm_ex_01	",orm,,{Muussa nama dureys-umm=tti boon-ø-u},Muussa person rich-NMLZ=LOC proud-3SG.M-DPT,‘Muussa is a person proud of being rich.’,"(Shimelis Mazengia, p.c.)",d
-"orm_ex_01	",orm,,{*Muussa nama dureys-umm=tti boon-aa-ɗa},Muussa person rich-NMLZ=LOC proud-3SG.M-COP,Intended: ‘Muussa is a person proud of being rich.’,"(Shimelis Mazengia, p.c.)",2. (doc4); relates to d
-"orm_ex_01	",orm,,*Muussa nama dureys-umm=tti boon-ø-a,Muussa person rich-NMLZ=LOC proud-3SG.M-IPFV,Intended: ‘Muussa is a person proud of being rich.’,"(Shimelis Mazengia, p.c.)","3. (doc4); relates to d. This is confusing, in 3 (doc4) he writes that boon-ø-a cannot replace boon-aa-ɗa in example d, but in 2 (doc4) he writes that boon-aa-ɗa is ungrammatical in d "
-"orm_ex_01	",orm,,Muussa kan dureys-umma=tti boon-ø-u,Muussa {REL/who} rich-NMLZ=LOC proud-3SG.M-DPT,‘Muussa is (one) who is/gets proud of being rich.’,"(Shimelis Mazengia, p.c.)",4. (doc4); relates to d
-"orm_ex_01	",orm,,*Muussa nama kan dureys-umma=tti boon-ø-u,Muussa person {REL/who} rich-NMLZ=LOC proud-3SG.M-DPT,{?Intended: ‘Muussa is who is/gets proud of being rich.’},"(Shimelis Mazengia, p.c.)",4. (email); relates to d
-"orm_ex_01	",orm,,*Muussa nama boon-ø-u dureys-umm=tti,Muussa person proud-3SG.M-DPT rich-NMLZ=LOC,Intended: ‘Muussa is a person proud of being rich.’,"(Shimelis Mazengia, p.c.)",5. (doc4); relates to d
-"orm_ex_01	",orm,,*Muussa dureys-umma=tti boon-ø-u nama,Muussa rich-NMLZ=LOC proud-3SG.M-DPT person,Intended: ‘Muussa is a person proud of being rich.’,"(Shimelis Mazengia, p.c.)",6. (doc4); relates to d
+"orm_ex_02	",orm,,nama namaa-n waɟɟi wal-tah-u,person person-INS with RCP-agreeable-DPT,‘an agreeable person’ (Lit. a person who agrees with others),"(Shimelis Mazengia, p.c.)","concering the symbol 'ɟ', it shows ok in the upper line but not here"
+"orm_ex_03	",orm,,walgayii zaʔaa boodaa,meeting hour after.GEN,‘(an/the) afternoon meeting’,"(Shimelis Mazengia, p.c.)",
+"orm_ex_04	",orm,,níitíi-n magaláa xéesáa meesháa náa-f {gurgur-t-e},woman-NOM market inside.GEN things me-DAT {sold-f-?},‘The woman inside the market sold goods for me.’,"(Shimelis Mazengia, p.c.)",last word - order of morphemes does not correspond to the gloss in Shimelis' document (Oromo_1)
+"orm_ex_05	",orm,,níitíi-n magaláa xéesá meesháa náa-f {gurgur-t-e},woman-NOM market inside things me-DAT {sold-f-?},‘The woman sold goods for me inside the market.’,{Owens},
+"orm_ex_06	",orm,,*zaʔaa boodaa walgayii,hour after.GEN meeting,Intended: ‘(an/the) afternoon meeting’,"(Shimelis Mazengia, p.c.)",
+"orm_ex_07	",orm,,*magaláa xéesáa níitíi-n,market inside.GEN woman-NOM,Intended: ‘The woman inside the market sold goods for me.’,"(Shimelis Mazengia, p.c.)",
+"orm_ex_08	",orm,,mana gurraacca,house black,‘a black house’,"(Shimelis Mazengia, p.c.)",
+"orm_ex_09	",orm,,nama furdaa,person fat,‘a fat person’,"(Shimelis Mazengia, p.c.)",
+"orm_ex_10	",orm,,nam-i-cc-ø-i kanii-n kalee yam-ø-e du'-ø-e,man-EP-SGV-NOM-EP {RL}-1SG yesterday call-1SG-PFV die-3SG.M-PFV,‘(The) man I called yesterday (has) died.’,"(Shimelis Mazengia, p.c.)",RL - relativizer?
+"orm_ex_11	",orm,,nam-i-cc-ø-i kalee du'-ø-e ka'-ø-e,man-EP-SGV-NOM-EP yesterday die-3SG.M-PFV arise-3SG.M-PFV,‘(The) man who died yesterday arose/has arisen (from the dead).’,"(Shimelis Mazengia, p.c.)",
+"orm_ex_12	",orm,,biʃaan lagaa,{water river.GEN},‘river water’,"(Shimelis Mazengia, p.c.)",
+"orm_ex_13	",orm,,mana duuba,{house behind},‘behind (a/the) house’,"(Shimelis Mazengia, p.c.)",
+"orm_ex_14	",orm,,nam-i-cc-ø-i kun boonaa-ɗa,person-EP-SGV-NOM-EP this proud-COP,‘This man is proud.’,"(Shimelis Mazengia, p.c.)",a
+"orm_ex_15	",orm,,nam-i-cc-ø-i kun ni=boon-ø-a,person-EP-SGV-NOM-EP this FOC=get.proud-3SG.M-IPFV,{?‘This man is/gets proud.’},"(Shimelis Mazengia, p.c.)",2. (doc4); relates to a
+"orm_ex_16	",orm,,{nam-i-cc-ø-i kun dureys-ummɑ=tti boon-ø-a},person-EP-SGV-NOM-EP this rich-NMLZ=LOC proud-3SG.M-IPFV,‘This man is proud of being rich.’,"(Shimelis Mazengia, p.c.)",b1
+"orm_ex_17	",orm,,{nam-i-cc-ø-i kun dureys-ummɑ=tti boon-aa-ɗa},person-EP-SGV-NOM-EP this rich-NMLZ=LOC proud-3SG.M-COP,‘This man is proud of being rich.’,"(Shimelis Mazengia, p.c.)",2. (doc4); relates to b1
+"orm_ex_18	",orm,,*nam-i-cc-ø-i kun boon-ø-a dureys-umma=tti,person-EP-SGV-NOM-EP this proud-3SG.M-IPFV rich-NMLZ=LOC,Intended: ‘This man is proud of being rich.’,"(Shimelis Mazengia, p.c.)",5. (doc4); relates to b1
+"orm_ex_19	",orm,,nam-i-cc-ø-i kun kan dureys-ummɑ=tti boon-ø-u,person-EP-SGV-NOM-EP this {who} rich-NMLZ=LOC get.proud-3SG.M-DPT,‘This man is who gets proud of being rich.’,"(Shimelis Mazengia, p.c.)",b2
+"orm_ex_20	",orm,,*nam-i-cc-ø-i kun kan dureys-ummɑ=tti boon-aa-ɗa,person-EP-SGV-NOM-EP this who rich-NMLZ=LOC get.proud-3SG.M-COP,Intended: ‘This man is who gets proud of being rich.’,"(Shimelis Mazengia, p.c.)",2. (doc4); relates to b2
+"orm_ex_21	",orm,,*nam-i-cc-ø-i kun kan boon-ø-u dureys-ummɑ=tti ,person-EP-SGV-NOM-EP this {who} get.proud-3SG.M-DPT rich-NMLZ=LOC,Intended: ‘This man is who gets proud of being rich.’,"(Shimelis Mazengia, p.c.)",5. (doc4); relates to b2
+"orm_ex_22	",orm,,Muussa nama boonaa-ɗa,Muussa person proud-COP,‘Muussa is a proud person.’,"(Shimelis Mazengia, p.c.)",c
+"orm_ex_23	",orm,,*Muussa nama ni=boon-ø-a,Muussa person FOC=get.proud-3SG.M-IPFV,{??? Intended: ‘Mussaa is a person getting/being proud.’},"(Shimelis Mazengia, p.c.)",2. (doc4); relates to c
+"orm_ex_24	",orm,,*Muussa boonaa-ɗa nama,Muussa proud-COP person,Intended: ‘Muussa is a proud person.’,"(Shimelis Mazengia, p.c.)",6. (doc4); relates to c
+"orm_ex_25	",orm,,*Muussa boonaa nama-ɗa,Muussa proud person-COP,Intended: ‘Muussa is a proud person.’,"(Shimelis Mazengia, p.c.)",6. (doc4); relates to c
+"orm_ex_26	",orm,,{Muussa nama dureys-umm=tti boon-ø-u},Muussa person rich-NMLZ=LOC proud-3SG.M-DPT,‘Muussa is a person proud of being rich.’,"(Shimelis Mazengia, p.c.)",d
+"orm_ex_27	",orm,,{*Muussa nama dureys-umm=tti boon-aa-ɗa},Muussa person rich-NMLZ=LOC proud-3SG.M-COP,Intended: ‘Muussa is a person proud of being rich.’,"(Shimelis Mazengia, p.c.)",2. (doc4); relates to d
+"orm_ex_28	",orm,,*Muussa nama dureys-umm=tti boon-ø-a,Muussa person rich-NMLZ=LOC proud-3SG.M-IPFV,Intended: ‘Muussa is a person proud of being rich.’,"(Shimelis Mazengia, p.c.)","3. (doc4); relates to d. This is confusing, in 3 (doc4) he writes that boon-ø-a cannot replace boon-aa-ɗa in example d, but in 2 (doc4) he writes that boon-aa-ɗa is ungrammatical in d "
+"orm_ex_29	",orm,,Muussa kan dureys-umma=tti boon-ø-u,Muussa {REL/who} rich-NMLZ=LOC proud-3SG.M-DPT,‘Muussa is (one) who is/gets proud of being rich.’,"(Shimelis Mazengia, p.c.)",4. (doc4); relates to d
+"orm_ex_30	",orm,,*Muussa nama kan dureys-umma=tti boon-ø-u,Muussa person {REL/who} rich-NMLZ=LOC proud-3SG.M-DPT,{?Intended: ‘Muussa is who is/gets proud of being rich.’},"(Shimelis Mazengia, p.c.)",4. (email); relates to d
+"orm_ex_31	",orm,,*Muussa nama boon-ø-u dureys-umm=tti,Muussa person proud-3SG.M-DPT rich-NMLZ=LOC,Intended: ‘Muussa is a person proud of being rich.’,"(Shimelis Mazengia, p.c.)",5. (doc4); relates to d
+"orm_ex_32	",orm,,*Muussa dureys-umma=tti boon-ø-u nama,Muussa rich-NMLZ=LOC proud-3SG.M-DPT person,Intended: ‘Muussa is a person proud of being rich.’,"(Shimelis Mazengia, p.c.)",6. (doc4); relates to d
