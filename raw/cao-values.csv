@@ -12,7 +12,7 @@ cao:A-XP-N,cao,/,
 cao:XP-A-N,cao,/,
 cao:N-AP,cao,yes,
 cao:N-A-XP,cao,yes,
-cao:N-XP-A,cao,,
+cao:N-XP-A,cao,no,ungrammaticality? processing difficulties?
 cao:V,cao,,
 cao:C,cao,,
 cao:P,cao,,
