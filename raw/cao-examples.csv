@@ -4,9 +4,9 @@ cao_ex_02,cao,cao:A/pred,,naa motó tsi ȿo yói.,DEM motorcycle P5 DECL bad,‘
 cao_ex_03,cao,cao:N-A,,honi siri,man old,‘an/the old man’,"(Adam Tallman, p.c.)",
 cao_ex_04,cao,cao:N-A,,motó yói,motorcycle bad,‘a/the bad motorcycle’,"(Adam Tallman, p.c.)",
 cao_ex_05,cao,cao:A/pred; cao:AP,,naa motó tsi ȿo [yói karetera ka=tí].,DEM motorcycle P5 DECL bad highway go=NMLZ:PURP,‘The motorcycle is bad for driving on the highway.’,"(Adam Tallman, p.c.)","Having the modifier phrases after the adjective appears to be more natural, but both of these were accepted."
-cao_ex_06,cao,cao:A/pred,,naa motó tsi ȿo [karetera ka=tí yói].,DEM motorcycle P5 DECL highway go=NMLZ:PURP bad,‘The motorcycle is bad for driving on the highway.’,"(Adam Tallman, p.c.)",
-cao_ex_07,cao,cao:A/pred,,naa yoȿa tsi ȿo [hia adán=kí].,DEM woman P5 DECL pretty Adam=DAT,‘This woman is pretty to Adam (Adam finds her pretty).’,"(Adam Tallman, p.c.)",
-cao_ex_08,cao,cao:A/pred,,naa yoȿa tsi ȿo [adán=kí hia].,DEM woman P5 DECL Adam=DAT pretty,‘This woman is pretty to Adam (Adam finds her pretty).’,"(Adam Tallman, p.c.)",
+cao_ex_06,cao,cao:A/pred; cao:AP,,naa motó tsi ȿo [karetera ka=tí yói].,DEM motorcycle P5 DECL highway go=NMLZ:PURP bad,‘The motorcycle is bad for driving on the highway.’,"(Adam Tallman, p.c.)",
+cao_ex_07,cao,cao:A/pred; cao:AP,,naa yoȿa tsi ȿo [hia adán=kí].,DEM woman P5 DECL pretty Adam=DAT,‘This woman is pretty to Adam (Adam finds her pretty).’,"(Adam Tallman, p.c.)",
+cao_ex_08,cao,cao:A/pred; cao:AP,,naa yoȿa tsi ȿo [adán=kí hia].,DEM woman P5 DECL Adam=DAT pretty,‘This woman is pretty to Adam (Adam finds her pretty).’,"(Adam Tallman, p.c.)",
 cao_ex_09,cao,,,motó [yói karetera ka=tí] kopi=ki paɨ.,motorcycle bad highway go=NMLZ:PURP buy=DECL.NPST Paë,‘Paë buys/will buy a motorcycle (which is) bad for driving on the highway.’,"(Adam Tallman, p.c.)",
 cao_ex_10,cao,,,yoȿa [hia adán=kí] haba=kɨ hawɨ́ ȿóbo=kí.,woman pretty Adam=DAT run=DECL.PST 3SG.GEN house=DAT,‘A woman pretty to Adam (which Adam finds pretty) ran to his house.’,"(Adam Tallman, p.c.)",ki (non-past) forces the subject to appear after the clause-type morpheme (and thus postverbally). 
 cao_ex_11,cao,,,*motó [karetera ka=tí yói] kopi=ki paɨ.,motorcycle highway go=NMLZ:PURP bad buy=DECL.NPST Paë,Intended: ‘Paë buys/will buy a motorcycle (which is) bad for driving on the highway.’,"(Adam Tallman, p.c.)",Speakers insisted on relativizing the constructions with ka(to).
