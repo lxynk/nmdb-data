@@ -1,10 +1,10 @@
 ID,Language,Value,Comment
 cao:A,cao,yes,
-cao:A/pred,cao,,
-cao:AP,cao,,
-cao:A-XP,cao,,
-cao:XP-A,cao,,
-cao:A/attr,cao,,
+cao:A/pred,cao,yes,
+cao:AP,cao,yes,
+cao:A-XP,cao,yes,the more natural alternative
+cao:XP-A,cao,yes,
+cao:A/attr,cao,yes,
 cao:A-N,cao,no,
 cao:N-A,cao,yes,
 cao:AP-N,cao,,
