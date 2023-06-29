@@ -1,0 +1,18 @@
+ID,Language_ID,Parameter_ID,Value,Code_ID,Comment,Source,Example_IDs
+cao_A,cao,A,yes,,,,
+cao_A_pred,cao,A_pred,yes,,,,cao_ex_01 cao_ex_02
+cao_AP,cao,AP,yes,,,,
+cao_A-XP,cao,A-XP,yes,,,,cao_ex_05 cao_ex_07
+cao_XP-A,cao,XP-A,yes,,,,cao_ex_06 cao_ex_08
+cao_A_attr,cao,A_attr,yes,,,,
+cao_A-N,cao,A-N,no,,,,
+cao_N-A,cao,N-A,yes,,,,cao_ex_03 cao_ex_04
+cao_AP-N,cao,AP-N,/,,,,
+cao_A-XP-N,cao,A-XP-N,/,,,,
+cao_XP-A-N,cao,XP-A-N,/,,,,
+cao_N-AP,cao,N-AP,yes,,,,
+cao_N-A-XP,cao,N-A-XP,yes,,,,cao_ex_09 cao_ex_10
+cao_N-XP-A,cao,N-XP-A,no,,,,cao_ex_11 cao_ex_13
+cao_V,cao,V,,,,,
+cao_C,cao,C,,,,,
+cao_P,cao,P,,,,,
