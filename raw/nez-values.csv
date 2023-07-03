@@ -1,5 +1,5 @@
-﻿ID,Language,Value,Comment,
-nez:A,nez,yes,,
+﻿ID,Language,Value,Comment
+nez:A,nez,yes,
 nez:A/pred,nez,yes,Adjectival predication features an obligatory copula
 nez:AP,nez,yes(?),Predicative comparisons?
 nez:A-XP,nez,yes(?),
@@ -13,6 +13,6 @@ nez:XP-A-N,nez,?,
 nez:N-AP,nez,?,
 nez:N-A-XP,nez,?,
 nez:N-XP-A,nez,?,
-nez:V,nez,,,
-nez:C,nez,,,
-nez:P,nez,,,
+nez:V,nez,,
+nez:C,nez,,
+nez:P,nez,,
