@@ -1,6 +1,6 @@
 ﻿ID,Language,Value,Comment
 gug: A,gug,no,No clear morphological class of adjectives. 
-gug: A/pred,gug,yes,Roots must take verbal personal markers (prefixes) to function as independent predicates. 
+gug: A/pred,gug,yes/no,Only roots must with personal markers (prefix). The va-forms cannot be used predicatively.
 gug: AP,gug,yes,
 gug: A-XP,gug,yes,The more natural alternative.
 gug: XP-A,gug,yes,
@@ -10,9 +10,9 @@ gug: N-A,gug,yes,Bare roots can only be placed postnominally.
 gug: AP-N,gug,yes(?),The prenominal placement of a complex AP/RC is not possible independently of the linear position of the dependent.
 gug: A-XP-N,gug,no(?),
 gug: XP-A-N,gug,no(?),
-gug: N-AP,gug,yes/no,Bare roots cannot take depenents. Only postnominal va-forms can. 
-gug: N-A-XP,gug,yes ,Only for va-forms. The more natural alternative.
-gug: N-XP-A,gug,yes ,Only for va-forms. The more natural alternative.
+gug: N-AP,gug,yes/no,Bare roots cannot take dependents. Only postnominal va-forms can. 
+gug: N-A-XP,gug,yes,The more natural alternative.
+gug: N-XP-A,gug,yes,
 gug: V,gug,,
 gug: C,gug,,
 gug: P,gug,,
