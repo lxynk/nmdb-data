@@ -1,7 +1,7 @@
 ﻿ID,Language,Value,Comment
 nez:A,nez,yes,
 nez:A/pred,nez,yes,Adjectival predication features an obligatory copula.
-nez:AP,nez,yes(?),Predicative comparisons?
+nez:AP,nez,yes(?),Predicative comparisons? AP predicate with verb "become" in example file
 nez:A-XP,nez,yes(?),
 nez:XP-A,nez,?,
 nez:A/attr,nez,yes,
