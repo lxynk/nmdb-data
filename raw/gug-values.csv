@@ -7,9 +7,9 @@ gug: XP-A,gug,yes,
 gug: A/attr,gug,yes,Bare roots or forms with the adjectivizer/relativizer -va.
 gug: A-N,gug,yes/no,Bare roots: no. Roots with  -va: yes
 gug: N-A,gug,yes,Bare roots can only be placed postnominally. 
-gug: AP-N,gug,yes(?),The prenominal placement of a complex AP/RC is not possible independently of the linear position of the dependent.
-gug: A-XP-N,gug,no(?),
-gug: XP-A-N,gug,no(?),
+gug: AP-N,gug,yes(?),
+gug: A-XP-N,gug,no(?),The prenominal placement of a complex AP/RC is not possible independently of the linear position of the dependent.
+gug: XP-A-N,gug,no(?),The prenominal placement of a complex AP/RC is not possible independently of the linear position of the dependent.
 gug: N-AP,gug,yes/no,Bare roots cannot take dependents. Only postnominal va-forms can. 
 gug: N-A-XP,gug,yes,The more natural alternative.
 gug: N-XP-A,gug,yes,
