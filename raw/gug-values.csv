@@ -1,7 +1,7 @@
-﻿ID,"Language	",Value,Comment,,,
-gug: A,gug,no,No clear morphological class of adjectives. ,,,
-gug: A/pred,gug,yes,Roots must take verbal personal markers (prefixes) to function as independent predicates. ,,,
-gug: AP,gug,yes,,,,
+﻿ID,"Language	",Value,Comment
+gug: A,gug,no,No clear morphological class of adjectives. 
+gug: A/pred,gug,yes,Roots must take verbal personal markers (prefixes) to function as independent predicates. 
+gug: AP,gug,yes
 gug: A-XP,gug,yes,The more natural alternative.,,,
 gug: XP-A,gug,yes,,,,
 gug: A/attr,gug,yes,Bare roots or forms with the adjectivizer/relativizer -va.,,,
