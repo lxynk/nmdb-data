@@ -1,9 +1,13 @@
 ID,Name
 ABL,ablative
+ABSL,-absolute case
+ACC,accusative
 ACT,-active (voice)
 ADJLZ,adjectivalizer
+AGR,agreement
 AN,-animate (grammatical gender)
 CAUS,causative
+CIS,-cislocative = 'hither'
 COM,comitative
 COMP,complementizer
 COP,copula
@@ -11,17 +15,38 @@ DAT,dative
 DECL,declarative
 DEM,demonstrative
 DIR,-directive
+DPT,-dependent clause marker
+EP,epenthesis
 ERG,ergative
+FOC,-focus marker
+GEN,genitive
+HAB,-habitual/frequentative
+{IPFV},{imperfective}
 IN,-inanimated
 INACT,-inactive
+INS,instrumental
 LOC,locative
+M,masculine
 NMLZ,nominalizer
+NOM,nominative
 NPST,non-past
 OBV,obviative
+{PERF},{perfective}
+{PFV},{perfective??}
 PL,plural
+PRES,-present
+PRO,(pronoun)
+PROG,progressive
 PROX,-proximate
 Purp,-purpose
+RCP,-reciprocal
+REL,(relative particle)
+RM,(remote)
+RP,(relative pronoun)
 SG,singular
+SGV,singulative
 SPAT,spatial
+SUBJ,-subject
 TA,-transitive animate
+TAM,-tense/aspect/mood
 TR,-transitive
