@@ -1,0 +1,18 @@
+﻿ID,Language,Value,Comment
+nez:A,nez,yes,
+nez:A/pred,nez,yes,Adjectival predication features an obligatory copula.
+nez:AP,nez,yes(?),Predicative comparisons? 
+nez:A-XP,nez,yes(?),
+nez:XP-A,nez,?,
+nez:A/attr,nez,yes,
+nez:A-N,nez,yes,
+nez:N-A,nez,yes(?),Adjectival modifiers can be placed postnominally in personal names.
+nez:AP-N,nez,?,
+nez:A-XP-N,nez,?,
+nez:XP-A-N,nez,?,
+nez:N-AP,nez,?,
+nez:N-A-XP,nez,?,
+nez:N-XP-A,nez,?,
+nez:V,nez,,
+nez:C,nez,,
+nez:P,nez,,
