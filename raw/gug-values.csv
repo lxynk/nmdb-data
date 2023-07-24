@@ -16,22 +16,22 @@ gug_A_dep,gug,/,
 gug_A_XP,gug,/,
 gug_XP_A,gug,/,
 ,,,
-gug_V_mod,gug,yes,
-gug_V_N,gug,,
-gug_N_V,gug,,
+gug_V_mod,gug,yes,Bare roots or forms with the adjectivizer/relativizer -va
+gug_V_N,gug,yes,Only -va forms can occur prenominally.
+gug_N_V,gug,yes,
 gug_VP_N,gug,,
 gug_V_XP_N,gug,,
 gug_XP_V_N,gug,,
-gug_N_VP,gug,,
-gug_N_V_XP,gug,,
-gug_N_XP_V,gug,,
-gug_V_attr,gug,,
-gug_V_attr_obl,gug,,
-gug_V_attr_pos,gug,,
-gug_V_pred,gug,,
-gug_V_dep,gug,,	
-gug_V_XP,gug,,		
-gug_XP_V,gug,,
+gug_N_VP,gug,yes,Only -va forms can take dependents. 
+gug_N_V_XP,gug,yes,the neutral/more natural alternative
+gug_N_XP_V,gug,yes,
+gug_V_attr,gug,yes,
+gug_V_attr_obl,gug,yes,The adjectivizer/relativizer -va is obligatory for the -va forms.  
+gug_V_attr_pos,gug,,Attached to the bare roots to create the -va forms. 
+gug_V_pred,gug,yes,To function as independent predicates, roots must take verbal personal markers (prefixes). 
+gug_V_dep,gug,yes,	
+gug_V_XP,gug,yes,the more natural alternative 	
+gug_XP_V,gug,yes,
 ,,,
 gug_C_mod,gug,,
 gug_C_N,gug,,
