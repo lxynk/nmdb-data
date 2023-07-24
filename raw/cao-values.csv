@@ -33,11 +33,11 @@ cao_V_dep,cao,/,
 cao_V_XP,cao,/,		
 cao_XP_V,cao,/,
 
-cao_C_mod,cao,yes, 
+cao_C_mod,cao,yes,
 cao_C_N,cao,no,
 cao_N_C,cao,yes,
 cao_C_attr,cao,yes,=ka,
-cao_C_attr_obl,yes
+cao_C_attr_obl,yes,
 cao_C_attr_pos,attached to the predicate of the RC,
 
 cao_P_mod,cao,yes,
