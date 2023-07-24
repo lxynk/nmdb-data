@@ -28,7 +28,7 @@ gug_N_XP_V,gug,yes,
 gug_V_attr,gug,yes,
 gug_V_attr_obl,gug,yes,The adjectivizer/relativizer -va is obligatory for the -va forms
 gug_V_attr_pos,gug,,Attached to the bare roots to create the -va forms
-gug_V_pred,gug,yes,To function as independent predicates, roots must take verbal personal markers (prefixes)
+gug_V_pred,gug,yes,Roots must take verbal personal markers (prefixes) to function as independent predicates
 gug_V_dep,gug,yes,	
 gug_V_XP,gug,yes,the more natural alternative 	
 gug_XP_V,gug,yes,
