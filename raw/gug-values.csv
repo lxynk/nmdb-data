@@ -19,9 +19,9 @@ gug_XP_A,gug,/,
 gug_V_mod,gug,yes,Bare roots or forms with the adjectivizer/relativizer -va
 gug_V_N,gug,yes,Only -va forms can occur prenominally.
 gug_N_V,gug,yes,
-gug_VP_N,gug,,
-gug_V_XP_N,gug,,
-gug_XP_V_N,gug,,
+gug_VP_N,gug,no,
+gug_V_XP_N,gug,/,
+gug_XP_V_N,gug,/,
 gug_N_VP,gug,yes,Only -va forms can take dependents
 gug_N_V_XP,gug,yes,the neutral/more natural alternative
 gug_N_XP_V,gug,yes,
