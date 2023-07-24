@@ -19,7 +19,7 @@ gug_XP_A,gug,/,
 gug_V_mod,gug,yes,Bare roots or forms with the adjectivizer/relativizer -va
 gug_V_N,gug,yes,Only -va forms can occur prenominally. Bare roots must appear postnominally.
 gug_N_V,gug,yes,
-gug_VP_N,gug,no, The prenominal placement of a complex AP/RC is not possible independently of the linear position.
+gug_VP_N,gug,no,The prenominal placement of a complex AP or RC is not possible independently of the linear position.
 of the dependent.
 gug_V_XP_N,gug,/,
 gug_XP_V_N,gug,/,
