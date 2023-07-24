@@ -27,7 +27,7 @@ cao_N_V_XP,cao,no,
 cao_N_XP_V,cao,yes,
 cao_V_attr,cao,yes,
 cao_V_attr_obl,cao,yes,
-cao_V_attr_pos,cao,attached to the end of the adjectivalized verb stem (?),
+cao_V_attr_pos,cao,,attached to the end of the adjectivalized verb stem (?)
 cao_V_pred,cao,no,
 cao_V_dep,cao,/,	
 cao_V_XP,cao,/,		
@@ -38,6 +38,6 @@ cao_C_N,cao,no,
 cao_N_C,cao,yes,
 cao_C_attr,cao,yes,=ka
 cao_C_attr_obl,cao,yes,
-cao_C_attr_pos,cao,attached to the predicate of the RC,
+cao_C_attr_pos,cao,,attached to the predicate of the RC
 
 cao_P_mod,cao,yes,
