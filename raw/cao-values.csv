@@ -8,7 +8,7 @@ cao_XP_A_N,cao,/,
 cao_N_AP,cao,yes,
 cao_N_A_XP,cao,yes,
 cao_N_XP_A,cao,no,ungrammaticality? processing difficulties?
-cao_A_attr,cao,no
+cao_A_attr,cao,no,
 cao_A_attr_obl,cao,/,
 cao_A_attr_pos,cao,/,
 cao_A_pred,cao,yes,
