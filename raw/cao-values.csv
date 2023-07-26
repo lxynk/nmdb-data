@@ -8,8 +8,8 @@ cao_XP_A_N,cao,/,
 cao_N_AP,cao,yes,
 cao_N_A_XP,cao,yes,
 cao_N_XP_A,cao,no,ungrammaticality? processing difficulties?
-cao_A_attr,cao,yes,BUT 
-cao_A_attr_obl,cao,no,However, =ka(to) is obligatory in N_XP_A cases. 
+cao_A_attr,cao,yes,BUT...
+cao_A_attr_obl,cao,no,But =ka(to) is obligatory in N_XP_A cases. 
 cao_A_attr_pos,cao,/,
 cao_A_pred,cao,yes,
 cao_A_dep,cao,yes,
@@ -33,7 +33,7 @@ cao_V_dep,cao,?,
 cao_V_XP,cao,?,		
 cao_XP_V,cao,?,
 ,,,
-cao_C_mod,cao,yes,BUT 
+cao_C_mod,cao,yes,BUT...
 cao_C_N,cao,no,
 cao_N_C,cao,yes,
 cao_C_attr,cao,yes,=ka(to)
