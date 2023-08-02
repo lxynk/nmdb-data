@@ -1,6 +1,8 @@
 ID,Name
+A,ergative (transitive) subject suffix
 ABL,ablative
 ABSL,-absolute case
+ABSNT,absent
 ACC,accusative
 ACT,-active (voice)
 ADJLZ,adjectivalizer
@@ -8,28 +10,35 @@ AGR,agreement
 AN,-animate (grammatical gender)
 CAUS,causative
 CIS,-cislocative = 'hither'
+CNJ,conjunctive subject clitic
 COM,comitative
 COMP,complementizer
 COP,copula
+CR,consonant reduplication 
 DAT,dative
 DECL,declarative
 DEM,demonstrative
 DIR,-directive
+DIRTR, directive (full control) transitivizer
 DPT,-dependent clause marker
 EP,epenthesis
 ERG,ergative
+EXIS,existential enclitic
 FOC,-focus marker
 GEN,genitive
 HAB,-habitual/frequentative
 {IPFV},{imperfective}
 IN,-inanimated
 INACT,-inactive
+INDTR, indirective transitivizer
 INS,instrumental
 LOC,locative
 M,masculine
 NMLZ,nominalizer
 NOM,nominative
 NPST,non-past
+NTS,non-topical subject marker
+O, object suffix
 OBV,obviative
 {PERF},{perfective}
 {PFV},{perfective??}
@@ -41,8 +50,10 @@ PROX,-proximate
 Purp,-purpose
 RCP,-reciprocal
 REL,(relative particle)
+RELTR,relational (applicative) transitivizer
 RM,(remote)
 RP,(relative pronoun)
+S,indicative subject clitic
 SG,singular
 SGV,singulative
 SPAT,spatial
@@ -50,3 +61,4 @@ SUBJ,-subject
 TA,-transitive animate
 TAM,-tense/aspect/mood
 TR,-transitive
+YNQ,yes-no question enclitic
