@@ -10,7 +10,7 @@ AGR,agreement
 AN,-animate (grammatical gender)
 CAUS,causative
 CIS,-cislocative = 'hither'
-CNJ,conjunctive subject clitic
+CNJ,*conjunctive subject clitic*
 COM,comitative
 COMP,complementizer
 COP,copula
