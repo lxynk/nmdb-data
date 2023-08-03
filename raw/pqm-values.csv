@@ -34,9 +34,11 @@ pqm_V_XP,pqm,/,
 pqm_XP_V,pqm,/,
 ,,,
 pqm_C_mod,pqm,yes,
+pqm_C_int,pqm,yes,
+pqm_C_ext,pqm,yes,
 pqm_C_N,pqm,yes,
-pqm_N_C,pqm,yes,
-pqm_C_attr,pqm,no,OBV,see Email 
+pqm_N_C,pqm,no(?),
+pqm_C_attr,pqm,no,OBV & see Email 
 pqm_C_attr_obl,pqm,/,
 pqm_C_attr_pos,pqm,/,
 ,,,
