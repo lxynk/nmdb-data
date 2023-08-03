@@ -5,6 +5,7 @@ ABSL,-absolute case
 ABSNT,absent
 ACC,accusative
 ACT,-active (voice)
+ACT(lil),active intransitive marker?
 ADJLZ,adjectivalizer
 AGR,agreement
 AN,-animate (grammatical gender)
