@@ -27,15 +27,19 @@ class Dataset(BaseDataset):
         self.schema(args.writer.cldf)
 
         for row in self.raw_dir.read_csv('Parameters.csv', dicts=True):
-            args.writer.objects['ParameterTable'].append(dict(
-                ID=norm_id(row['ID']),
-                Name=row['ID'],
-                Description=row['Parameter'],
-            ))
+            if row['ID']:
+                args.writer.objects['ParameterTable'].append(dict(
+                    ID=norm_id(row['ID']),
+                    Name=row['ID'],
+                    Description=row['Parameter'],
+                ))
 
         exs = collections.defaultdict(list)
         for p in self.raw_dir.glob('*-examples.csv'):
+            print(p)
             for row in reader(p, dicts=True):
+                if not all(k in row for k in  {'Language', 'Translation'}):
+                    continue
                 if row['ID']:
                     args.writer.objects['ExampleTable'].append(dict(
                         ID=row['ID'],
@@ -50,13 +54,14 @@ class Dataset(BaseDataset):
 
         for p in self.raw_dir.glob('*-values.csv'):
             for row in reader(p, dicts=True):
-                args.writer.objects['ValueTable'].append(dict(
-                    ID=norm_id(row['ID']),
-                    Language_ID=row['Language'],
-                    Parameter_ID=norm_id(row['ID'].split(':')[-1]),
-                    Value=row['Value'],
-                    Example_IDs=exs.get(norm_id(row['ID']), []),
-                ))
+                if all(row[k] for k in  {'ID', 'Language', 'Value'}):
+                    args.writer.objects['ValueTable'].append(dict(
+                        ID=norm_id(row['ID']),
+                        Language_ID=row['Language'],
+                        Parameter_ID='_'.join(norm_id(row['ID']).split('_')[1:]),
+                        Value=row['Value'],
+                        Example_IDs=exs.get(norm_id(row['ID']), []),
+                    ))
 
     def schema(self, cldf):
         """
