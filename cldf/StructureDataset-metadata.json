@@ -6,25 +6,25 @@
         }
     ],
     "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#StructureDataset",
-    "dcat:accessURL": "git@github.com:lxynk/nmdb-data",
+    "dcat:accessURL": "https://github.com/xrotwang/nmdb-data",
     "prov:wasDerivedFrom": [
         {
-            "rdf:about": "git@github.com:lxynk/nmdb-data",
+            "rdf:about": "https://github.com/xrotwang/nmdb-data",
             "rdf:type": "prov:Entity",
-            "dc:created": "49ffd2a",
+            "dc:created": "70d3a6d",
             "dc:title": "Repository"
         },
         {
             "rdf:about": "https://github.com/glottolog/glottolog",
             "rdf:type": "prov:Entity",
-            "dc:created": "v4.8",
+            "dc:created": "v4.8-30-gb9bf5497c9",
             "dc:title": "Glottolog"
         }
     ],
     "prov:wasGeneratedBy": [
         {
             "dc:title": "python",
-            "dc:description": "3.8.10"
+            "dc:description": "3.10.12"
         },
         {
             "dc:title": "python-packages",
@@ -36,7 +36,7 @@
     "tables": [
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#ValueTable",
-            "dc:extent": 76,
+            "dc:extent": 125,
             "tableSchema": {
                 "columns": [
                     {
@@ -131,7 +131,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#ParameterTable",
-            "dc:extent": 42,
+            "dc:extent": 50,
             "tableSchema": {
                 "columns": [
                     {
@@ -154,6 +154,12 @@
                         "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#description",
                         "required": false,
                         "name": "Description"
+                    },
+                    {
+                        "datatype": "json",
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#columnSpec",
+                        "required": false,
+                        "name": "ColumnSpec"
                     }
                 ],
                 "primaryKey": [
@@ -164,7 +170,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#ExampleTable",
-            "dc:extent": 90,
+            "dc:extent": 58,
             "tableSchema": {
                 "columns": [
                     {
