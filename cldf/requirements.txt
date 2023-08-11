@@ -8,7 +8,7 @@ certifi==2022.12.7
 -e git+https://github.com/cldf-datasets/doreco/@3a53e441458db06ca371c6504bd9c36bebc5eb17#egg=cldfbench_doreco
 -e git+https://github.com/cldf-datasets/imtvault@0fea706106c6e48291228570cc19fd01892b4eb8#egg=cldfbench_imtvault
 cldfcatalog==1.5.1
--e git+https://github.com/cldf/cldfviz@cc5879950a1abf0fd0397d4cf5d38956c756dab2#egg=cldfviz
+-e git+https://github.com/cldf/cldfviz@79491c2a316daa1dfb570d9f7b2675df202e9b8a#egg=cldfviz
 cldfzenodo==1.1.0
 clldutils==3.19.0
 colorama==0.4.6
