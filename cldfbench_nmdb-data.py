@@ -6,6 +6,8 @@ from csvw.dsv import reader
 from cldfbench import Dataset as BaseDataset
 from cldfbench import CLDFSpec
 
+CODES = ['yes', 'no']
+
 
 def norm_id(s):
     # "/" in ID is problematic because we might want to use ID as part of URLs.
@@ -33,6 +35,12 @@ class Dataset(BaseDataset):
                     Name=row['ID'],
                     Description=row['Parameter'],
                 ))
+                for code in CODES:
+                    args.writer.objects['CodeTable'].append(dict(
+                        ID='{}-{}'.format(norm_id(row['ID']), code),
+                        Parameter_ID=norm_id(row['ID']),
+                        Name=code,
+                    ))
         langs = set()
         exs = collections.defaultdict(list)
         for p in self.raw_dir.glob('*-examples.csv'):
@@ -62,7 +70,8 @@ class Dataset(BaseDataset):
 
         for p in self.raw_dir.glob('*-values.csv'):
             for row in reader(p, dicts=True):
-                if all(row[k] for k in  {'ID', 'Language', 'Value'}):
+                if all(row[k] for k in  {'ID', 'Language', 'Value'}) and any(c in row['Value'] for c in CODES):
+                    code = [c for c in CODES if c in row['Value']][0]
                     if row['Language'] not in langs:
                         glang = args.glottolog.api.languoid(row['Language'])
                         args.writer.objects['LanguageTable'].append(dict(
@@ -75,6 +84,7 @@ class Dataset(BaseDataset):
                         ID=norm_id(row['ID']),
                         Language_ID=row['Language'],
                         Parameter_ID='_'.join(norm_id(row['ID']).split('_')[1:]),
+                        Code_ID='_'.join(norm_id(row['ID']).split('_')[1:]) + '-' + code,
                         Value=row['Value'],
                         Example_IDs=exs.get(norm_id(row['ID']), []),
                     ))
@@ -85,6 +95,7 @@ class Dataset(BaseDataset):
         """
         cldf.add_component('LanguageTable')
         cldf.add_component('ParameterTable')
+        cldf.add_component('CodeTable')
         cldf.add_component('ExampleTable')
         # We add a list-valued foreign key from Values to Examples.
         cldf.add_columns(
