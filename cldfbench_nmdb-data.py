@@ -33,7 +33,7 @@ class Dataset(BaseDataset):
                     Name=row['ID'],
                     Description=row['Parameter'],
                 ))
-
+        langs = set()
         exs = collections.defaultdict(list)
         for p in self.raw_dir.glob('*-examples.csv'):
             print(p)
@@ -41,6 +41,14 @@ class Dataset(BaseDataset):
                 if not all(k in row for k in  {'Language', 'Translation'}):
                     continue
                 if row['ID']:
+                    if row['Language'] not in langs:
+                        glang = args.glottolog.api.languoid(row['Language'])
+                        args.writer.objects['LanguageTable'].append(dict(
+                            ID=row['Language'],
+                            Name=glang.name,
+                            Latitude=glang.latitude,
+                            Longitude=glang.longitude))
+                        langs.add(row['Language'])
                     args.writer.objects['ExampleTable'].append(dict(
                         ID=row['ID'],
                         Language_ID=row['Language'],
@@ -55,6 +63,14 @@ class Dataset(BaseDataset):
         for p in self.raw_dir.glob('*-values.csv'):
             for row in reader(p, dicts=True):
                 if all(row[k] for k in  {'ID', 'Language', 'Value'}):
+                    if row['Language'] not in langs:
+                        glang = args.glottolog.api.languoid(row['Language'])
+                        args.writer.objects['LanguageTable'].append(dict(
+                            ID=row['Language'],
+                            Name=glang.name,
+                            Latitude=glang.latitude,
+                            Longitude=glang.longitude))
+                        langs.add(row['Language'])
                     args.writer.objects['ValueTable'].append(dict(
                         ID=norm_id(row['ID']),
                         Language_ID=row['Language'],
@@ -67,6 +83,7 @@ class Dataset(BaseDataset):
         """
         Add custom additions to the default schema of a StructureDataset
         """
+        cldf.add_component('LanguageTable')
         cldf.add_component('ParameterTable')
         cldf.add_component('ExampleTable')
         # We add a list-valued foreign key from Values to Examples.
