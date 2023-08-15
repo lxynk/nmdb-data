@@ -42,7 +42,7 @@ pqm_C_attr,pqm,no,OBV & see Email
 pqm_C_attr_obl,pqm,/,
 pqm_C_attr_pos,pqm,/,
 ,,,
-pqm_P_mod,pqm,,
+pqm_P_mod,pqm,yes,
 pqm_Prep,pqm,yes,		
 pqm_Post,pqm,no(?),		
 pqm_Prep_N,pqm,yes,		
