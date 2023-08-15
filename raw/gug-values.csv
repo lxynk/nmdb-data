@@ -1,37 +1,37 @@
 ﻿ID,Language,Value,Comment
-gug_A_mod,gug,yes, No clear morphological class of adjectives: roots can be used as nouns; verbs; or adjectives (Estigarribia 2020:87).
+gug_A_mod,gug,yes, No clear morphological class of adjectives: roots can be used as nouns; verbs; or adjectives (Estigarribia 2020:87). The bare roots will be categorized into this section.
 gug_A_N,gug,no,
-gug_N_A,gug,/,
+gug_N_A,gug,yes,
 gug_AP_N,gug,/,
 gug_A_XP_N,gug,/,
 gug_XP_A_N,gug,/,
-gug_N_AP,gug,/,
+gug_N_AP,gug,no,
 gug_N_A_XP,gug,/,
 gug_N_XP_A,gug,/,
-gug_A_attr,gug,/,
+gug_A_attr,gug,no,
 gug_A_attr_obl,gug,/,
 gug_A_attr_pos,gug,/,
-gug_A_pred,gug,/,
-gug_A_dep,gug,/,
-gug_A_XP,gug,/,
-gug_XP_A,gug,/,
+gug_A_pred,gug,yes,Roots must take verbal personal markers to function as independent predicates.
+gug_A_dep,gug,yes,
+gug_A_XP,gug,yes,the more natural alternative 
+gug_XP_A,gug,yes,
 ,,,
-gug_V_mod,gug,yes,Bare roots or forms with the adjectivizer/relativizer -va
-gug_V_N,gug,yes,Only -va forms can occur prenominally. Bare roots must appear postnominally.
-gug_N_V,gug,yes,
-gug_VP_N,gug,no,The prenominal placement of a complex AP is not possible independently of the linear position of the dependent.
-gug_V_XP_N,gug,/,
-gug_XP_V_N,gug,/,
-gug_N_VP,gug,yes,Only -va forms can take dependents. Bare roots cannot take dependents. 
+gug_V_mod,gug,yes,Bare roots with the adjectivizer/relativizer -va
+gug_V_N,gug,yes,
+gug_N_V,gug,yes, the more common placement
+gug_VP_N,gug,yes(?),
+gug_V_XP_N,gug,yes(?),
+gug_XP_V_N,gug,yes(?),
+gug_N_VP,gug,yes,
 gug_N_V_XP,gug,yes,the neutral/more natural alternative
 gug_N_XP_V,gug,yes,
-gug_V_attr,gug,yes,
-gug_V_attr_obl,gug,yes,The adjectivizer/relativizer -va is obligatory for the -va forms.
-gug_V_attr_pos,gug,,Attached to the bare roots to create the -va forms
-gug_V_pred,gug,yes,Roots must take verbal personal markers (prefixes) to function as independent predicates. Forms with the sufix -va (adjectivizer/relativizer) cannot be used predicatively.
-gug_V_dep,gug,yes,	
-gug_V_XP,gug,yes,the more natural alternative 	
-gug_XP_V,gug,yes,
+gug_V_attr,gug,yes,-va 
+gug_V_attr_obl,gug,yes,
+gug_V_attr_pos,gug,,Attached to the end of  bare roots to create the -va forms
+gug_V_pred,gug,no,  
+gug_V_dep,gug,/,	
+gug_V_XP,gug,/,
+gug_XP_V,gug,/,
 ,,,
 gug_C_mod,gug,,
 gug_C_N,gug,,
@@ -41,3 +41,12 @@ gug_C_attr_ob,gug,,
 gug_C_attr_pos,gug,,
 ,,,
 gug_P_mod,gug,,
+gug_Prep,gug,,		
+gug_Post,gug,,		
+gug_Prep_N,gug,,		
+gug_N_Prep,gug,,		
+gug_Post_N,gug,, 
+gug_N_Post,gug,,
+gug_P_attr,gug,,
+gug_P_attr_obl,gug,,
+gug_attr_pos,gug,,
