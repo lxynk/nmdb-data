@@ -47,8 +47,8 @@ pqm_Prep,pqm,yes,
 pqm_Post,pqm,no(?),		
 pqm_Prep_N,pqm,yes,		
 pqm_N_Prep,pqm,yes,		
-pqm_Post_N,pqm,\, 
-pqm_N_Post,pqm,\,
+pqm_Post_N,pqm,/, 
+pqm_N_Post,pqm,/,
 pqm_P_attr,pqm,yes,
 pqm_P_attr_obl,pqm,yes,-k
 pqm_attr_pos,pqm,,attached to the last element of the adpositional phrases
