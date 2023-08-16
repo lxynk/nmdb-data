@@ -1,4 +1,4 @@
-﻿ID,Language,Parameter,Original,Morphemic,Gloss,Translation ,Source,Comment
+﻿ID,Language,Parameter,Original,Morphemic,Gloss,Translation,Source,Comment
 lil_ex_01,lil,,,waʔ páqʷuʔ(=Ø) ta=sk̓ʷúk̓ʷmiʔt=a,IPFV afraid(=3.S) DET=child=EXIS,‘The child is scared.’,"(Henry Davis, p.c.)",
 lil_ex_02,lil,,,*waʔ páqʷuʔ(=Ø) ta=sk̓ʷúk̓ʷmiʔt=a ʔi=sk̓ák̓y̓ət=a,IPFV afraid(=3.S) DET=child=EXIS PL.DET=spider=EXIS,Intended: ‘The child is scared of spiders.’,"(Henry Davis, p.c.)",Adjectives themselves may not take complements either as predicates or as modifiers.
 lil_ex_03,lil,,,waʔ paqʷuʔ-mín(-Ø)-as ta=sk̓ʷúk̓ʷmiʔt=a ʔi=sk̓ák̓y̓ət=a,IPFV afraid-RELTR(-3.O)-3A DET=child=EXIS PL.DET=spider=EXIS,‘The child is scared of spiders.’,"(Henry Davis, p.c.)",Adjectives have to be converted into transitive verbs (typically by means of the relational applicative transitivizer -min(')) to be able to take complements.
