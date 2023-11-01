@@ -25,6 +25,7 @@ DPT,-dependent clause marker
 EP,epenthesis
 ERG,ergative
 EXIS,existential enclitic
+FIN,finite
 FOC,-focus marker
 GEN,genitive
 HAB,-habitual/frequentative
@@ -35,7 +36,9 @@ INDTR, indirective transitivizer
 INS,instrumental
 LOC,locative
 M,masculine
+NFIN,non-finite
 NMLZ,nominalizer
+NHUM,non-human
 NOM,nominative
 NPST,non-past
 NTS,non-topical subject marker
@@ -48,6 +51,7 @@ PRES,-present
 PRO,(pronoun)
 PROG,progressive
 PROX,-proximate
+PRS,??
 Purp,-purpose
 RCP,-reciprocal
 REL,(relative particle)
@@ -58,6 +62,7 @@ S,indicative subject clitic
 SG,singular
 SGV,singulative
 SPAT,spatial
+STAT: stative
 SUBJ,-subject
 TA,-transitive animate
 TAM,-tense/aspect/mood
