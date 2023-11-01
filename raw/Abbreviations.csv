@@ -62,7 +62,7 @@ S,indicative subject clitic
 SG,singular
 SGV,singulative
 SPAT,spatial
-STAT: stative
+STAT,stative
 SUBJ,-subject
 TA,-transitive animate
 TAM,-tense/aspect/mood
