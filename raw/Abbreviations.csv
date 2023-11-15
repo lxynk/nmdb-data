@@ -9,6 +9,7 @@ ACT(lil),active intransitive marker?
 ADJLZ,adjectivalizer
 AGR,agreement
 AN,-animate (grammatical gender)
+ART,article
 CAUS,causative
 CIS,-cislocative = 'hither'
 CNJ,*conjunctive subject clitic*
@@ -22,6 +23,7 @@ DEM,demonstrative
 DIR,-directive
 DIRTR, directive (full control) transitivizer
 DPT,-dependent clause marker
+DYN,dynamic?
 EP,epenthesis
 ERG,ergative
 EXIS,existential enclitic
