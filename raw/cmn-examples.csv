@@ -1,17 +1,15 @@
 ﻿ID,Language,Parameter,Original,Morphemic,Gloss,Translation ,Source,Comment
-cmn_ex_01,cmn,,,tā shi yi-ge hǎo rén,3SG be one-CL good person,‘S/he is a good person.’,"(Li & Thompson_1981, p. 117)",
+cmn_ex_01,cmn,cmn_A_N,,tā shi yi-ge hǎo rén,3SG be one-CL good person,‘S/he is a good person.’,"(Li & Thompson_1981, p. 117)",
 cmn_ex_02,cmn,,,tā shi yi-ge hěn hǎo de rén,3SG be one-CL  very good de person,‘S/he is a very good person.’,,
 cmn_ex_03,cmn,,,*tā shi yi-ge hěn hǎo rén,3SG be one-CL  very good person,Intended: ‘S/he is a very good person.’,,Huang (2006) states that complex adjectives can not occur alone in the modifier position. A intervening de is required.
-cmn_ex_04,cmn,,,tā hěn pàng,3SG very fat,‘S/He is fat.’ / ‘S/He is very fat.’ ,,
-cmn_ex_05,cmn,,,"tā pàng, *(Zhāngsān bú pàng)",3SG fat *(Zhāngsān NEG fat),‘S/He is fat (and Zhāngsān is not fat).’,"(Li & Thompson_1981, p. 143)","Li & Thompson (1981) allows the use of adjectives such as pàng alone, while Huang (2006) claims that they can't stand alone in a predicate position, a degree modifier such as hěn is required. "
-cmn_ex_06,cmn,,,qí zìxíngchē de rén,ride bicycle de person,‘people who ride bicyle’,"(Li & Thompson_1981, p. 116)",
-cmn_ex_07,cmn,,,lái-le yi-ge rén *(hěn) yònggōng,come-ASP one-CL person (very) hardworking,‘There came a person who is (very) hard-working.’,"(Huang_2006, p.351)",Huang (2006) also claims that hěn is required here. 
-cmn_ex_08,cmn,,,"tā yǒu yi-ge mèimei, hěn xǐhuān kàn diànyǐng",3SG exist one-CL younger-sister very like see movie,‘S/He has a younger sister who likes to see movies.’,"(Li & Thompson_1981, p. 611)",Li & Thompson (1981) defines such constructions as descriptive clausese. It involves a transitive verb who direct object is described by a following clause.
-cmn_ex_09,cmn,,,tā yǒu yi-ge hěn xǐhuān kàn diànyǐng mèimei,3SG exist one-CL very like see movie de younger-sister,‘S/He has a younger sister who likes to see movies.’,"(Li & Thompson_1981, p. 613)",RC as nominal modifiers
-cmn_ex_10,cmn,,,zhuōzi shàng de shū,table above de book,‘books on the table’,,
-cmn_ex_10,cmn,,,zhuōzi shàng de shū,table above de book,‘books on the table’,,
-cmn_ex_11,cmn,,,??duì zhe-ge jiéguǒ mǎnyì de rén,towards this-CL result statisfied de person,‘people who are statisfied with this result’,,
-cmn_ex_12,cmn,,,kèhù duì zhe-ge jiéguǒ hěn mǎnyì,customer to this-CL result very statisfied,‘Customers are (very) statisfied with this result.’,,
-cmn_ex_13,cmn,,,??kèhù hěn mǎnyì yú zhe-ge jiéguǒ,customer very statisfied to/with this-CL result,‘Customers are (very) statisfied with this result.’,,
-cmn_ex_14,cmn,,,duì zhe-ge jiéguǒ hěn mǎnyì de kèhù, to this-CL result very statisfied de customer,‘customers who are (very) statisfied with this result’,,
-cmn_ex_15,cmn,,,??hěn mǎnyì yú zhe-ge jiéguǒ de kèhù,very statisfied to/with this-CL result de customer,‘customers who are (very) statisfied with this result’,,
+cmn_ex_04,cmn,cmn_A_pred,,tā hěn pàng,3SG very fat,‘S/He is fat.’ / ‘S/He is very fat.’ ,,
+cmn_ex_05,cmn,cmn_A_pred,,"tā pàng, *(Zhāngsān bú pàng)",3SG fat *(Zhāngsān NEG fat),‘S/He is fat (and Zhāngsān is not fat).’,"(Li & Thompson_1981, p. 143)","Li & Thompson (1981) allows the use of adjectives such as pàng alone, while Huang (2006) claims that they can't stand alone in a predicate position, a degree modifier such as hěn is required. "
+cmn_ex_06,cmn,cmn_V_XP_N？,,qí zìxíngchē de rén,ride bicycle de person,‘people who ride bicyle’,"(Li & Thompson_1981, p. 116)",
+cmn_ex_07,cmn,cmn_N_A？,,lái-le yi-ge rén *(hěn) yònggōng,come-ASP one-CL person (very) hardworking,‘There came a person who is (very) hard-working.’,"(Huang_2006, p.351)",Huang (2006) also claims that hěn is required here. 
+cmn_ex_08,cmn,cmn_N_V_XP？cmn_N_C,,"tā yǒu yi-ge mèimei, hěn xǐhuān kàn diànyǐng",3SG exist one-CL younger-sister very like see movie,‘S/He has a younger sister who likes to see movies.’,"(Li & Thompson_1981, p. 611)",Li & Thompson (1981) defines such constructions as descriptive clausese. It involves a transitive verb who direct object is described by a following clause.
+cmn_ex_09,cmn,cmn_C_N？cmn_V_XP_N？,,tā yǒu yi-ge hěn xǐhuān kàn diànyǐng mèimei,3SG exist one-CL very like see movie de younger-sister,‘S/He has a younger sister who likes to see movies.’,"(Li & Thompson_1981, p. 613)",RC as nominal modifiers
+cmn_ex_10,cmn,cmn_Post_N,,zhuōzi shàng de shū,table above de book,‘books on the table’,,
+cmn_ex_11,cmn,cmn_XP_A,,kèhù duì zhe-ge jiéguǒ hěn mǎnyì,customer to this-CL result very statisfied,‘Customers are (very) statisfied with this result.’,,
+cmn_ex_12,cmn,cmn_A_XP,,??kèhù hěn mǎnyì yú zhe-ge jiéguǒ,customer very statisfied to/with this-CL result,‘Customers are (very) statisfied with this result.’,,
+cmn_ex_13,cmn,cmn_XP_A_N,,duì zhe-ge jiéguǒ hěn mǎnyì de kèhù, to this-CL result very statisfied de customer,‘customers who are (very) statisfied with this result’,,
+cmn_ex_14,cmn,cmn_A_XP_N,,??hěn mǎnyì yú zhe-ge jiéguǒ de kèhù,very statisfied to/with this-CL result de customer,‘customers who are (very) statisfied with this result’,,
