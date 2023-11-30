@@ -18,7 +18,7 @@ cmn_XP_A,cmn,yes(?),
 ,,,
 cmn_V_mod,cmn,yes, Li & Thompson (1981) claims that this is also clausal because the nominalizer de can not be omitted here. 
 cmn_V_N,cmn,yes,
-cmn_N_V,cmn,no(?),
+cmn_N_V,cmn,no??,
 cmn_VP_N,cmn,,
 cmn_V_XP_N,cmn,yes, 
 cmn_XP_V_N,cmn,no,
@@ -35,18 +35,18 @@ cmn_XP_V,cmn,,
 ,,,
 cmn_C_mod,cmn,yes, 
 cmn_C_N,cmn,yes,
-cmn_N_C,cmn,no??,
-cmn_C_attr,cmn,yes,de
-cmn_C_attr_obl,cmn,yes,de is required here
+cmn_N_C,cmn,?,
+cmn_C_attr,cmn,yes,DE
+cmn_C_attr_obl,cmn,yes,DE is required here
 cmn_C_attr_pos,cmn,between modifiers and the head noun,
 ,,,
-cmn_P_mod,cmn,yes, Li & Thompson (1981) claims that this is also clausal because the nominalizer de can not be omitted here. 
-cmn_Prep,cmn,no,		
+cmn_P_mod,cmn,yes, Li & Thompson (1981) claim that this is also clausal because the nominalizer DE can not be omitted here. 
+cmn_Prep,cmn,?,		
 cmn_Post,cmn,yes,		
-cmn_Prep_N,cmn,/,		
-cmn_N_Prep,cmn,/,		
+cmn_Prep_N,cmn,?,		
+cmn_N_Prep,cmn,no,		
 cmn_Post_N,cmn,yes, 
 cmn_N_Post,cmn,no,
-cmn_P_attr,cmn,yes(?), 
-cmn_P_attr_obl,cmn,yes,de is required here. 
+cmn_P_attr,cmn,yes, 
+cmn_P_attr_obl,cmn,yes,DE is required here. 
 cmn_P_attr_pos,cmn,between the adpositional modifiers and the head nouns,
