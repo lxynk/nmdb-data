@@ -4,17 +4,18 @@ Babel==2.11.0
 bs4==0.0.1
 Cartopy==0.21.1
 certifi==2022.12.7
--e git+https://github.com/cldf/cldfbench@f78799decd24b27704dca69e88ba84821191599d#egg=cldfbench
--e git+https://github.com/cldf-datasets/doreco/@3a53e441458db06ca371c6504bd9c36bebc5eb17#egg=cldfbench_doreco
--e git+https://github.com/cldf-datasets/imtvault@0fea706106c6e48291228570cc19fd01892b4eb8#egg=cldfbench_imtvault
+cldfbench==1.14.0
+-e git+https://github.com/cldf-datasets/doreco/@fb1a5134fb65f845a00d029a257c21463fda7f97#egg=cldfbench_doreco
+-e git+https://github.com/cldf-datasets/imtvault@1087aa3d1dc1d846bf2fdc986290d7950025c03b#egg=cldfbench_imtvault
+-e git+https://github.com/cldf-datasets/rangelovvanuatu@f96ca8f58792d9bbd2dc7d80a62540e79639d6e1#egg=cldfbench_rangelovvanuatu
 cldfcatalog==1.5.1
--e git+https://github.com/cldf/cldfviz@79491c2a316daa1dfb570d9f7b2675df202e9b8a#egg=cldfviz
+cldfviz==1.0.1
 cldfzenodo==1.1.0
-clldutils==3.19.0
+clldutils==3.20.0
 colorama==0.4.6
 colorlog==6.7.0
 commonnexus==1.2.0
-csvw==3.1.3
+csvw==3.2.0
 cycler==0.11.0
 exceptiongroup==1.1.0
 gitdb==4.0.10
@@ -28,7 +29,7 @@ jmespath==1.0.1
 jsonschema==4.17.3
 kiwisolver==1.4.4
 Levenshtein==0.20.9
--e git+https://github.com/cldf/linglit@c7c55b4149647f8974228caf7a7548bd74165dbf#egg=linglit
+-e git+https://github.com/cldf/linglit@ccdc08844cc8736beca42d29c5cc1a65c303819f#egg=linglit
 lxml==4.9.2
 Markdown==3.4.1
 MarkupSafe==2.1.1
@@ -42,7 +43,7 @@ packaging==23.0
 pluggy==1.0.0
 purl==1.6
 pybtex==0.24.0
-pycldf==1.34.1
+pycldf==1.36.0
 pyclts==3.1.1
 pycountry==22.3.5
 pydub==0.25.1

@@ -11,13 +11,13 @@
         {
             "rdf:about": "https://github.com/xrotwang/nmdb-data",
             "rdf:type": "prov:Entity",
-            "dc:created": "2d2974e",
+            "dc:created": "cb18ff2",
             "dc:title": "Repository"
         },
         {
             "rdf:about": "https://github.com/glottolog/glottolog",
             "rdf:type": "prov:Entity",
-            "dc:created": "v4.8-30-gb9bf5497c9",
+            "dc:created": "v4.8",
             "dc:title": "Glottolog"
         }
     ],
