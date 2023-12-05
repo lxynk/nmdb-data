@@ -1,0 +1,25 @@
+﻿ID,Language,Parameter,Original,Morphemic,Gloss,Translation ,Source,Comment
+abk_ex_01,abk,abk_XP_V,,à-c°’ca jə̀-la yə-t°ə̀-wp’,the-glass water-with (I)3SG.NHUM-full-STAT.FIN.PRS,The glass is full of water.,"(Hewitt_1979, p. 109)","Hewitt (1979) glosses yə- as ‘it’ in such cases. In the context of human nouns, də- ‘(s)he’ is used instead, as in the examples below. For a description/discussion of column I-III affixes, see pp. 101-103."
+abk_ex_02,abk,abk_C_N,,jə̀-la yə-t°ə̀-w à-c°’ca,water-with (I)REL/3SG.NHUM-full-STAT.NFIN the-glass,the glass full of water,"(George Hewitt, p.c.)","By contrast, such occurrences of yə- are glossed as ‘who’ in Hewitt (1979; e.g., p. 36). The examples below show that it remains invariant with human nouns."
+abk_ex_03,abk,abk_N_C,,à-c°’ca jə̀-la yə-t°ə̀-w,the-glass water-with (I)REL/3SG.NHUM-full-STAT.NFIN,the glass full of water,"(George Hewitt, p.c)",
+abk_ex_04,abk,abk_V_XP,,à-c°’ca (∅-)t°ə-wp’ jə̀-la ,the-glass full-STAT.FIN.PRS water-with,The glass is full of water.,"(Hewitt_1979, p. 110)",The yə- marker disappears/becomes null when its referent immediately precedes the verb (p. 101).
+abk_ex_05,abk,abk_C_N,,yə-t°ə-w jə̀-la à-c°’ca,(I)REL/3SG. NHUM-full-STAT-NFIN water-with the-glass,the glass full of water,"(George Hewitt, p.c)",The relative affix yə- can’t be omitted on the relativized verb.
+abk_ex_06,abk,abk_N_C,,à-c°’ca yə-t°ə-w jə̀-la,the glass (I)REL/3SG. NHUM-full-STAT-NFIN water-with,the glass full of water,"(George Hewitt, p.c)",
+abk_ex_07,abk,abk_XP_A,,a-xàc’a a-š°q°’-k°à d-rə-z-ʈʂ’-lə̀mħa-wp’,the-man the-book-PL (I)3SG.HUM- (II)3PL-for- mouth-ear-STAT.FIN.PRS,That man is interested in books.,"(Hewitt_1979, p. 109)","The order adjective/stat.verb ≻ complement is available only if the latter is a PP (p. 109), cf. examples above."
+abk_ex_08,abk,abk_N_XP_V,,a-š°q°’-k°à yə-rə-z-ʈʂ’-lə̀mħa-w a-xàc’a,the-book-PL (I)REL/3SG.NHUM- (II)3PL-for- mouth-ear-STAT.NFIN the-man,the man interested in books,"(George Hewitt, p.c)",
+abk_ex_09,abk,abk_XP_V_N,,a-xàc’a a-š°q°’-k°à yə-rə-z-ʈʂ’-lə̀mħa-w,the-man the-book-PL (I)REL/3SG.NHUM- (II)3PL-for- mouth-ear-STAT.NFIN,the man interested in books,"(George Hewitt, p.c)",
+abk_ex_10,abk,abk_Post_N,,Očamčə̀ra-nt°’ à-jɣab,O.-from the girl,the girl from Očamčira,"(Hewitt_1979, p. 58) & (George Hewitt, p.c)",
+abk_ex_11,abk,abk_N_Post,,à-jɣab Očamčə̀ra-nt°’,the girl O-from,the girl from Očamčira,"(Hewitt_1979, p. 58) & (George Hewitt, p.c)",
+abk_ex_12,abk,abk_Post_N,,Àxra yə-zə̀(n)/ yə-zə̀ħ°a(n) a-ħàmta,A. (II)3SG.HUM.M.-for/ (II)3SG.HUM.M.-for the present,the present for Axra,"(Hewitt_1979, p. 113) & (George Hewitt, p.c)",
+abk_ex_14,abk,abk_N_Post,,a-ħàmta Àxra yə-zə̀(n)/ yə-zə̀ħ°a(n) ,the present A. (II)3SG.HUM.M.-for/ (II)3SG.HUM.M.-for,the present for Axra,"(Hewitt_1979, p. 113) & (George Hewitt, p.c)",
+abk_ex_15,abk,,,Meràb də-y-də̀r-we-yt’ rc’ay°ə̀-s yə̀-q’o-w a-pħ°ə̀s,M. her-he-know-DYN.Fin-teacher-PRED who-be.STAT.NFIN the-woman ,Merab knows the woman who is a teacher.,"(Hewitt_1979, p. 36)", 
+abk_ex_16,abk,,,Meràb də-y-də̀r-we-yt’ a-xàc’a yə̀-y-ba-(-z) a-pħ°ə̀s,M. her-he-know-Dyn.Fin the-man whom-he-see-NFIN. the-woman ,Merab knows the woman whom the man saw.,"(Hewitt_1979, p. 36)",  
+abk_ex_17,abk,,,jɣab bzə̀ya-k,girl good-1,one/a good girl,"(Hewitt_1979, p. 222)", 
+abk_ex_18,abk,,,kə̀rt+wa jɣab-k,Georgian girl-1,one/a Georgian girl,"(Hewitt_1979, p. 222)", 
+abk_ex_19,abk,,,arə̀y à-jɣab də-bzə̀yo-w+p’,ART.-girl she-good.STAT,This girl is good.,"(Hewitt_1979, p. 226)", 
+abk_ex_19,abk,,,arə̀y à-jɣab də-kə̀rt+wo-w+p’,ART.-girl she-Georgian.STAT,This girl is Georgian.,"(Hewitt_1979, p. 226)", 
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,

@@ -1,0 +1,52 @@
+ID,Language,Value,Comment
+cmn_A_mod,cmn,yes,
+cmn_A_N,cmn,yes,
+cmn_N_A,cmn,no,
+cmn_AP_N,cmn,no?,
+cmn_A_XP_N,cmn,,
+cmn_XP_A_N,cmn,,
+cmn_N_AP,cmn,/,
+cmn_N_A_XP,cmn,/,
+cmn_N_XP_A,cmn,/,
+cmn_A_attr,cmn,?, de or de-less
+cmn_A_attr_obl,cmn,,
+cmn_A_attr_pos,cmn,,
+cmn_A_pred,cmn,yes, 
+cmn_A_dep,cmn,yes(?),
+cmn_A_XP,cmn,no,
+cmn_XP_A,cmn,yes(?),
+,,,
+cmn_V_mod,cmn,yes, Li & Thompson (1981) claims that this is also clausal because the nominalizer de can not be omitted here. 
+cmn_V_N,cmn,yes,
+cmn_N_V,cmn,no??,
+cmn_VP_N,cmn,,
+cmn_V_XP_N,cmn,yes, 
+cmn_XP_V_N,cmn,no,
+cmn_N_VP,cmn,,
+cmn_N_V_XP,cmn,,
+cmn_N_XP_V,cmn,,
+cmn_V_attr,cmn,yes(?),
+cmn_V_attr_obl,cmn,yes,de is required here.
+cmn_V_attr_pos,cmn,between the modifiers and the head nouns,
+cmn_V_pred,cmn,no?,the line between deverbal elements and verbal elements in the predicate position is not so clear
+cmn_V_dep,cmn,,	
+cmn_V_XP,cmn,,		
+cmn_XP_V,cmn,,
+,,,
+cmn_C_mod,cmn,yes, 
+cmn_C_N,cmn,yes,
+cmn_N_C,cmn,?,
+cmn_C_attr,cmn,yes,DE
+cmn_C_attr_obl,cmn,yes,DE is required here
+cmn_C_attr_pos,cmn,between modifiers and the head noun,
+,,,
+cmn_P_mod,cmn,yes, Li & Thompson (1981) claim that this is also clausal because the nominalizer DE can not be omitted here. 
+cmn_Prep,cmn,?,		
+cmn_Post,cmn,yes,		
+cmn_Prep_N,cmn,?,		
+cmn_N_Prep,cmn,no,		
+cmn_Post_N,cmn,yes, 
+cmn_N_Post,cmn,no,
+cmn_P_attr,cmn,yes, 
+cmn_P_attr_obl,cmn,yes,DE is required here. 
+cmn_P_attr_pos,cmn,between the adpositional modifiers and the head nouns,

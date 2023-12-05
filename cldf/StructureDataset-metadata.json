@@ -11,7 +11,7 @@
         {
             "rdf:about": "https://github.com/xrotwang/nmdb-data",
             "rdf:type": "prov:Entity",
-            "dc:created": "cb18ff2",
+            "dc:created": "2f948ea",
             "dc:title": "Repository"
         },
         {
@@ -36,7 +36,7 @@
     "tables": [
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#ValueTable",
-            "dc:extent": 60,
+            "dc:extent": 149,
             "tableSchema": {
                 "columns": [
                     {
@@ -153,7 +153,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#LanguageTable",
-            "dc:extent": 4,
+            "dc:extent": 7,
             "tableSchema": {
                 "columns": [
                     {
@@ -318,7 +318,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#ExampleTable",
-            "dc:extent": 58,
+            "dc:extent": 112,
             "tableSchema": {
                 "columns": [
                     {

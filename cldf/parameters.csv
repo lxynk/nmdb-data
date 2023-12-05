@@ -1,51 +1,51 @@
-ID,Name,Description,ColumnSpec
-A_mod,A_mod,Are there (non-deverbal) adjectival modifiers?,
-A_N,A_N,Can adjectival modifiers be placed prenominally?,
-N_A,N_A,Can adjectival modifiers be placed postnominally?,
-AP_N,AP_N,Can prenominal adjectival modifiers take dependents?,
-A_XP_N,A_XP_N,Can the dependent follow the head in prenominal adjectival modifiers?,
-XP_A_N,XP_A_N,Can the dependent precede the head in prenominal adjectival modifiers?,
-N_AP,N_AP,Can postnominal adjectival modifiers take dependents?,
-N_A_XP,N_A_XP,Can the dependent follow the head in postnominal adjectival modifiers?,
-N_XP_A,N_XP_A,Can the dependent precede the head in postnominal adjectival modifiers?,
-A_attr,A_attr,Can adjectival modifiers have an overt attributive marker?,
-A_attr_obl,A_attr_obl,Is the attributive marker obligatory with adjectival modifiers?,
-A_attr_pos,A_attr_pos,What is the position of the attributive marker with adjectival modifiers?,
-A_pred,A_pred,Can adjectives be used as predicates?,
-A_dep,A_dep,Can predicative adjectives take dependents?,
-A_XP,A_XP,Can the dependent follow a predicative adjective?,
-XP_A,XP_A,Can the dependent precede a predicative adjective?,
-V_mod,V_mod,Are there deverbal modifiers?,
-V_N,V_N,,
-N_V,N_V,,
-VP_N,VP_N,,
-V_XP_N,V_XP_N,,
-XP_V_N,XP_V_N,,
-N_VP,N_VP,,
-N_V_XP,N_V_XP,,
-N_XP_V,N_XP_V,,
-V_attr,V_attr,,
-V_attr_obl,V_attr_obl,,
-V_attr_pos,V_attr_pos,,
-V_pred,V_pred,,
-V_dep,V_dep,,
-V_XP,V_XP,,
-XP_V,XP_V,,
-C_mod,C_mod,Are there clausal modifiers?,
-C_int,C_int,,
-C_ext,C_ext,,
-C_N,C_N,,
-N_C,N_C,,
-C_attr,C_attr,,
-C_attr_obl,C_attr_obl,,
-C_attr_pos,C_attr_pos,,
-P_mod,P_mod,Are there adpositional modifiers?,
-Prep,Prep,,
-Post,Post,,
-Prep_N,Prep_N,,
-N_Prep,N_Prep,,
-Post_N,Post_N,,
-N_Post,N_Post,,
-P_attr,P_attr,,
-P_attr_obl,P_attr_obl,,
-P_attr_pos,P_attr_pos,,
+ID,Name,Description
+A_mod,A_mod,Are there (non-deverbal) adjectival modifiers?
+A_N,A_N,Can adjectival modifiers be placed prenominally?
+N_A,N_A,Can adjectival modifiers be placed postnominally?
+AP_N,AP_N,Can prenominal adjectival modifiers take dependents?
+A_XP_N,A_XP_N,Can the dependent follow the head in prenominal adjectival modifiers?
+XP_A_N,XP_A_N,Can the dependent precede the head in prenominal adjectival modifiers?
+N_AP,N_AP,Can postnominal adjectival modifiers take dependents?
+N_A_XP,N_A_XP,Can the dependent follow the head in postnominal adjectival modifiers?
+N_XP_A,N_XP_A,Can the dependent precede the head in postnominal adjectival modifiers?
+A_attr,A_attr,Can adjectival modifiers have an overt attributive marker?
+A_attr_obl,A_attr_obl,Is the attributive marker obligatory with adjectival modifiers?
+A_attr_pos,A_attr_pos,What is the position of the attributive marker with adjectival modifiers?
+A_pred,A_pred,Can adjectives be used as predicates?
+A_dep,A_dep,Can predicative adjectives take dependents?
+A_XP,A_XP,Can the dependent follow a predicative adjective?
+XP_A,XP_A,Can the dependent precede a predicative adjective?
+V_mod,V_mod,Are there deverbal modifiers?
+V_N,V_N,
+N_V,N_V,
+VP_N,VP_N,
+V_XP_N,V_XP_N,
+XP_V_N,XP_V_N,
+N_VP,N_VP,
+N_V_XP,N_V_XP,
+N_XP_V,N_XP_V,
+V_attr,V_attr,
+V_attr_obl,V_attr_obl,
+V_attr_pos,V_attr_pos,
+V_pred,V_pred,
+V_dep,V_dep,
+V_XP,V_XP,
+XP_V,XP_V,
+C_mod,C_mod,Are there clausal modifiers?
+C_int,C_int,
+C_ext,C_ext,
+C_N,C_N,
+N_C,N_C,
+C_attr,C_attr,
+C_attr_obl,C_attr_obl,
+C_attr_pos,C_attr_pos,
+P_mod,P_mod,Are there adpositional modifiers?
+Prep,Prep,
+Post,Post,
+Prep_N,Prep_N,
+N_Prep,N_Prep,
+Post_N,Post_N,
+N_Post,N_Post,
+P_attr,P_attr,
+P_attr_obl,P_attr_obl,
+P_attr_pos,P_attr_pos,

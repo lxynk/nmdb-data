@@ -41,3 +41,12 @@ cao_C_attr_obl,cao,yes,
 cao_C_attr_pos,cao,,attached to the predicate of the RC (? or to the last element of the RC)
 ,,,
 cao_P_mod,cao,yes,
+cao_Prep,cao,no(?),		
+cao_Post,cao,yes,		
+cao_Prep_N,cao,/,		
+cao_N_Prep,cao,/,		
+cao_Post_N,cao,yes, 
+cao_N_Post,cao,yes,
+cao_P_attr,cao,yes,
+cao_P_attr_obl,cao,yes,Relativization/nominalization with ka(to) & comitative with yá
+cao_P_attr_pos,cao,,attached to the last element of the adpositional phrases
