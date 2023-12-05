@@ -25,48 +25,6 @@ nez_C_N,nez,C_N,no,C_N-no,,,
 nez_N_C,nez,N_C,yes,N_C-yes,,,nez_ex_10 nez_ex_11 nez_ex_12 nez_ex_13
 nez_C_attr,nez,C_attr,no(?),C_attr-no,,,
 nez_P_mod,nez,P_mod,yes,P_mod-yes,,,
-gug_A_mod,gug,A_mod,yes,A_mod-yes,,,
-gug_A_N,gug,A_N,no,A_N-no,,,gug_ex_08
-gug_N_A,gug,N_A,yes,N_A-yes,,,gug_ex_06
-gug_N_AP,gug,N_AP,no,N_AP-no,,,gug_ex_10
-gug_A_attr,gug,A_attr,no,A_attr-no,,,
-gug_A_pred,gug,A_pred,yes,A_pred-yes,,,gug_ex_01 gug_ex_02
-gug_A_dep,gug,A_dep,yes,A_dep-yes,,,
-gug_A_XP,gug,A_XP,yes,A_XP-yes,,,gug_ex_04
-gug_XP_A,gug,XP_A,yes,XP_A-yes,,,gug_ex_05
-gug_V_mod,gug,V_mod,yes,V_mod-yes,,,
-gug_V_N,gug,V_N,yes,V_N-yes,,,gug_ex_09
-gug_N_V,gug,N_V,yes,N_V-yes,,,gug_ex_07
-gug_VP_N,gug,VP_N,yes(?),VP_N-yes,,,
-gug_V_XP_N,gug,V_XP_N,yes(?),V_XP_N-yes,,,
-gug_XP_V_N,gug,XP_V_N,yes(?),XP_V_N-yes,,,
-gug_N_VP,gug,N_VP,yes,N_VP-yes,,,
-gug_N_V_XP,gug,N_V_XP,yes,N_V_XP-yes,,,gug_ex_11
-gug_N_XP_V,gug,N_XP_V,yes,N_XP_V-yes,,,gug_ex_12
-gug_V_attr,gug,V_attr,yes,V_attr-yes,,,
-gug_V_attr_obl,gug,V_attr_obl,yes,V_attr_obl-yes,,,
-gug_V_pred,gug,V_pred,no,V_pred-no,,,gug_ex_03
-gug_P_mod,gug,P_mod,yes,P_mod-yes,,,
-gug_Prep,gug,Prep,no(?),Prep-no,,,
-gug_Post,gug,Post,yes,Post-yes,,,
-gug_Post_N,gug,Post_N,yes,Post_N-yes,,,
-gug_N_Post,gug,N_Post,yes,N_Post-yes,,,
-gug_P_attr,gug,P_attr,no(?),P_attr-no,,,
-pqm_A_mod,pqm,A_mod,no(?),A_mod-no,,,
-pqm_V_mod,pqm,V_mod,no,V_mod-no,,,
-pqm_C_mod,pqm,C_mod,yes,C_mod-yes,,,
-pqm_C_int,pqm,C_int,yes,C_int-yes,,,pqm_ex_02 pqm_ex_03 pqm_ex_04 pqm_ex_05
-pqm_C_ext,pqm,C_ext,yes,C_ext-yes,,,
-pqm_C_N,pqm,C_N,yes,C_N-yes,,,
-pqm_N_C,pqm,N_C,no(?),N_C-no,,,
-pqm_C_attr,pqm,C_attr,no,C_attr-no,,,
-pqm_P_mod,pqm,P_mod,yes,P_mod-yes,,,
-pqm_Prep,pqm,Prep,yes,Prep-yes,,,
-pqm_Post,pqm,Post,no(?),Post-no,,,
-pqm_Prep_N,pqm,Prep_N,yes,Prep_N-yes,,,pqm_ex_06 pqm_ex_09
-pqm_N_Prep,pqm,N_Prep,yes,N_Prep-yes,,,pqm_ex_07 pqm_ex_08
-pqm_P_attr,pqm,P_attr,yes,P_attr-yes,,,
-pqm_P_attr_obl,pqm,P_attr_obl,yes,P_attr_obl-yes,,,
 lil_A_mod,lil,A_mod,yes,A_mod-yes,,,
 lil_A_N,lil,A_N,yes,A_N-yes,,,
 lil_N_A,lil,N_A,yes,N_A-yes,,,
@@ -92,6 +50,31 @@ lil_Post,lil,Post,no,Post-no,,,
 lil_Prep_N,lil,Prep_N,no,Prep_N-no,,,
 lil_N_Prep,lil,N_Prep,yes,N_Prep-yes,,,
 lil_P_attr,lil,P_attr,no(?),P_attr-no,,,
+abk_A_mod,abk,A_mod,no,A_mod-no,,,
+abk_V_mod,abk,V_mod,yes,V_mod-yes,,,
+abk_V_N,abk,V_N,yes,V_N-yes,,,
+abk_N_V,abk,N_V,yes,N_V-yes,,,
+abk_VP_N,abk,VP_N,yes,VP_N-yes,,,
+abk_V_XP_N,abk,V_XP_N,no,V_XP_N-no,,,
+abk_XP_V_N,abk,XP_V_N,yes,XP_V_N-yes,,,
+abk_N_VP,abk,N_VP,yes,N_VP-yes,,,
+abk_N_V_XP,abk,N_V_XP,no,N_V_XP-no,,,
+abk_N_XP_V,abk,N_XP_V,yes,N_XP_V-yes,,,
+abk_V_pred,abk,V_pred,yes,V_pred-yes,,,
+abk_V_dep,abk,V_dep,yes,V_dep-yes,,,
+abk_V_XP,abk,V_XP,yes,V_XP-yes,,,
+abk_XP_V,abk,XP_V,yes,XP_V-yes,,,
+abk_C_mod,abk,C_mod,yes,C_mod-yes,,,
+abk_C_N,abk,C_N,yes,C_N-yes,,,
+abk_N_C,abk,N_C,yes,N_C-yes,,,
+abk_C_attr,abk,C_attr,yes(?),C_attr-yes,,,
+abk_C_attr_obl,abk,C_attr_obl,yes(?),C_attr_obl-yes,,,
+abk_P_mod,abk,P_mod,yes,P_mod-yes,,,
+abk_Prep,abk,Prep,no,Prep-no,,,
+abk_Post,abk,Post,yes,Post-yes,,,
+abk_Post_N,abk,Post_N,yes,Post_N-yes,,,
+abk_N_Post,abk,N_Post,yes,N_Post-yes,,,
+abk_P_attr,abk,P_attr,no,P_attr-no,,,
 cao_A_mod,cao,A_mod,yes,A_mod-yes,,,
 cao_A_N,cao,A_N,no,A_N-no,,,
 cao_N_A,cao,N_A,yes,N_A-yes,,,cao_ex_03 cao_ex_04
@@ -123,3 +106,45 @@ cao_Post_N,cao,Post_N,yes,Post_N-yes,,,cao_ex_22
 cao_N_Post,cao,N_Post,yes,N_Post-yes,,,cao_ex_21
 cao_P_attr,cao,P_attr,yes,P_attr-yes,,,
 cao_P_attr_obl,cao,P_attr_obl,yes,P_attr_obl-yes,,,
+pqm_A_mod,pqm,A_mod,no(?),A_mod-no,,,
+pqm_V_mod,pqm,V_mod,no,V_mod-no,,,
+pqm_C_mod,pqm,C_mod,yes,C_mod-yes,,,
+pqm_C_int,pqm,C_int,yes,C_int-yes,,,pqm_ex_02 pqm_ex_03 pqm_ex_04 pqm_ex_05
+pqm_C_ext,pqm,C_ext,yes,C_ext-yes,,,
+pqm_C_N,pqm,C_N,yes,C_N-yes,,,
+pqm_N_C,pqm,N_C,no(?),N_C-no,,,
+pqm_C_attr,pqm,C_attr,no,C_attr-no,,,
+pqm_P_mod,pqm,P_mod,yes,P_mod-yes,,,
+pqm_Prep,pqm,Prep,yes,Prep-yes,,,
+pqm_Post,pqm,Post,no(?),Post-no,,,
+pqm_Prep_N,pqm,Prep_N,yes,Prep_N-yes,,,pqm_ex_06 pqm_ex_09
+pqm_N_Prep,pqm,N_Prep,yes,N_Prep-yes,,,pqm_ex_07 pqm_ex_08
+pqm_P_attr,pqm,P_attr,yes,P_attr-yes,,,
+pqm_P_attr_obl,pqm,P_attr_obl,yes,P_attr_obl-yes,,,
+gug_A_mod,gug,A_mod,yes,A_mod-yes,,,
+gug_A_N,gug,A_N,no,A_N-no,,,gug_ex_08
+gug_N_A,gug,N_A,yes,N_A-yes,,,gug_ex_06
+gug_N_AP,gug,N_AP,no,N_AP-no,,,gug_ex_10
+gug_A_attr,gug,A_attr,no,A_attr-no,,,
+gug_A_pred,gug,A_pred,yes,A_pred-yes,,,gug_ex_01 gug_ex_02
+gug_A_dep,gug,A_dep,yes,A_dep-yes,,,
+gug_A_XP,gug,A_XP,yes,A_XP-yes,,,gug_ex_04
+gug_XP_A,gug,XP_A,yes,XP_A-yes,,,gug_ex_05
+gug_V_mod,gug,V_mod,yes,V_mod-yes,,,
+gug_V_N,gug,V_N,yes,V_N-yes,,,gug_ex_09
+gug_N_V,gug,N_V,yes,N_V-yes,,,gug_ex_07
+gug_VP_N,gug,VP_N,yes(?),VP_N-yes,,,
+gug_V_XP_N,gug,V_XP_N,yes(?),V_XP_N-yes,,,
+gug_XP_V_N,gug,XP_V_N,yes(?),XP_V_N-yes,,,
+gug_N_VP,gug,N_VP,yes,N_VP-yes,,,
+gug_N_V_XP,gug,N_V_XP,yes,N_V_XP-yes,,,gug_ex_11
+gug_N_XP_V,gug,N_XP_V,yes,N_XP_V-yes,,,gug_ex_12
+gug_V_attr,gug,V_attr,yes,V_attr-yes,,,
+gug_V_attr_obl,gug,V_attr_obl,yes,V_attr_obl-yes,,,
+gug_V_pred,gug,V_pred,no,V_pred-no,,,gug_ex_03
+gug_P_mod,gug,P_mod,yes,P_mod-yes,,,
+gug_Prep,gug,Prep,no(?),Prep-no,,,
+gug_Post,gug,Post,yes,Post-yes,,,
+gug_Post_N,gug,Post_N,yes,Post_N-yes,,,
+gug_N_Post,gug,N_Post,yes,N_Post-yes,,,
+gug_P_attr,gug,P_attr,no(?),P_attr-no,,,
