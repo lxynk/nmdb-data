@@ -28,7 +28,7 @@ class Dataset(BaseDataset):
     def cmd_makecldf(self, args):
         self.schema(args.writer.cldf)
 
-        glangs_by_iso = {lg.iso: lg for lg in args.glottolog.api.languoids()}
+        glangs_by_iso = {lg.iso: lg for lg in args.glottolog.api.languoids() if lg.iso}
 
         for row in self.raw_dir.read_csv('Parameters.csv', dicts=True):
             if row['ID']:
@@ -80,6 +80,7 @@ class Dataset(BaseDataset):
                         args.writer.objects['LanguageTable'].append(dict(
                             ID=row['Language'],
                             Name=glang.name,
+                            Glottocode=glangs_by_iso[row['Language']].id,
                             Latitude=glang.latitude,
                             Longitude=glang.longitude))
                         langs.add(row['Language'])
