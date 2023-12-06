@@ -2,8 +2,8 @@ ID,Language,Value,Comment
 cmn_A_mod,cmn,yes,
 cmn_A_N,cmn,yes,
 cmn_N_A,cmn,no,
-cmn_AP_N,cmn,yes,with complex adjectives in a DE-marked construction. Li & Thompson (1981) claim that the DE-marked construction are also clausal.  
-cmn_A_XP_N,cmn,yes,not all native speakers accpet such constructions 
+cmn_AP_N,cmn,yes,"with complex adjectives in a DE-marked construction. Li & Thompson (1981) claim that the DE-marked construction are also clausal." 
+cmn_A_XP_N,cmn,yes,Not all native speakers accpet such constructions 
 cmn_XP_A_N,cmn,yes,
 cmn_N_AP,cmn,/,
 cmn_N_A_XP,cmn,/,
@@ -35,7 +35,7 @@ cmn_XP_V,cmn,,
 ,,,
 cmn_C_mod,cmn,yes, 
 cmn_C_N,cmn,yes,
-cmn_N_C,cmn,yes, Li & Thompson (1981) defines such constructions as descriptive clauses, with prosody break between the main clause and the descriptive clause. 
+cmn_N_C,cmn,yes, "Li & Thompson (1981) defines such constructions as descriptive clauses, with prosody break between the main clause and the descriptive clause."
 cmn_C_attr,cmn,yes, 
 cmn_C_attr_obl,cmn,yes,DE is required here
 cmn_C_attr_pos,cmn,between modifiers and the head noun,
@@ -43,7 +43,7 @@ cmn_C_attr_pos,cmn,between modifiers and the head noun,
 cmn_P_mod,cmn,yes, Li & Thompson (1981) claims that this is also clausal because the nominalizer DE can not be omitted here. 
 cmn_Prep,cmn,no,		
 cmn_Post,cmn,yes,		
-cmn_Prep_N,cmn,/, Some coverbs are prepositional, but they must either co-occure with a verb or themselves function as the verbs. See more in Li & Thompson (1981). 
+cmn_Prep_N,cmn,/, "Some coverbs are prepositional, but they must either co-occure with a verb or themselves function as the verbs. See more in Li & Thompson (1981)." 
 cmn_N_Prep,cmn,/,		
 cmn_Post_N,cmn,yes, 
 cmn_N_Post,cmn,no,
