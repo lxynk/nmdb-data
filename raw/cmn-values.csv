@@ -35,15 +35,15 @@ cmn_XP_V,cmn,,
 ,,,
 cmn_C_mod,cmn,yes,
 cmn_C_N,cmn,yes,
-cmn_N_C,cmn,yes,"""Li & Thompson (1981) defines such constructions as descriptive clauses, with prosody break between the main clause and the descriptive clause. """
+cmn_N_C,cmn,yes,"Li & Thompson (1981) defines such constructions as descriptive clauses, with prosody break between the main clause and the descriptive clause. "
 cmn_C_attr,cmn,yes,
-cmn_C_attr_obl,cmn,yes,"""DE is required, unless…"""
+cmn_C_attr_obl,cmn,yes,"DE is required, unless…"
 cmn_C_attr_pos,cmn,between modifiers and head nouns,
 ,,,
 cmn_P_mod,cmn,yes,Li & Thompson (1981) claims that this is also clausal because the nominalizer DE can not be omitted here
 cmn_Prep,cmn,no,
 cmn_Post,cmn,yes,
-cmn_Prep_N,cmn,/,"""Some coverbs are prepositional, but they must either co-occure with a verb or themselves function as the verbs. See more in Li & Thompson (1981)."""
+cmn_Prep_N,cmn,/,"Some coverbs are prepositional, but they must either co-occure with a verb or themselves function as the verbs. See more in Li & Thompson (1981)."""
 cmn_N_Prep,cmn,/,
 cmn_Post_N,cmn,yes,
 cmn_N_Post,cmn,no(?),descriptive clauses?
