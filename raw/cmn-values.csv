@@ -1,7 +1,7 @@
 ﻿ID,Language,Value,Comment
 cmn_A_mod,cmn,yes,
 cmn_A_N,cmn,yes,
-cmn_N_A,cmn,no(?),
+cmn_N_A,cmn,no,
 cmn_AP_N,cmn,yes,Only with complex adjectives in a DE-marked construction. Li & Thompson (1981) claim that the DE-marked construction are also clausal because of the nominalizer DE.
 cmn_A_XP_N,cmn,yes,Not all native speakers accpet such constructions.
 cmn_XP_A_N,cmn,yes,Seems to be the more natural alternative
@@ -22,12 +22,12 @@ cmn_N_V,cmn,no,
 cmn_VP_N,cmn,yes,
 cmn_V_XP_N,cmn,yes,
 cmn_XP_V_N,cmn,no,
-cmn_N_VP,cmn,yes(?),
+cmn_N_VP,cmn,no,
 cmn_N_V_XP,cmn,,
 cmn_N_XP_V,cmn,,
 cmn_V_attr,cmn,yes,
 cmn_V_attr_obl,cmn,yes,"DE is required, unless…"
-cmn_V_attr_post,cmn,between the modifiers and head nouns,
+cmn_V_attr_pos,cmn,between the modifiers and head nouns,
 cmn_V_pred,cmn,,
 cmn_V_dep,cmn,,
 cmn_V_XP,cmn,,
