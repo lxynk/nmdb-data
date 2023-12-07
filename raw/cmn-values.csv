@@ -10,7 +10,7 @@ cmn_N_A_XP,cmn,/,
 cmn_N_XP_A,cmn,/,
 cmn_A_attr,cmn,yes,depends on the adjectives. 
 cmn_A_attr_obl,cmn,yes,When complex adjectives are used.
-cmn_A_pos,cmn,between modifiers and head nouns,
+cmn_A_attr_pos,cmn,between modifiers and head nouns,
 cmn_A_pred,cmn,yes,Simple adjectives require the presence of hěn or other degree adverbs. 
 cmn_A_dep,cmn,yes,
 cmn_A_XP,cmn,yes,Not all native speakers accpet such constructions.
