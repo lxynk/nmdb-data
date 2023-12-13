@@ -1,34 +1,34 @@
 ID,Language,Value,Comment
 abk_A_mod,abk,yes,
-abk_A_N,abk,yes,only for adjectives indicating nationality
-abk_N_A,abk,yes,more natural alternative
-abk_AP_N,abk,yes?,verbal? non-verbal?
+abk_A_N,abk,yes but,"Only for certain lexical classes of adjectives (e.g. indicating nationality and others, see p.222)."
+abk_N_A,abk,yes,
+abk_AP_N,abk,, 
 abk_A_XP_N,abk,,
 abk_XP_A_N,abk,,
-abk_N_AP,abk,,
-abk_N_A_XP,abk,,
-abk_N_XP_A,abk,,
-abk_A_attr,abk,,
-abk_A_attr_obl,abk,,
-abk_A_attr_pos,abk,,
-abk_A_pred,abk,,
-abk_A_dep,abk,,
-abk_A_XP,abk,,
-abk_XP_A,abk,,
+abk_N_AP,abk,no,Must be converted into (non-finite) stative verbs.
+abk_N_A_XP,abk,/,
+abk_N_XP_A,abk,/,
+abk_A_attr,abk,no,
+abk_A_attr_obl,abk,/,
+abk_A_attr_pos,abk,/,
+abk_A_pred,abk,no,Must be converted into (finite) stative verbs.
+abk_A_dep,abk,/,
+abk_A_XP,abk,/,
+abk_XP_A,abk,/,
 ,,,
-abk_V_mod,abk,yes,stative verbs? affix -w?
-abk_V_N,abk,yes,exceptions such as adjectives indicating nationality and other types or constructions can be found from p.222 to p.223 Hewitt (1979)
-abk_N_V,abk,yes,p.222 in Hewitt (1979)
+abk_V_mod,abk,yes,Non-finite stative verbs.
+abk_V_N,abk,yes,
+abk_N_V,abk,yes,
 abk_VP_N,abk,yes,
-abk_V_XP_N,abk,no, 
+abk_V_XP_N,abk,yes, 
 abk_XP_V_N,abk,yes,
 abk_N_VP,abk,yes,
-abk_N_V_XP,abk,no,
+abk_N_V_XP,abk,yes,
 abk_N_XP_V,abk,yes,
-abk_V_attr,abk,yes?,additional morphes?
-abk_V_attr_obl,abk,?,
-abk_V_attr_pos,abk,?,
-abk_V_pred,abk,yes,
+abk_V_attr,abk,yes,Non-finite stative morphology.
+abk_V_attr_obl,abk,yes,
+abk_V_attr_pos,abk,Agreement prefix plus the non-finite stative suffix -w.,
+abk_V_pred,abk,yes,Finite stative verbs.
 abk_V_dep,abk,yes,	
 abk_V_XP,abk,yes,		
 abk_XP_V,abk,yes,
