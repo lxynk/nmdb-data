@@ -1,8 +1,8 @@
 ID,Language,Value,Comment
 abk_A_mod,abk,yes,
-abk_A_N,abk,,
-abk_N_A,abk,,
-abk_AP_N,abk,,
+abk_A_N,abk,yes,only for adjectives indicating nationality
+abk_N_A,abk,yes,more natural alternative
+abk_AP_N,abk,yes?,verbal? non-verbal?
 abk_A_XP_N,abk,,
 abk_XP_A_N,abk,,
 abk_N_AP,abk,,
@@ -25,7 +25,7 @@ abk_XP_V_N,abk,yes,
 abk_N_VP,abk,yes,
 abk_N_V_XP,abk,no,
 abk_N_XP_V,abk,yes,
-abk_V_attr,abk,?,
+abk_V_attr,abk,yes?,additional morphes?
 abk_V_attr_obl,abk,?,
 abk_V_attr_pos,abk,?,
 abk_V_pred,abk,yes,
