@@ -25,7 +25,7 @@ DEM,demonstrative
 DIR,-directive
 DIRTR, directive (full control) transitivizer
 DPT,-dependent clause marker
-DYN,dynamic?
+DYN,dynamic
 EP,epenthesis
 ERG,ergative
 EXIS,existential enclitic
@@ -51,11 +51,11 @@ OBV,obviative
 {PERF},{perfective}
 {PFV},{perfective??}
 PL,plural
-PRES,-present
+PRED,predicative
 PRO,(pronoun)
 PROG,progressive
 PROX,-proximate
-PRS,??
+PRS,present
 Purp,-purpose
 RCP,-reciprocal
 REL,(relative particle)
