@@ -8,6 +8,7 @@ ABSNT,absent
 ACC,accusative
 ACT,-active (voice)
 ACT(lil),active intransitive marker?
+ACTR(lkt),actor
 ADJLZ,adjectivalizer
 AGR,agreement
 AN,-animate (grammatical gender)
@@ -38,7 +39,9 @@ IN,-inanimated
 INACT,-inactive
 INDTR, indirective transitivizer
 INS,instrumental
+LA,locative argument
 LOC,locative
+LP,locative prefix
 M,masculine
 NFIN,non-finite
 NMLZ,nominalizer
@@ -71,4 +74,6 @@ SUBJ,-subject
 TA,-transitive animate
 TAM,-tense/aspect/mood
 TR,-transitive
+UNDR,undergoer
 YNQ,yes-no question enclitic
+
