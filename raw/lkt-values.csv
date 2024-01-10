@@ -51,5 +51,4 @@ lkt_P_attr,lkt,/,
 lkt_P_attr_obl,lkt,/,
 lkt_P_attr_pos,lkt,,
 
-
-No stacking possible because lkt is consistently left-branching. 
+,,,No stacking possible because lkt is consistently left-branching
