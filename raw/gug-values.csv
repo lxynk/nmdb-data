@@ -47,6 +47,6 @@ gug_Prep_N,gug,yes,but only in certain cases/constructions?
 gug_N_Prep,gug,/,		
 gug_Post_N,gug,yes, 
 gug_N_Post,gug,yes,
-gug_P_attr,gug,nO(?),
+gug_P_attr,gug,no(?),=gua in the prenominal cases?
 gug_P_attr_obl,gug,/,
 gug_attr_pos,gug,/,
