@@ -41,12 +41,12 @@ gug_C_attr_ob,gug,,
 gug_C_attr_pos,gug,,
 ,,,
 gug_P_mod,gug,yes,
-gug_Prep,gug,no(?),		
+gug_Prep,gug,no,		
 gug_Post,gug,yes,		
 gug_Prep_N,gug,/,	
 gug_N_Prep,gug,/,		
-gug_Post_N,gug,yes,but only in certain cases/constructions?	 
+gug_Post_N,gug,yes,"but not always, see examples."
 gug_N_Post,gug,yes,
-gug_P_attr,gug,no(?),=gua in the prenominal cases?
-gug_P_attr_obl,gug,/,
-gug_attr_pos,gug,/,
+gug_P_attr,gug,yes,=gua in the prenominal cases
+gug_P_attr_obl,gug,no?,
+gug_attr_pos,gug,,
