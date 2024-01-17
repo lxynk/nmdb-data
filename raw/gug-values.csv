@@ -19,9 +19,9 @@ gug_XP_A,gug,yes,
 gug_V_mod,gug,yes,Bare roots with the adjectivizer/relativizer -va
 gug_V_N,gug,yes,
 gug_N_V,gug,yes, the more common placement
-gug_VP_N,gug,yes(?),
-gug_V_XP_N,gug,yes(?),
-gug_XP_V_N,gug,yes(?),
+gug_VP_N,gug,no,
+gug_V_XP_N,gug,no,
+gug_XP_V_N,gug,no,
 gug_N_VP,gug,yes,
 gug_N_V_XP,gug,yes,the neutral/more natural alternative
 gug_N_XP_V,gug,yes,
