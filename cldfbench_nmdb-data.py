@@ -69,7 +69,8 @@ class Dataset(BaseDataset):
                         Translated_Text=row['Translation'],
                     ))
                 if row.get('Parameter'):
-                    exs[norm_id(row['Parameter'])].append(row['ID'])
+                    for pid in row.get('Parameter').split():
+                        exs[norm_id(pid)].append(row['ID'])
 
         for p in self.raw_dir.glob('*-values.csv'):
             for row in reader(p, dicts=True):
