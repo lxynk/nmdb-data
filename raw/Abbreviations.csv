@@ -126,7 +126,7 @@ IRR,irrealis
 LOC,locative  
 M,masculine  
 N,neuter 
-NEG,"negation, negative"  
+NEG,negation/negative
 NMLZ,nominalizer/nominalization 
 NOM,nominative  
 OBJ,object  
