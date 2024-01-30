@@ -1,10 +1,10 @@
-ID,Name,Leipzig Glossing Rules,
+ID,Name,Leipzig Glossing Rules
 A,ergative (transitive) subject suffix,
 ABL,ablative,
 ABSL,-absolute case,
 ABSNT,absent,
 ACC,accusative,
-ACT,-active (voice),
+ACT,-active (voice),,
 ACT(lil),active intransitive marker?,
 ACTR(lkt),actor,
 ADJLZ,adjectivalizer,
