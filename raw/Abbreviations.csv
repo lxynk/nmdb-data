@@ -1,162 +1,162 @@
-ID,Name
-A,ergative (transitive) subject suffix
-ABL,ablative
-ABSL,-absolute case
-ABSNT,absent
-ACC,accusative
-ACT,-active (voice)
-ACT(lil),active intransitive marker?
-ACTR(lkt),actor
-ADJLZ,adjectivalizer
-AGR,agreement
-AN,-animate (grammatical gender)
-ART,article
-CAUS,causative
-CIS,-cislocative = 'hither'
-CNJ,*conjunctive subject clitic*
-COM,comitative
-COMP,complementizer
-COP,copula
-CR,consonant reduplication 
-DAT,dative
-DECL,declarative
-DEM,demonstrative
-DIR,-directive
-DIRTR, directive (full control) transitivizer
-DPT,-dependent clause marker
-DYN,dynamic
-EP,epenthesis
-ERG,ergative
-EXIS,existential enclitic
-FIN,finite
-FOC,-focus marker
-GEN,genitive
-HAB,-habitual/frequentative
-{IPFV},{imperfective}
-IN,-inanimated
-INACT,-inactive
-INDTR, indirective transitivizer
-INS,instrumental
-LA,locative argument
-LOC,locative
-LP,locative prefix
-M,masculine
-NFIN,non-finite
-NMLZ,nominalizer
-NHUM,non-human
-NOM,nominative
-NPST,non-past
-NTS,non-topical subject marker
-O, object suffix
-OBV,obviative
-{PERF},{perfective}
-{PFV},{perfective??}
-PL,plural
-POSSM.3,=possessed form of relational roots (for third-person pronominal possessor)
-PRED,predicative
-PRO,(pronoun)
-PROG,progressive
-PROX,-proximate
-PRS,present
-Purp,-purpose
-RCP,-reciprocal
-REL,(relative particle)
-RELTR,relational (applicative) transitivizer
-RM,(remote)
-RP,(relative pronoun)
-S,indicative subject clitic
-SG,singular
-SGV,singulative
-SPAT,spatial
-STAT,stative
-SUBJ,-subject
-TA,-transitive animate
-TAM,-tense/aspect/mood
-TR,-transitive
-UNDR,undergoer
-YNQ,yes-no question enclitic
-,
-,
-,
-,
-A,agent-like argument of canonical transitive verb 
-ABL,ablative  
-ABS,absolutive  
-ACC,accusative  
-ADJ,adjective  
-ADV,adverb(ial)  
-AGR,agreement  
-ALL,allative 
-ANTIP,antipassive 
-APPL,applicative 
-ART,article  
-AUX,auxiliary  
-BEN,benefactive 
-CAUS,causative  
-CLF,classifier 
-COM,comitative 
-COMP,complementizer  
-COMPL,completive 
-COND,conditional  
-COP,copula
-CVB,converb  
-DAT,dative 
-DECL,declarative
-DEF,definite
-DEM,demonstrative  
-DET,determiner  
-DIST,distal 
-DISTR,distributive 
-DU,dual  
-DUR,durative  
-ERG,ergative  
-EXCL,exclusive  
-F,feminine  
-FOC,focus  
-FUT,future  
-GEN,genitive  
-IMP,imperative  
-INCL,inclusive  
-IND,indicative 
-INDF,indefinite 
-INF,infinitive  
-INS,instrumental 
-INTR,intransitive 
-IPFV,imperfective  
-IRR,irrealis  
-LOC,locative  
-M,masculine  
-N,neuter 
-NEG,negation/negative
-NMLZ,nominalizer/nominalization 
-NOM,nominative  
-OBJ,object  
-OBL,oblique 
-P,patient-like argument of canonical transitive verb 
-PASS,passive  
-PFV,perfective  
-PL,plural  
-POSS,possessive  
-PRED,predicative 
-PRF,perfect  
-PRS,present  
-PROG,progressive  
-PROH,prohibitive
-PROX,proximal/proximate 
-PST,past 
-PTCP,participle  
-PURP,purposive 
-Q,question particle/marker 
-QUOT,quotative 
-RECP,reciprocal 
-REFL,reflexive
-REL,relative  
-RES,resultative 
-S,single argument of canonical intransitive verb 
-SBJ,subject 
-SBJV,subjunctive 
-SG,singular  
-TOP,topic  
-TR,transitive 
-VOC,vocative
+ID,Name,Leipzig Glossing Rules,
+A,ergative (transitive) subject suffix,
+ABL,ablative,
+ABSL,-absolute case,
+ABSNT,absent,
+ACC,accusative,
+ACT,-active (voice),
+ACT(lil),active intransitive marker?,
+ACTR(lkt),actor,
+ADJLZ,adjectivalizer,
+AGR,agreement,
+AN,-animate (grammatical gender),
+ART,article,
+CAUS,causative,
+CIS,-cislocative = 'hither',
+CNJ,*conjunctive subject clitic*,
+COM,comitative,
+COMP,complementizer,
+COP,copula,
+CR,consonant reduplication,
+DAT,dative,
+DECL,declarative,
+DEM,demonstrative,
+DIR,-directive,
+DIRTR, directive (full control) transitivizer,
+DPT,-dependent clause marker,
+DYN,dynamic,
+EP,epenthesis,
+ERG,ergative,
+EXIS,existential enclitic,
+FIN,finite,
+FOC,-focus marker,
+GEN,genitive,
+HAB,-habitual/frequentative,
+{IPFV},{imperfective},
+IN,-inanimated,
+INACT,-inactive,
+INDTR, indirective transitivizer,
+INS,instrumental,
+LA,locative argument,
+LOC,locative,
+LP,locative prefix,
+M,masculine,
+NFIN,non-finite,
+NMLZ,nominalizer,
+NHUM,non-human,
+NOM,nominative,
+NPST,non-past,
+NTS,non-topical subject marker,
+O, object suffix,
+OBV,obviative,
+{PERF},{perfective},
+{PFV},{perfective??},
+PL,plural,
+POSSM.3,=possessed form of relational roots (for third-person pronominal possessor),
+PRED,predicative,
+PRO,(pronoun),
+PROG,progressive,
+PROX,-proximate,
+PRS,present,
+Purp,-purpose,
+RCP,-reciprocal,
+REL,(relative particle),
+RELTR,relational (applicative) transitivizer,
+RM,(remote),
+RP,(relative pronoun),
+S,indicative subject clitic,
+SG,singular,
+SGV,singulative,
+SPAT,spatial,
+STAT,stative,
+SUBJ,-subject,
+TA,-transitive animate,
+TAM,-tense/aspect/mood,
+TR,-transitive,
+UNDR,undergoer,
+YNQ,yes-no question enclitic,
+,,
+,,
+,,
+,,
+A,agent-like argument of canonical transitive verb,yes
+ABL,ablative,yes  
+ABS,absolutive,yes 
+ACC,accusative,yes  
+ADJ,adjective,yes  
+ADV,adverb(ial),yes  
+AGR,agreement,yes 
+ALL,allative,yes 
+ANTIP,antipassive,yes
+APPL,applicative,yes
+ART,article,yes  
+AUX,auxiliary,yes  
+BEN,benefactive,yes 
+CAUS,causative,yes  
+CLF,classifier,yes 
+COM,comitative,yes 
+COMP,complementizer,yes
+COMPL,completive,yes 
+COND,conditional,yes  
+COP,copula,yes
+CVB,converb,yes  
+DAT,dative,yes 
+DECL,declarative,yes
+DEF,definite,yes
+DEM,demonstrative,yes  
+DET,determiner,yes  
+DIST,distal,yes
+DISTR,distributive,yes 
+DU,dual,yes  
+DUR,durative,yes  
+ERG,ergative,yes 
+EXCL,exclusive,yes  
+F,feminine,yes  
+FOC,focus,yes  
+FUT,future,yes  
+GEN,genitive,yes  
+IMP,imperative,yes 
+INCL,inclusive,yes  
+IND,indicative,yes 
+INDF,indefinite,yes 
+INF,infinitive,yes 
+INS,instrumental,yes
+INTR,intransitive,yes 
+IPFV,imperfective,yes 
+IRR,irrealis,yes
+LOC,locative,yes 
+M,masculine,yes 
+N,neuter,yes
+NEG,negation/negative,yes
+NMLZ,nominalizer/nominalization,yes 
+NOM,nominative,yes  
+OBJ,object,yes 
+OBL,oblique,yes
+P,patient-like argument of canonical transitive verb,yes
+PASS,passive,yes 
+PFV,perfective,yes  
+PL,plural,yes
+POSS,possessive,yes  
+PRED,predicative,yes 
+PRF,perfect,yes
+PRS,present,yes 
+PROG,progressive,yes 
+PROH,prohibitive,yes
+PROX,proximal/proximate,yes
+PST,past,yes 
+PTCP,participle,yes  
+PURP,purposive,yes
+Q,question particle/marker,yes 
+QUOT,quotative,yes
+RECP,reciprocal,yes
+REFL,reflexive,yes
+REL,relative,yes 
+RES,resultative,yes 
+S,single argument of canonical intransitive verb,yes
+SBJ,subject,yes
+SBJV,subjunctive,yes 
+SG,singular,yes
+TOP,topic,yes 
+TR,transitive,yes
+VOC,vocative,yes
 
