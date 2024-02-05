@@ -1,17 +1,17 @@
 ID,Language,Original,Morphemic,Gloss,Translation,Source,Comment
-A-block,,,,,,,
+,,,,,,,
 hae_ex_08,hae,hae_N_A,mana gurraacca,house black,a black house,"(Shimelis Mazengia, p.c.)", Attributive adjectives (post modifier) are not marked for the genitive case.
 hae_ex_09,hae,hae_N_A,nama furdaa,person fat,a fat person,"(Shimelis Mazengia, p.c.)", Attributive adjectives (post modifier) are not marked for the genitive case.
 hae_ex_02,hae,hae_N_XP_A(?),nama namaa-n waɟɟi wal-tah-u,person person-INS with RCP-agreeable-DPT,an agreeable person (Lit. a person who agrees with others),"(Shimelis Mazengia, p.c.)",
 ,,,,,,,
 ,,,,,,,
-V/C-block,,,,,,,
+,,,,,,,
 hae_ex_10,hae,hae_N_V,nam-i-cc-ø-i kanii-n kalee yam-ø-e du'-ø-e,man-EP-SGV-NOM-EP [RL]-1SG yesterday call-1SG-PFV die-3SG.M-PFV,(The) man I called yesterday (has) died.,"(Shimelis Mazengia, p.c.)",The insertion of kan [xan] (glossed as RL here) is optional. 
 hae_ex_11,hae,hae_N_V,nam-i-cc-ø-i kalee du'-ø-e ka'-ø-e,man-EP-SGV-NOM-EP yesterday die-3SG.M-PFV arise-3SG.M-PFV,(The) man who died yesterday arose/has arisen (from the dead).,"(Shimelis Mazengia, p.c.)",
 hae_ex_01,hae,hae_N_V_XP,nam-i-cca dureys-umma=tti boon-ø-u,person-EP-SGV.M.ABSL rich-NMLZ-LOC proud-3SG.M-DPT,(The) man who is proud of being rich,"(Shimelis Mazengia, p.c.)",
 ,,,,,,,
 ,,,,,,,
-V/A Contrast examples,,,,,,, 
+,,,,,,, 
 hae_ex_14,hae,hae_A_pred,nam-i-cc-ø-i kun boonaa-ɗa,person-EP-SGV-NOM-EP this proud-COP,This man is proud.,"(Shimelis Mazengia, p.c.)",
 hae_ex_15,hae,hae_V_pred,nam-i-cc-ø-i kun ni=boon-ø-a,person-EP-SGV-NOM-EP this FOC=get.proud-3SG.M-IPFV,This man is/gets proud.,"(Shimelis Mazengia, p.c.)",
 hae_ex_17,hae,hae_A_XP,nam-i-cc-ø-i kun dureys-ummɑ=tti boon-aa-ɗa,person-EP-SGV-NOM-EP this rich-NMLZ=LOC proud-3SG.M-COP,This man is proud of being rich.,"(Shimelis Mazengia, p.c.)", 
@@ -36,7 +36,7 @@ hae_ex_31,hae,hae_N_V_XP,*Muussa nama boon-ø-u dureys-umm=tti,Muussa person pro
 hae_ex_32,,,*Muussa dureys-umma=tti boon-ø-u nama,Muussa rich-NMLZ=LOC proud-3SG.M-DPT person,Intended: ‘Muussa is a person proud of being rich.’,"(Shimelis Mazengia, p.c.)",6. (doc4); relates to d
 ,,,,,,,
 ,,,,,,,
-P-block,,,,,,,
+,,,,,,,
 hae_ex_05,hae,hae_N_Post,níitíi-n magaláa xéesáa meesháa náa-f gurgur-t-e,woman-NOM market inside.GEN things me-DAT sold-F-PFV,The woman inside the market sold goods for me.,"(Shimelis Mazengia, p.c.)",Genitive marker (lengthening of the final vowel) on the postposition indicates that the adposition is a modifier for the head noun.
 hae_ex_06,hae,hae_N_Post(?),níitíi-n magaláa xéesá meesháa náa-f gurgur-t-e,woman-NOM market inside things me-DAT sold-F-PFV,The woman sold goods for me inside the market.,"(Owens_1985, p.86)", The adposition “in the market” is here adverbial. 
 hae_ex_07,hae,hae_Post_N,*magaláa xéesáa níitíi-n meesháa náa-f gurgur-t-e,market inside.GEN woman-NOM,Intended: ‘The woman inside the market sold goods for me.’,"(Shimelis Mazengia, p.c.)", 
@@ -44,7 +44,7 @@ hae_ex_07,hae,hae_Post_N,*magaláa xéesáa níitíi-n meesháa náa-f gurgur-t-
 hae_ex_13,hae,,mana duuba,house behind,behind (a/the) house,"(Shimelis Mazengia, p.c.)",
 ,,,,,,,
 ,,,,,,,
-N-block,,,,,,Modifying noun is in a genitive relationship with the head noun.,
+,,,,,,Modifying noun is in a genitive relationship with the head noun.,
 hae_ex_03,hae,,walgayii zaʔaa boodaa,meeting hour after.GEN,(an/the) afternoon meeting,"(Shimelis Mazengia, p.c.)",
 hae_ex_04,hae,,*zaʔaa boodaa walgayii,hour after.GEN meeting,Intended: ‘(an/the) afternoon meeting’,"(Shimelis Mazengia, p.c.)",
 hae_ex_12,hae,,biʃaan lagaa,[water river.GEN],river water,"(Shimelis Mazengia, p.c.)",
