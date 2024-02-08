@@ -1,5 +1,5 @@
 ID,Language,Value,Comment
-lkt_A_mod,lkt,yes,see section 3.4 in Ulrich (2018) 
+lkt_A_mod,lkt,yes,see section 3.4 in Ulrich (2018) {add more comments about the (RP) here}
 lkt_A_N,lkt,no,
 lkt_N_A,lkt,yes,
 lkt_AP_N,lkt,/,
@@ -33,7 +33,7 @@ lkt_V_dep,lkt,yes,
 lkt_V_XP,lkt,no,
 lkt_XP_V,lkt,yes,
 ,,,
-lkt_C_mod,lkt,,{add comments why the (RC) is in the A-blcok}
+lkt_C_mod,lkt,,
 lkt_C_N,lkt,,
 lkt_N_C,lkt,,
 lkt_C_attr,lkt,,
