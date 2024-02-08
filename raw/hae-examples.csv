@@ -1,12 +1,11 @@
 ID,Language,Original,Morphemic,Gloss,Translation,Source,Comment
-,,,,,,,
-simple pred,,,,,,,
 hae_ex_14,hae,hae_A_pred,nam-i-cc-ø-i kun boon-aa-ɗa,person-EP-SGV-NOM-EP this proud-M-COP,This man is proud.,"(Shimelis Mazengia, p.c.)",
 hae_ex_15,hae,hae_V_pred,nam-i-cc-ø-i kun boon-ø-a,person-EP-SGV-NOM-EP this proud-3SG.M-IPFV,This man is proud.,"(Shimelis Mazengia, p.c.)",
 ,,,,,,,
 complex pred,,,,,,,
 hae_ex_17,hae,hae_A_XP,nam-i-cc-ø-i kun dureys-ummɑ=tti boon-aa-ɗa,person-EP-SGV-NOM-EP this rich-NMLZ=LOC proud-M-COP,This man is proud of being rich.,"(Shimelis Mazengia, p.c.)", 
 hae_ex_16,hae,hae_V_XP,nam-i-cc-ø-i kun dureys-ummɑ=tti boon-ø-a,person-EP-SGV-NOM-EP this rich-NMLZ=LOC proud-3SG.M-IPFV,This man is proud of being rich.,"(Shimelis Mazengia, p.c.)",
+hae_ex_18,hae,hae_XP_V,*nam-i-cc-ø-i kun boon-ø-a dureys-umma=tti,person-EP-SGV-NOM-EP this proud-3SG.M-IPFV rich-NMLZ=LOC,Intended: ‘This man is proud of being rich.’,"(Shimelis Mazengia, p.c.)",
 ,,,,,,,
 simple attri,,,,,,,
 hae_ex_22,hae,hae_N_A,Muussa nama boon-aa-ɗa,Muussa person proud-M-COP,Muussa is a proud person.,"(Shimelis Mazengia, p.c.)",
@@ -19,7 +18,6 @@ hae_ex_26,hae,hae_N_XP_V, Muussa nama dureys-umm=tti boon-ø-u,Muussa person ric
 ,,,,,,,
 ,,,,,,,
 complex pred with other examples,,,,,,,
-hae_ex_18,hae,hae_XP_V,*nam-i-cc-ø-i kun boon-ø-a dureys-umma=tti,person-EP-SGV-NOM-EP this proud-3SG.M-IPFV rich-NMLZ=LOC,Intended: ‘This man is proud of being rich.’,"(Shimelis Mazengia, p.c.)",
 hae_ex_19,hae,hae_N_XP_V(?),nam-i-cc-ø-i kun kan dureys-ummɑ=tti boon-ø-u,person-EP-SGV-NOM-EP this [who] rich-NMLZ=LOC get.proud-3SG.M-DPT,This man is who is/gets proud of being rich.,"(Shimelis Mazengia, p.c.)",
 hae_ex_20,hae,hae_N_XP_A(?),*nam-i-cc-ø-i kun kan dureys-ummɑ=tti boon-aa-ɗa,person-EP-SGV-NOM-EP this who rich-NMLZ=LOC get.proud-M-COP,Intended: ‘This man is who is proud of being rich.’,"(Shimelis Mazengia, p.c.)", "The adjective boon-aa with the copula -ɗa cannot replace the verb boon-ø-a, unlike other examples. "
 hae_ex_21,hae,hae_N_V_XP,*nam-i-cc-ø-i kun kan boon-ø-u dureys-ummɑ=tti ,person-EP-SGV-NOM-EP this [who] get.proud-3SG.M-DPT rich-NMLZ=LOC,Intended: ‘This man is who gets proud of being rich. ’,"(Shimelis Mazengia, p.c.)",
