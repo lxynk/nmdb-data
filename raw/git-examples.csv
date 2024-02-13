@@ -1,0 +1,30 @@
+﻿ID,Language,Paremeter,Original,Morphemic,Gloss,Translation ,Source,Comment
+git_ex_01,git,,,kiikw-‘y=hl akwuus-m ixstaa-m anaax,buy-1SG.II=CN stale-ATTR delicious-ATTR bread,I bought a stale cake (lit: stale sweet bread).,"(Forbes_2012, p. 50, ex. 1)'","There are three possible nominal modification methods for intransitive predicate-class lexical items in Gitxsan. One is with the attributive marker -m, and takes place prenominally. (Forbes_2012, p.50)'"
+git_ex_02,git,,,*kiikw-‘y=hl akwuus-m.,buy-1SG.II=CN stale-ATTR,Intended: 'I bought the stale one.',"adopted from (Forbes_2012, p. 50, ex. 1) & (Forbes_2012, p. 55, ex. 16b)'",Requires that a predicate-class item follow it(modifier) as the object of modification.'
+git_ex_03,git,,,*kiikw-‘y=hl ixstaa-m anaax akwuus-m,buy-1SG.II=CN delicious-ATTR bread stale-ATTR,Intended: 'I bought the stale cake.',"adopted from (Forbes_2012, p. 50, ex. 1) & (Forbes_2012, p. 55, ex. 16c)'",Attributive modifiers are also strictly prenominal.'
+git_ex_04,git,,,sqa‘wa-‘y=hl aam-at kat,meet-1SG.II=CN good-SX man,I met a good man.,"(Forbes_2012, p. 50, ex. 2)'","""Adjective-type"" predicates tend to relativizie in the prenominal position (Forbes_2012, p. 50).'"
+git_ex_05,git,,,xstaa=hl hanaq‘ limx-at ki,win=CN woman sing-SX DIST,The singing woman won,"(Forbes_2012, p. 50, ex. 3)'","""Verb-type"" predicates tend to relativizie in the prenominal position (Forbes_2012, p. 50).'"
+git_ex_06,git,,,c‘axw=hl hlkwu mihlatxw-m qanaa‘w haciks-at,clever=CN small green-ATTR frog swim-SX,The small swimming green frog is clever.,"(Forbes_2012, p. 59, ex. 25a)'","Relative clauses utilizing eventive predicates tend to occur postnominally (Forbes_2012, p. 59).'"
+git_ex_07,git,,,?c‘axw=hl hlkwu mihlatxw-m haciks-at qanaa‘w ,clever=CN small green-ATTR swim-SX frog ,Intended: 'The small swimming green frog is clever.',"(Forbes_2012, p. 59, ex. 25b)'","While prenominal placement of these eventive relative clauses is sometimes acceptable, more frequently it is rejected or considered awkward by speakers (Forbes_2012, p. 59).'"
+git_ex_08,git,,,titalq-a-‘y=hl hlkwu c‘axw-at t‘ihlxw,talk-TR-1SG.II=CN small clever-SX child,I talked with the clever child.,"(Forbes_2012, p. 60, ex. 28a)'",
+git_ex_09,git,,,*titalq-a-‘y=hl hlkwu t‘ihlxw c‘axw-at,talk-TR-1SG.II=CN small child clever-SX,Intended: 'I talked with the clever child.',"(Forbes_2012, p. 60, ex. 28b)'","Most stative intransitive predicates are obligatorily positioned prenominally (Forbes_2012, p. 60).'"
+git_ex_10,git,,,mihlatxw=hl qayt hoox-a-n,green=CN hat use-TR-2SG.II,The hat you're wearing is green.,"(Forbes_2012, p. 60, ex. 30a)'",
+git_ex_11,git,,,*mihlatxw=hl hoox-a-n qayt ,green=CN use-TR-2SG.II hat,Intended: 'The hat you're wearing is green.',"(Forbes_2012, p. 60, ex. 30b)'","The relative clauses of transitive predicates, in contrast, always position themselves following the noun (Forbes_2012, p. 60).'"
+git_ex_12,git,,,hlkwu c‘uusx=hl hlkwu wilp lax sqa‘nist,small small=CN small house on mountain,The house on the montain is very small.,"(Forbes_2012, p. 52, ex. 7)'",
+git_ex_13,git,,,sam ‘wii ‘nakw ‘nii‘y,real big long 1SG.III,I'm very tall.,"(Forbes_2012, p. 52, ex. 8)'",
+git_ex_14,git,,,ki‘nam-a-‘y=hl sip a=hl os t‘aa-at ki,give-TR-1SG.II=CN bone OBL=CN dog sit-SX DIST,I gave a bone to the sitting dog. ,"(Forbes_2012, p. 64, ex. 43a)'",
+git_ex_15,git,,,ki‘nam-a-‘y=hl sip a=hl os naa=hl t‘aa-at ,give-TR-1SG.II=CN bone OBL=CN dog who=CN sit-SX ,I gave a bone to the sitting dog. ,"(Forbes_2012, p. 64, ex. 43b)'",
+git_ex_16,git,,,hun[=hl] hli gub-i=hl log-om ‘wii+get,fish[=CN] HLI eat-TR[-3SG.II]=CN decayed-ATTR big+man,the fish the old man ate,"(Davis & Nederveen_2021, p. 15, ex. 49b)'",
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
