@@ -1,13 +1,13 @@
 ID,Language,Parameter,Original,Morphemic,Gloss,Translation,Source,Comment
-hae_ex_1,hae,hae_A_pred,,nam-i-cc-ø-i kun boon-aa-ɗa,person-EP-SGV-NOM-EP this proud-M-COP,This man is proud.,"(Shimelis Mazengia, p.c.)",
-hae_ex_2,hae,hae_V_pred,,nam-i-cc-ø-i kun boon-ø-a,person-EP-SGV-NOM-EP this proud-3SG.M-IPFV,This man is proud.,"(Shimelis Mazengia, p.c.)",
-hae_ex_3,hae,hae_XP_A,,nam-i-cc-ø-i kun dureys-ummɑ=tti boon-aa-ɗa,person-EP-SGV-NOM-EP this rich-NMLZ=LOC proud-M-COP,This man is proud of being rich.,"(Shimelis Mazengia, p.c.)",
-hae_ex_4,hae,hae_XP_V,,nam-i-cc-ø-i kun dureys-ummɑ=tti boon-ø-a,person-EP-SGV-NOM-EP this rich-NMLZ=LOC proud-3SG.M-IPFV,This man is proud of being rich.,"(Shimelis Mazengia, p.c.)",
-hae_ex_5,hae,hae_V_XP,,*nam-i-cc-ø-i kun boon-ø-a dureys-umma=tti,person-EP-SGV-NOM-EP this proud-3SG.M-IPFV rich-NMLZ=LOC,Intended: ‘This man is proud of being rich.’,"(Shimelis Mazengia, p.c.)",
-hae_ex_6,hae,hae_N_A,,Muussa nama boon-aa-ɗa,Muussa person proud-M-COP,Muussa is a proud person.,"(Shimelis Mazengia, p.c.)",
-hae_ex_7,hae,hae_N_A,,mana gurraacca,house black,a black house,"(Shimelis Mazengia, p.c.)",
-hae_ex_8,hae,hae_N_A,,nama furdaa,person fat,a fat person,"(Shimelis Mazengia, p.c.)",
-hae_ex_9,hae,hae_A_N,,*Muussa boon-aa-ɗa nama,Muussa proud-M-COP person,Intended: ‘Muussa is a proud person.’,"(Shimelis Mazengia, p.c.)",
+hae_ex_01,hae,hae_A_pred,,nam-i-cc-ø-i kun boon-aa-ɗa,person-EP-SGV-NOM-EP this proud-M-COP,This man is proud.,"(Shimelis Mazengia, p.c.)",
+hae_ex_02,hae,hae_V_pred,,nam-i-cc-ø-i kun boon-ø-a,person-EP-SGV-NOM-EP this proud-3SG.M-IPFV,This man is proud.,"(Shimelis Mazengia, p.c.)",
+hae_ex_03,hae,hae_XP_A,,nam-i-cc-ø-i kun dureys-ummɑ=tti boon-aa-ɗa,person-EP-SGV-NOM-EP this rich-NMLZ=LOC proud-M-COP,This man is proud of being rich.,"(Shimelis Mazengia, p.c.)",
+hae_ex_04,hae,hae_XP_V,,nam-i-cc-ø-i kun dureys-ummɑ=tti boon-ø-a,person-EP-SGV-NOM-EP this rich-NMLZ=LOC proud-3SG.M-IPFV,This man is proud of being rich.,"(Shimelis Mazengia, p.c.)",
+hae_ex_05,hae,hae_V_XP,,*nam-i-cc-ø-i kun boon-ø-a dureys-umma=tti,person-EP-SGV-NOM-EP this proud-3SG.M-IPFV rich-NMLZ=LOC,Intended: ‘This man is proud of being rich.’,"(Shimelis Mazengia, p.c.)",
+hae_ex_06,hae,hae_N_A,,Muussa nama boon-aa-ɗa,Muussa person proud-M-COP,Muussa is a proud person.,"(Shimelis Mazengia, p.c.)",
+hae_ex_07,hae,hae_N_A,,mana gurraacca,house black,a black house,"(Shimelis Mazengia, p.c.)",
+hae_ex_08,hae,hae_N_A,,nama furdaa,person fat,a fat person,"(Shimelis Mazengia, p.c.)",
+hae_ex_09,hae,hae_A_N,,*Muussa boon-aa-ɗa nama,Muussa proud-M-COP person,Intended: ‘Muussa is a proud person.’,"(Shimelis Mazengia, p.c.)",
 hae_ex_10,hae,hae_A_N,,*Muussa boon-aa nama-ɗa,Muussa proud-M person-COP,Intended: ‘Muussa is a proud person.’,"(Shimelis Mazengia, p.c.)",
 hae_ex_11,hae,hae_N_V,,Muussa nama boon-ø-u.,,Muussa is a person who is/gets proud.,,boon-ø-a impossible here?
 hae_ex_12,hae,hae_N_V,,Muussa kan boon-ø-u.,,Muussa is (one) who is/gets proud.,,boon-ø-a impossible here?
