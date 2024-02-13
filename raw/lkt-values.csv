@@ -23,14 +23,14 @@ lkt_VP_N,lkt,/,
 lkt_V_XP_N,lkt,/,
 lkt_XP_V_N,lkt,/,
 lkt_N_VP,lkt,yes,
-lkt_N_V_XP,lkt,no,
+lkt_N_V_XP,lkt,no,"Lakota is a left-branching, consistently head-marking and strictly verb-final SOV language (Ulrich-2018, p.40)."
 lkt_N_XP_V,lkt,yes,"The definite article is also commonly followed by an additional demonstrative. Interally verbal stems show morphological changes accordingly."
 lkt_V_attr,lkt,,
 lkt_V_attr_obl,lkt,,
 lkt_V_attr_pos,lkt,,
 lkt_V_pred,lkt,yes,"The head noun must be post-modified by one of the definite articles (kiŋ or k’uŋ) by a quantifier, partitive or additive particle. See section 3.5 in Ulrich (2018) for further clarification."
 lkt_V_dep,lkt,yes,
-lkt_V_XP,lkt,no,
+lkt_V_XP,lkt,no,"Lakota is a left-branching, consistently head-marking and strictly verb-final SOV language (Ulrich-2018, p.40)."
 lkt_XP_V,lkt,yes,
 ,,,
 lkt_C_mod,lkt,,
