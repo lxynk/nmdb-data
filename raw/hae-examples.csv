@@ -2,6 +2,8 @@ ID,Language,Parameter,Original,Morphemic,Gloss,Translation,Source,Comment
 hae_ex_01,hae,hae_A_pred,,nam-i-cc-ø-i kun boon-aa-ɗa.,person-EP-SGV-NOM-EP this proud-M-COP,This man is proud.,"(Shimelis Mazengia, p.c.)",
 hae_ex_02,hae,hae_V_pred,,nam-i-cc-ø-i kun boon-ø-a.,person-EP-SGV-NOM-EP this proud-3SG.M-IPFV,This man is proud.,"(Shimelis Mazengia, p.c.)",
 hae_ex_03,hae,hae_XP_A,,nam-i-cc-ø-i kun dureys-ummɑ=tti boon-aa-ɗa.,person-EP-SGV-NOM-EP this rich-NMLZ=LOC proud-M-COP,This man is proud of being rich.,"(Shimelis Mazengia, p.c.)",
+hae_ex_04,hae,hae_XP_A,,!!nam-i-cc-ø-i kun boon-aa-ɗa dureys-ummɑ=tti.,person-EP-SGV-NOM-EP this proud-M-COP rich-NMLZ=LOC,This man was proud when he was rich./ This man is proud at being rich. (less acceptable),"(Shimelis Mazengia, p.c.)",
+
 hae_ex_04,hae,hae_XP_V,,nam-i-cc-ø-i kun dureys-ummɑ=tti boon-ø-a.,person-EP-SGV-NOM-EP this rich-NMLZ=LOC proud-3SG.M-IPFV,This man is proud of being rich.,"(Shimelis Mazengia, p.c.)",
 hae_ex_05,hae,hae_V_XP,,*nam-i-cc-ø-i kun boon-ø-a dureys-umma=tti.,person-EP-SGV-NOM-EP this proud-3SG.M-IPFV rich-NMLZ=LOC,Intended: ‘This man is proud of being rich.’,"(Shimelis Mazengia, p.c.)",
 hae_ex_06,hae,hae_N_A,,Muussa nama boon-aa-ɗa.,Muussa person proud-M-COP,Muussa is a proud person.,"(Shimelis Mazengia, p.c.)",
@@ -9,10 +11,18 @@ hae_ex_07,hae,hae_N_A,,mana gurraacca,house black,a black house,"(Shimelis Mazen
 hae_ex_08,hae,hae_N_A,,nama furdaa,person fat,a fat person,"(Shimelis Mazengia, p.c.)",
 hae_ex_09,hae,hae_A_N,,*Muussa boon-aa-ɗa nama.,Muussa proud-M-COP person,Intended: ‘Muussa is a proud person.’,"(Shimelis Mazengia, p.c.)",
 hae_ex_10,hae,hae_A_N,,*Muussa boon-aa nama-ɗa.,Muussa proud-M person-COP,Intended: ‘Muussa is a proud person.’,"(Shimelis Mazengia, p.c.)",
-hae_ex_11,hae,hae_N_V,,Muussa nama boon-ø-u.,,Muussa is a person who is/gets proud.,,boon-ø-a impossible here?
-hae_ex_12,hae,hae_N_V,,Muussa kan boon-ø-u.,,Muussa is (one) who is/gets proud.,,boon-ø-a impossible here?
+hae_ex_11,hae,hae_N_V,,Muussa nama boon-ø-u.,Muussa person proud-3SG.M-DPT,Muussa is a person who is/gets proud.,,boon-ø-a impossible here?
+hae_ex_11,hae,hae_V_N,,Muussa boon-ø-u nama.,Mussa proud-3SG.M-DPT person,‘If Muussa is proud, it's because he is a human being’,"(Shimelis Mazengia, p.c.)",boon-ø-a impossible here?
+
+hae_ex_12,hae,hae_N_V,,Muussa kan boon-ø-u.,Mussa who proud-3SG.M-DPT,Muussa is (one) who is/gets proud.,,boon-ø-a impossible here?
+hae_ex_12,hae,hae_V_N,,*Muussa boon-ø-u kan.,Mussa proud-3SG.M-DPT who,Intended: ‘Muussa is (one) who is/gets proud.’,"(Shimelis Mazengia, p.c.)",boon-ø-a impossible here?
+
 hae_ex_13,hae,hae_N_XP_A,,*Muussa nama dureys-umm=tti boon-aa-ɗa.,Muussa person rich-NMLZ=LOC proud-M-COP,Intended: ‘Muussa is a person proud of being rich.’,"(Shimelis Mazengia, p.c.)",must be boon-ø-u
+hae_ex_13,hae,hae_N_A_XP,,!!Muussa nama boon-aa-ɗa dureys-umm=tti.,Muussa person proud-M-COP rich-NMLZ=LOC,Muussa was a proud person when he was rich./ Muussa is a proud person at being rich.(less acceptable),"(Shimelis Mazengia, p.c.)",
+
 hae_ex_14,hae,hae_N_XP_A,,*nam-i-cc-ø-i kun kan dureys-ummɑ=tti boon-aa-ɗa.,person-EP-SGV-NOM-EP this who rich-NMLZ=LOC proud-M-COP,Intended: ‘This man is who is proud of being rich.’,"(Shimelis Mazengia, p.c.)",must be boon-ø-u
+hae_ex_14,hae,hae_N_A_XP,,*nam-i-cc-ø-i kun kan boon-aa-ɗa dureys-ummɑ=tti.,person-EP-SGV-NOM-EP this who proud-M-COP rich-NMLZ=LOC,Intended: ‘This man is who is proud of being rich.’,"(Shimelis Mazengia, p.c.)",
+
 hae_ex_15,hae,hae_N_XP_V,,Muussa nama dureys-umm=tti boon-ø-u.,Muussa person rich-NMLZ=LOC proud-3SG.M-DPT,Muussa is a person proud of being rich.,"(Shimelis Mazengia, p.c.)",
 hae_ex_16,hae,hae_N_XP_V,,*Muussa nama dureys-umm=tti boon-ø-a.,Muussa person rich-NMLZ=LOC proud-3SG.M-IPFV,Intended: ‘Muussa is a person proud of being rich.’,"(Shimelis Mazengia, p.c.)",
 hae_ex_17,hae,hae_N_XP_V,,Muussa kan dureys-umma=tti boon-ø-u.,Muussa who rich-NMLZ=LOC proud-3SG.M-DPT,Muussa is (one) who is/gets proud of being rich.,"(Shimelis Mazengia, p.c.)",
@@ -21,6 +31,8 @@ hae_ex_19,hae,hae_N_XP_V,,nam-i-cc-ø-i kun kan dureys-ummɑ=tti boon-ø-u.,pers
 hae_ex_20,hae,hae_N_V_XP,,*Muussa nama boon-ø-u dureys-umm=tti.,Muussa person proud-3SG.M-DPT rich-NMLZ=LOC,Intended: ‘Muussa is a person proud of being rich.’,"(Shimelis Mazengia, p.c.)",
 hae_ex_21,hae,hae_N_V_XP,,*nam-i-cc-ø-i kun kan boon-ø-u dureys-ummɑ=tti.,person-EP-SGV-NOM-EP this who proud-3SG.M-DPT rich-NMLZ=LOC,Intended: ‘This man is who gets proud of being rich. ’,"(Shimelis Mazengia, p.c.)",
 hae_ex_22,hae,hae_XP_V_N,,*Muussa dureys-umma=tti boon-ø-u nama.,Muussa rich-NMLZ=LOC proud-3SG.M-DPT person,Intended: ‘Muussa is a person proud of being rich.’,"(Shimelis Mazengia, p.c.)",
+hae_ex_22,hae,hae_V_XP_N,,*Muussa boon-ø-u dureys-umma=tti nama.,Muussa proud-3SG.M-DPT rich-NMLZ=LOC person,Intended: ‘Muussa is a person proud of being rich.’,"(Shimelis Mazengia, p.c.)",
+
 hae_ex_23,hae,hae_N_Post,,níitíi-n magaláa xéesáa meesháa náa-f gurgur-t-e.,woman-NOM market inside.GEN things me-DAT sold-F-PFV,The woman inside the market sold goods for me.,"(Shimelis Mazengia, p.c.)",Genitive marker (lengthening of the final vowel) on the postposition indicates that the adposition is a modifier for the head noun.
 hae_ex_24,hae,hae_N_Post(?),,níitíi-n magaláa xéesá meesháa náa-f gurgur-t-e.,woman-NOM market inside things me-DAT sold-F-PFV,The woman sold goods for me inside the market.,"(Owens_1985, p.86)",The adposition “in the market” is here adverbial. 
 hae_ex_25,hae,hae_Post_N,,*magaláa xéesáa níitíi-n meesháa náa-f gurgur-t-e.,market inside.GEN woman-NOM things me-DAT sold-F-PFV,Intended: ‘The woman inside the market sold goods for me.’,"(Shimelis Mazengia, p.c.)",
