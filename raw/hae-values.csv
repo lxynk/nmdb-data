@@ -6,21 +6,21 @@ hae_AP_N,hae,/,
 hae_A_XP_N,hae,/,
 hae_XP_A_N,hae,/,
 hae_N_AP,hae,?,
-hae_N_A_XP,hae,no(?),needs example
+hae_N_A_XP,hae,no,
 hae_N_XP_A,hae,no,
 hae_A_attr,hae,,
 hae_A_attr_obl,hae,,
 hae_A_attr_pos,hae,,
 hae_A_pred,hae,yes,
 hae_A_dep,hae,yes,
-hae_A_XP,hae,no(?),needs example
+hae_A_XP,hae,yes?,but only acceptable in certain senses/meanings
 hae_XP_A,hae,yes,
 ,,,
 hae_V_mod,hae,yes,
-hae_V_N,hae,no(?),needs example
+hae_V_N,hae,yes?,but only acceptable in certain senses/meanings
 hae_N_V,hae,yes,
 hae_VP_N,hae,no(?),
-hae_V_XP_N,hae,?,needs example
+hae_V_XP_N,hae,no,
 hae_XP_V_N,hae,no,
 hae_N_VP,hae,yes,
 hae_N_V_XP,hae,no,"Oromo is a strictly verb-final language (Owens_1985, p.128)."
