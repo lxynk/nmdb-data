@@ -12,3 +12,16 @@ Guidelines for the creation of raw tables:
 Notes on parameters:
 - set of modifiers: does not include numerals, demonstratives, articles
 - set of dependents: does not include degree modifiers
+
+Notes on values:
+1. yes, no, special, unknown (+ lack of value = does not apply)
+2. some examples of 'special':
+- lexically restricted yes (e.g. prenominal adjectives in Abkhaz or Basque)
+- constructionally restricted yes (e.g. only superlatives as prenominal modifiers in Farsi)
+- special prosodic properties: prosodic break (e.g. postnominal modifiers in Chinese)
+- special prosodic properties: focal stress (e.g. preadjectival dependents in Russian)
+- unclear what the split is conditioned by (e.g. adnominal PPs in Guarani)
+3. possible values of a subordinate parameter if the value of the superordinate parameter is:
+- yes: any value
+- no: lack of value (does not apply)
+- special: ?
