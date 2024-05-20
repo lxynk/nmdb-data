@@ -12,6 +12,8 @@ Guidelines for the creation of raw tables:
 Notes on parameters:
 - set of modifiers: does not include numerals, demonstratives, articles
 - set of dependents: does not include degree modifiers
+- parameters are organized by implication relation (visualize the decision tree)
+- blocks of parameters: A, V, P, M (add a block for "other types of modifiers"?)
 
 Notes on values:
 1. yes, no, special, unknown (+ lack of value = does not apply)
