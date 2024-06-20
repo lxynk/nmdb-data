@@ -3,6 +3,9 @@ import collections
 
 from csvw.dsv import reader
 
+from pybtex import database
+from clld.lib.bibtex import unescape
+
 from cldfbench import Dataset as BaseDataset
 from cldfbench import CLDFSpec
 
@@ -27,6 +30,17 @@ class Dataset(BaseDataset):
 
     def cmd_makecldf(self, args):
         self.schema(args.writer.cldf)
+
+        bibdata = database.parse_file(str(self.raw_dir.joinpath('References.bib')))
+        refs = collections.defaultdict(list)
+        for key, entry in bibdata.entries.items():
+            src = Source.from_entry(key, entry)
+            for k in src:
+                src[k] = unescape(src[k])
+            for lid in src.get('langref', '').split(','):
+                lid = lid.strip()
+                refs[lid].append(src.id)
+            args.writer.cldf.sources.add(src)
 
         glangs_by_iso = {lg.iso: lg for lg in args.glottolog.api.languoids() if lg.iso}
 
