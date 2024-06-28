@@ -9,6 +9,8 @@ from clld.lib.bibtex import unescape
 from cldfbench import Dataset as BaseDataset
 from cldfbench import CLDFSpec
 
+from pycldf.sources import Source
+
 CODES = ['yes', 'no']
 
 
@@ -27,6 +29,28 @@ class Dataset(BaseDataset):
 
     def cmd_download(self, args):
         pass  # No need to implement. Raw data will be distributed with the repos.
+
+    def schema(self, cldf):
+        # Add custom additions to the default schema of a StructureDataset
+        cldf.add_component('LanguageTable')
+        cldf.add_component('ParameterTable')
+        cldf.add_component('CodeTable')
+        cldf.add_component(
+            'ExampleTable',
+            {
+                'name': 'Source',
+                'separator': ';',
+                "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#source",
+            },
+        )
+        # We add a list-valued foreign key from Values to Examples.
+        cldf.add_columns(
+            'ValueTable',
+            {
+                'name': 'Example_IDs',
+                'separator': ' ',
+                'propertyUrl': 'http://cldf.clld.org/v1.0/terms.rdf#exampleReference'}
+        )
 
     def cmd_makecldf(self, args):
         self.schema(args.writer.cldf)
@@ -81,6 +105,7 @@ class Dataset(BaseDataset):
                         Analyzed_Word=row['Morphemic'].split(),
                         Gloss=row['Gloss'].split(),
                         Translated_Text=row['Translation'],
+                        Source=row['Source'].split(';'),
                     ))
                 if row.get('Parameter'):
                     for pid in row.get('Parameter').split():
@@ -107,20 +132,3 @@ class Dataset(BaseDataset):
                         Value=row['Value'],
                         Example_IDs=exs.get(norm_id(row['ID']), []),
                     ))
-
-    def schema(self, cldf):
-        """
-        Add custom additions to the default schema of a StructureDataset
-        """
-        cldf.add_component('LanguageTable')
-        cldf.add_component('ParameterTable')
-        cldf.add_component('CodeTable')
-        cldf.add_component('ExampleTable')
-        # We add a list-valued foreign key from Values to Examples.
-        cldf.add_columns(
-            'ValueTable',
-            {
-                'name': 'Example_IDs',
-                'separator': ' ',
-                'propertyUrl': 'http://cldf.clld.org/v1.0/terms.rdf#exampleReference'}
-        )
