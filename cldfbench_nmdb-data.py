@@ -1,3 +1,4 @@
+import re
 import pathlib
 import collections
 
@@ -42,6 +43,7 @@ class Dataset(BaseDataset):
                 'separator': ';',
                 "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#source",
             },
+            'Source_Comment',  # free text info about source
         )
         # We add a list-valued foreign key from Values to Examples.
         cldf.add_columns(
@@ -56,14 +58,12 @@ class Dataset(BaseDataset):
         self.schema(args.writer.cldf)
 
         bibdata = database.parse_file(str(self.raw_dir.joinpath('References.bib')))
-        refs = collections.defaultdict(list)
+        refs = set()
         for key, entry in bibdata.entries.items():
             src = Source.from_entry(key, entry)
             for k in src:
                 src[k] = unescape(src[k])
-            for lid in src.get('langref', '').split(','):
-                lid = lid.strip()
-                refs[lid].append(src.id)
+            refs.add(src.id)
             args.writer.cldf.sources.add(src)
 
         glangs_by_iso = {lg.iso: lg for lg in args.glottolog.api.languoids() if lg.iso}
@@ -90,7 +90,7 @@ class Dataset(BaseDataset):
                     continue
                 if row['ID']:
                     if row['Language'] not in langs:
-                        glang = args.glottolog.api.languoid(row['Language'])
+                        glang = glangs_by_iso[row['Language']]
                         args.writer.objects['LanguageTable'].append(dict(
                             ID=row['Language'],
                             Name=glang.name,
@@ -105,7 +105,8 @@ class Dataset(BaseDataset):
                         Analyzed_Word=row['Morphemic'].split(),
                         Gloss=row['Gloss'].split(),
                         Translated_Text=row['Translation'],
-                        Source=row['Source'].split(';'),
+                        Source_Comment=row['Source'],
+                        Source=[rid for rid in refs if rid in row['Source']]
                     ))
                 if row.get('Parameter'):
                     for pid in row.get('Parameter').split():
