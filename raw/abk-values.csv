@@ -23,7 +23,7 @@ abk_XP_V_N,abk,yes,
 abk_N_VP,abk,yes,
 abk_N_V_XP,abk,yes,
 abk_N_XP_V,abk,yes,
-abk_V_attr,abk,yes,Non-finite stative suffix -w (plus agreement prefix).
+abk_V_lnk,abk,yes,Non-finite stative suffix -w (plus agreement prefix).
 abk_V_pred,abk,yes,Finite stative verbs.
 abk_VP,abk,yes,	
 abk_V_XP,abk,yes,		
