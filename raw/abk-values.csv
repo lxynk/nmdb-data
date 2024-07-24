@@ -34,6 +34,6 @@ abk_PrepP,abk,no,
 abk_PostP,abk,yes,		
 abk_PrepP_N,abk,/,		
 abk_N_PrepP,abk,/,		
-abk_PostP_N,abk,yes,PPs preferably, though not obligatorily, precede the noun (Hewitt_1979[p. 113]).
+abk_PostP_N,abk,yes,"PPs preferably, though not obligatorily, precede the noun (Hewitt_1979[p. 113])."
 abk_N_PostP,abk,yes,
 abk_PP_lnk,abk,no,
