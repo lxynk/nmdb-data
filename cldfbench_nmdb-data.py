@@ -40,7 +40,6 @@ class Dataset(BaseDataset):
             'ExampleTable',
             {
                 'name': 'Source',
-                'separator': ';',
                 "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#source",
             },
             'Source_Comment',  # free text info about source
@@ -65,6 +64,15 @@ class Dataset(BaseDataset):
                 src[k] = unescape(src[k])
             refs.add(src.id)
             args.writer.cldf.sources.add(src)
+
+        def bibkey(string):
+            for ref in refs:
+                if ref in string:
+                    return True
+                    break
+                else:
+                    continue
+            return False
 
         glangs_by_iso = {lg.iso: lg for lg in args.glottolog.api.languoids() if lg.iso}
 
@@ -105,8 +113,8 @@ class Dataset(BaseDataset):
                         Analyzed_Word=row['Morphemic'].split(),
                         Gloss=row['Gloss'].split(),
                         Translated_Text=row['Translation'],
-                        Source_Comment=row['Source'],
-                        Source=[rid for rid in refs if rid in row['Source']]
+                        Source=row['Source'] if bibkey(row['Source']) is True else None,
+                        Source_Comment=row['Source'] if bibkey(row['Source']) is False else None
                     ))
                 if row.get('Parameter'):
                     for pid in row.get('Parameter').split():
