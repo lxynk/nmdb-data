@@ -8,10 +8,10 @@ abk_ex_06,abk,abk_N_V_XP,,à-c°’ca yə-t°ə-w jə̀-la,the glass REL/3SG.NHU
 abk_ex_07,abk,abk_XP_V,,a-xàc’a a-š°q°’-k°à d-rə-z-ʈʂ’-lə̀mħa-wp’,the-man the-book-PL 3SG.HUM-3PL-for-mouth-ear-STAT.FIN.PRS,That man is interested in books.,Hewitt_1979[p. 109],"The order adjective/stat.verb ≻ complement is available only if the latter is a PP (p. 109), cf. examples above."
 abk_ex_08,abk,abk_XP_V_N,,a-š°q°’-k°à yə-rə-z-ʈʂ’-lə̀mħa-w a-xàc’a,the-book-PL REL/3SG.NHUM-3PL-for-mouth-ear-STAT.NFIN the-man,the man interested in books,"(George Hewitt, p.c.)",
 abk_ex_09,abk,abk_N_XP_V,,a-xàc’a a-š°q°’-k°à yə-rə-z-ʈʂ’-lə̀mħa-w,the-man the-book-PL REL/3SG.NHUM-3PL-for-mouth-ear-STAT.NFIN,the man interested in books,"(George Hewitt, p.c.)",
-abk_ex_10,abk,abk_Post_N,,Očamčə̀ra-nt°’ à-jɣab,O.-from the girl,the girl from Očamčira,"Hewitt_1979[p. 58] & (George Hewitt, p.c.)",
-abk_ex_11,abk,abk_N_Post,,à-jɣab Očamčə̀ra-nt°’,the girl O.-from,the girl from Očamčira,"Hewitt_1979[p. 58] & (George Hewitt, p.c.)",
-abk_ex_12,abk,abk_Post_N,,Àxra yə-zə̀(n) / yə-zə̀ħ°a(n) a-ħàmta,A. 3SG.HUM.M.-for / 3SG.HUM.M-for the present,the present for Axra,"Hewitt_1979[p. 113] & (George Hewitt, p.c.)",The yə- marker is a column II affix here.
-abk_ex_13,abk,abk_N_Post,,a-ħàmta Àxra yə-zə̀(n) / yə-zə̀ħ°a(n),the present A. 3SG.HUM.M-for / 3SG.HUM.M-for,the present for Axra,"Hewitt_1979[p. 113] & (George Hewitt, p.c.)",The yə- marker is a column II affix here.
+abk_ex_10,abk,abk_Post_N,,Očamčə̀ra-nt°’ à-jɣab,O.-from the girl,the girl from Očamčira,Hewitt_1979[p. 58],
+abk_ex_11,abk,abk_N_Post,,à-jɣab Očamčə̀ra-nt°’,the girl O.-from,the girl from Očamčira,Hewitt_1979[p. 58],
+abk_ex_12,abk,abk_Post_N,,Àxra yə-zə̀(n) / yə-zə̀ħ°a(n) a-ħàmta,A. 3SG.HUM.M-for / 3SG.HUM.M-for the present,the present for Axra,Hewitt_1979[p. 113],The yə- marker is a column II affix here.
+abk_ex_13,abk,abk_N_Post,,a-ħàmta Àxra yə-zə̀(n) / yə-zə̀ħ°a(n),the present A. 3SG.HUM.M-for / 3SG.HUM.M-for,the present for Axra,Hewitt_1979[p. 113],The yə- marker is a column II affix here.
 abk_ex_14,abk,,,Meràb də-y-də̀r-we-yt’ rc’ay°ə̀-s yə̀-q’o-w a-pħ°ə̀s,M. 3SG.HUM-3SG.HUM.M-know-DYN.FIN teacher-PRED REL/3SG.NHUM-be.STAT.NFIN the-woman,Merab knows the woman who is a teacher.,Hewitt_1979[p. 36],
 abk_ex_15,abk,,,Meràb də-y-də̀r-we-yt’ a-xàc’a yə̀-y-ba-(-z) a-pħ°ə̀s,M. 3SG.HUM-3SG.HUM.M-know-DYN.FIN the-man REL/3SG.NHUM-3SG.HUM.M-see-NFIN the-woman,Merab knows the woman whom the man saw.,Hewitt_1979[p. 36],
 abk_ex_16,abk,abk_N_A,,jɣab bzə̀ya-k,girl good-one,one/a good girl,Hewitt_1979[p. 222],
@@ -20,7 +20,6 @@ abk_ex_18,abk,abk_V_pred,,arə̀y à-jɣab də-bzə̀yo-w+p’,ART-girl 3SG.HUM-
 abk_ex_19,abk,abk_V_pred,,arə̀y à-jɣab də-kə̀rt+wo-w+p’,ART-girl 3SG.HUM-Georgian.STAT,This girl is Georgian.,Hewitt_1979[p. 226],
 abk_ex_20,abk,abk_N_A,,a-y°nə̀ bzə̀ya,ART-house good,a good house,Chirikba_2003[p. 29],
 abk_ex_21,abk,abk_V_N,,yə-bzə̀ya-w a-y°nə̀,REL/3SG.NHUM-good-STAT.FIN.PRS ART-house,a house which is good = a good house,Chirikba_2003[p. 29],
-abk_ex_22,abk,abk_N_AP,,*a-y°nə̀ ħarà ħ-zə bzə̀ya,ART-house 1PL 1PL-for good,Intended: ‘a house good for us’,"(Hewitt, p.c)",
-abk_ex_23,abk,abk_N_AP,,*a-y°nə̀ bzə̀ya ħarà ħ-zə,ART-house good 1PL 1PL-for,Intended: ‘a house good for us’,"(Hewitt, p.c)",
-abk_ex_24,abk,abk_N_AP,,ħarà ħ-zə yə-bzə̀ya-w a-y°nə̀,1PL 1PL-for REL/3SG.NHUM-good-STAT.NFIN ART-house,a house which is good for us,"(Hewitt, p.c)",
-,,,,,,,,
+abk_ex_22,abk,abk_N_AP,,*a-y°nə̀ ħarà ħ-zə bzə̀ya,ART-house 1PL 1PL-for good,Intended: ‘a house good for us’,"(George Hewitt, p.c.)",
+abk_ex_23,abk,abk_N_AP,,*a-y°nə̀ bzə̀ya ħarà ħ-zə,ART-house good 1PL 1PL-for,Intended: ‘a house good for us’,"(George Hewitt, p.c.)",
+abk_ex_24,abk,abk_N_AP,,ħarà ħ-zə yə-bzə̀ya-w a-y°nə̀,1PL 1PL-for REL/3SG.NHUM-good-STAT.NFIN ART-house,a house which is good for us,"(George Hewitt, p.c.)",
