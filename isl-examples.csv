@@ -28,4 +28,8 @@ isl_ex_,isl,isl_A_pred,,Jón er stolt-i.,John is proud-M.SG.NOM.WEAK,John is pro
 isl_ex_,isl,isl_A_pred isl_AP isl_A_XP,,Jón er stolt-ur af syni sínum.,John is proud-M.SG.NOM.STRONG on son.DAT his.DAT,John is proud of his son.,Gísli Rúnar Harðarson,
 isl_ex_,isl,isl_A_pred isl_AP isl_XP_A,,Jón er af syni sínum stolt-ur.,John is on son.DAT his.DAT proud-M.SG.NOM.STRONG,John is proud of his son.,Gísli Rúnar Harðarson,"this word order is dispreferred, possibly IS-triggered"
 ,,,,,,,,
+isl_ex_,isl,isl_PP_attr isl_PrepP isl_N_PrepP,,Landsleikur gegn Dönum verður erfiður.,,An international match against the Danes will be tough.,"(Neijmann_2022,p. 36)",
+,,,,,,,,
+isl_ex_,isl,,,Bærinn þar sem ég fæddist er lagður í eyði.,,The farmhouse where I was born has been abandoned.,"(Neijmann_2022,p. 407)",
+
 
