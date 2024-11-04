@@ -1,29 +1,28 @@
 ID,Language,Parameter,Original,Morphemic,Gloss,Translation,Source,Comment
 ,,,,,,,,
-isl_ex_,isl,,,stolt-i faðir-inn,proud-M.SG.NOM.WEAK father.NOM.SG-DEF.SG.M,the proud father,Gísli Rúnar Harðarson,
-isl_ex_,isl,,,hin stolt-a móðir,the proud-F.SG.NOM.WEAK mother.NOM.SG,the proud mother,Gísli Rúnar Harðarson,"The DEF article inflects for GEN, NUM, CASE and it is in complementary distribution with the DEF affix. The DEF article also contributes a somewhat different semantics."
-isl_ex_,isl,,,stolt-ur faðir-inn,proud-M.SG.NOM.STRONG father.NOM.SG-DEF.SG.M,the proud father,Gísli Rúnar Harðarson,obligatorily non-restrictive construal of the adjective
-isl_ex_,isl,,,*stolt-ur af syni sínum faðir,proud-M.SG.NOM.STRONG on son.DAT his.DAT,Intended: ‘[a] father proud of his son’,Gísli Rúnar Harðarson,
-isl_ex_,isl,,,*stolt-ur faðir af syni sínum,proud-M.SG.NOM.STRONG father on son.DAT his.DAT,Intended: ‘father proud of his son’,Gísli Rúnar Harðarson,
-isl_ex_,isl,,,af syni sínum stolt-ur faðir,on son.DAT his.DAT proud-M.SG.NOM.STRONG father,father proud of his son,Gísli Rúnar Harðarson,
-isl_ex_,isl,,, faðir stolt-ur af syni sínum,father proud-M.SG.NOM.STRONG on son.DAT his.DAT,father proud of his son,Gísli Rúnar Harðarson,
-isl_ex_,isl,,, faðir af syni sínum stolt-ur,father on son.DAT his.DAT proud-M.SG.NOM.STRONG,father proud of his son,Gísli Rúnar Harðarson,contrastive semantics is needed
-isl_ex_,isl,,,*stolt-i af syni sínum faðir-inn,proud-M.SG.NOM.WEAK on son.DAT his.DAT father.NOM.SG-DEF.SG.M, Intended: ‘the father proud of his son’,Gísli Rúnar Harðarson,
-isl_ex_,isl,,,*stolt-ur af syni sínum faðir-inn,proud-M.SG.NOM.STRONG on son.DAT his.DAT father.NOM.SG-DEF.SG.M, Intended: ‘the father proud of his son’,Gísli Rúnar Harðarson,
-isl_ex_,isl,,,af syni sínum stolt-i faðir-inn, on son.DAT his.DAT proud-M.SG.NOM.WEAK father.NOM.SG-DEF.SG.M,the father proud of his son,Gísli Rúnar Harðarson,
-isl_ex_,isl,,,af syni sínum stolt-ur faðir-inn, on son.DAT his.DAT proud-M.SG.NOM.STRONG father.NOM.SG-DEF.SG.M,the father proud of his son,Gísli Rúnar Harðarson,
-isl_ex_,isl,,,*stolt-i faðir-inn af syni sínum,proud-M.SG.NOM.WEAK father.NOM.SG-DEF.SG.M on son.DAT his.DAT,Intended: ‘the father proud of his son’,Gísli Rúnar Harðarson,
-isl_ex_,isl,,,*faðir-inn stolt-i af syni sínum, father.NOM.SG-DEF.SG.M proud-M.SG.NOM.WEAK on son.DAT his.DAT,Intended: ‘the father proud of his son’,Gísli Rúnar Harðarson,
-isl_ex_,isl,,,faðir-inn stolt-ur af syni sínum, father.NOM.SG-DEF.SG.M proud-M.SG.NOM.STRONG on son.DAT his.DAT,the father proud of his son,Gísli Rúnar Harðarson,non-restrictive??
-isl_ex_,isl,,,*faðir-inn af syni sínum stolt-i, father.NOM.SG-DEF.SG.M on son.DAT his.DAT proud-M.SG.NOM.WEAK,Intended: ‘the father proud of his son’,Gísli Rúnar Harðarson,non-restrictive??
-isl_ex_,isl,,,faðir-inn af syni sínum stolt-ur, father.NOM.SG-DEF.SG.M on son.DAT his.DAT proud-M.SG.NOM.STRONG,the father proud of his son,Gísli Rúnar Harðarson,non-restrictive?? but contrastive semantics is need
+isl_ex_,isl,isl_A_attr isl_A_N isl_A_attr_agr,,stolt-i faðir-inn,proud-M.SG.NOM.WEAK father.NOM.SG-DEF.SG.M,the proud father,Gísli Rúnar Harðarson,
+isl_ex_,isl,isl_A_attr isl_A_N isl_A_attr_agr,,hin stolt-a móðir,the proud-F.SG.NOM.WEAK mother.NOM.SG,the proud mother,Gísli Rúnar Harðarson,"The DEF article inflects for GEN, NUM, CASE and it is in complementary distribution with the DEF affix. The DEF article also contributes a somewhat different semantics."
+isl_ex_,isl,isl_A_attr isl_A_N isl_A_attr_agr,,stolt-ur faðir-inn,proud-M.SG.NOM.STRONG father.NOM.SG-DEF.SG.M,the proud father,Gísli Rúnar Harðarson,obligatorily non-restrictive construal of the adjective
+isl_ex_,isl,isl_A_attr isl_A_N isl_AP_N isl_A_XP_N,,*stolt-ur af syni sínum faðir,proud-M.SG.NOM.STRONG on son.DAT his.DAT,Intended: ‘[a] father proud of his son’,Gísli Rúnar Harðarson,
+isl_ex_,isl,isl_A_attr isl_A_N isl_AP_N isl_A_XP_N,,*stolt-i af syni sínum faðir-inn,proud-M.SG.NOM.WEAK on son.DAT his.DAT father.NOM.SG-DEF.SG.M, Intended: ‘the father proud of his son’,Gísli Rúnar Harðarson,
+isl_ex_,isl,isl_A_attr isl_A_N isl_AP_N isl_A_XP_N,,*stolt-ur af syni sínum faðir-inn,proud-M.SG.NOM.STRONG on son.DAT his.DAT father.NOM.SG-DEF.SG.M, Intended: ‘the father proud of his son’,Gísli Rúnar Harðarson,
+isl_ex_,isl,isl_A_attr isl_A_N isl_AP_N isl_A_N_XP,,*stolt-ur faðir af syni sínum,proud-M.SG.NOM.STRONG father on son.DAT his.DAT,Intended: ‘father proud of his son’,Gísli Rúnar Harðarson,
+isl_ex_,isl,isl_A_attr isl_A_N isl_AP_N isl_A_N_XP,,*stolt-i faðir-inn af syni sínum,proud-M.SG.NOM.WEAK father.NOM.SG-DEF.SG.M on son.DAT his.DAT,Intended: ‘the father proud of his son’,Gísli Rúnar Harðarson,
+isl_ex_,isl,isl_A_attr isl_A_N isl_AP_N isl_XP_A_N isl_A_attr_agr,,af syni sínum stolt-ur faðir,on son.DAT his.DAT proud-M.SG.NOM.STRONG father,father proud of his son,Gísli Rúnar Harðarson,
+isl_ex_,isl,isl_A_attr isl_A_N isl_AP_N isl_XP_A_N isl_A_attr_agr,,af syni sínum stolt-i faðir-inn, on son.DAT his.DAT proud-M.SG.NOM.WEAK father.NOM.SG-DEF.SG.M,the father proud of his son,Gísli Rúnar Harðarson,
+isl_ex_,isl,isl_A_attr isl_A_N isl_AP_N isl_XP_A_N isl_A_attr_agr,,af syni sínum stolt-ur faðir-inn, on son.DAT his.DAT proud-M.SG.NOM.STRONG father.NOM.SG-DEF.SG.M,the father proud of his son,Gísli Rúnar Harðarson,
+isl_ex_,isl,isl_A_attr isl_N_A isl_N_AP isl_N_A_XP isl_A_attr_agr,,faðir stolt-ur af syni sínum,father proud-M.SG.NOM.STRONG on son.DAT his.DAT,father proud of his son,Gísli Rúnar Harðarson,
+isl_ex_,isl,isl_A_attr isl_N_A isl_N_AP isl_N_A_XP,,*faðir-inn stolt-i af syni sínum, father.NOM.SG-DEF.SG.M proud-M.SG.NOM.WEAK on son.DAT his.DAT,Intended: ‘the father proud of his son’,Gísli Rúnar Harðarson,
+isl_ex_,isl,isl_A_attr isl_N_A isl_N_AP isl_N_A_XP isl_A_attr_agr,,faðir-inn stolt-ur af syni sínum, father.NOM.SG-DEF.SG.M proud-M.SG.NOM.STRONG on son.DAT his.DAT,the father proud of his son,Gísli Rúnar Harðarson,non-restrictive??
+isl_ex_,isl,isl_A_attr isl_N_A isl_N_AP isl_N_XP_A isl_A_attr_agr,,faðir af syni sínum stolt-ur,father on son.DAT his.DAT proud-M.SG.NOM.STRONG,father proud of his son,Gísli Rúnar Harðarson,contrastive semantics is needed
+isl_ex_,isl,isl_A_attr isl_N_A isl_N_AP isl_N_XP_A,,*faðir-inn af syni sínum stolt-i,father.NOM.SG-DEF.SG.M on son.DAT his.DAT proud-M.SG.NOM.WEAK,Intended: ‘the father proud of his son’,Gísli Rúnar Harðarson,non-restrictive??
+isl_ex_,isl,isl_A_attr isl_N_A isl_N_AP isl_N_XP_A,,faðir-inn af syni sínum stolt-ur,father.NOM.SG-DEF.SG.M on son.DAT his.DAT proud-M.SG.NOM.STRONG,the father proud of his son,Gísli Rúnar Harðarson,non-restrictive?? but contrastive semantics is need
 ,,,,,,,,
-isl_ex_,isl,,,Jón er stolt-ur.,John is proud-M.SG.NOM.STRONG,John is proud.,Gísli Rúnar Harðarson,
-isl_ex_,isl,,,Jón er stolt-i.,John is proud-M.SG.NOM.WEAK,John is proud.,Gísli Rúnar Harðarson, "Weak declension is possible on the adjective only for [is the A one] constructions, but in this case the presence of a demonstrative is obligatory: John is DEM ADJ-weak]."
-isl_ex_,isl,,,Jón er stolt-ur af syni sínum.,John is proud-M.SG.NOM.STRONG on son.DAT his.DAT,John is proud of his son.,Gísli Rúnar Harðarson,
-isl_ex_,isl,,,Jón er af syni sínum stolt-ur.,John is on son.DAT his.DAT proud-M.SG.NOM.STRONG,John is proud of his son.,Gísli Rúnar Harðarson,"this word order is dispreferred, possibly IS-triggered"
-
-
+isl_ex_,isl,isl_A_pred isl_A_pred_agr,,Jón er stolt-ur.,John is proud-M.SG.NOM.STRONG,John is proud.,Gísli Rúnar Harðarson,
+isl_ex_,isl,isl_A_pred isl_A_pred_agr,,Jón er stolt-i.,John is proud-M.SG.NOM.WEAK,John is proud.,Gísli Rúnar Harðarson, "Weak declension is possible on the adjective only for [is the A one] constructions, but in this case the presence of a demonstrative is obligatory: John is DEM ADJ-weak]."
+isl_ex_,isl,isl_A_pred isl_A_XP isl_A_pred_agr,,Jón er stolt-ur af syni sínum.,John is proud-M.SG.NOM.STRONG on son.DAT his.DAT,John is proud of his son.,Gísli Rúnar Harðarson,
+isl_ex_,isl,isl_A_pred isl_XP_A isl_A_pred_agr,,Jón er af syni sínum stolt-ur.,John is on son.DAT his.DAT proud-M.SG.NOM.STRONG,John is proud of his son.,Gísli Rúnar Harðarson,"this word order is dispreferred, possibly IS-triggered"
+,,,,,,,,
 
 ,,,,,,,,
 ,,,,,,,,
