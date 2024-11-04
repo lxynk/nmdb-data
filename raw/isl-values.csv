@@ -1,32 +1,32 @@
 ID,Language,Value,Comment
 isl_A_attr,isl,yes, 
 isl_A_N,isl,yes, 
-isl_N_A,isl,yes,
+isl_N_A,isl,?,
 isl_AP_N,isl,yes, 
 isl_A_XP_N,isl,no,
 isl_XP_A_N,isl,yes,
 isl_A_N_XP,isl,no,
-isl_N_AP,isl,yes,
+isl_N_AP,isl,,
 isl_N_A_XP,isl,yes,
-isl_N_XP_A,isl,yes, "contrastive semantics is needed here (Gísli Rúnar Harðarson, p.c) "
-isl_XP_N_A,isl,no, "no examples here"
+isl_N_XP_A,isl,special,"Contrastive semantics is needed here (Gísli Rúnar Harðarson, p.c) "
+isl_XP_N_A,isl,no,
 isl_A_lnk,isl,no?, 
 isl_A_pred,isl,yes, 
 isl_AP,isl,yes,
 isl_A_XP,isl,yes,
-isl_XP_A,isl,yes?, "this word order is dispreferred (Gísli Rúnar Harðarson, p.c) "
-isl_A_attr_agr,isl,yes, "Adjectives normally agree with the gender, number and case of the (pro)noun they qualify (Neijmann_2022, p. 243)"
+isl_XP_A,isl,special,"This word order is dispreferred,possibly IS-triggered (Gísli Rúnar Harðarson, p.c)."
+isl_A_attr_agr,isl,yes,"Adjectives normally agree with the gender, number and case of the (pro)noun they qualify (Neijmann_2022, p. 243)"
 isl_A_pred_agr,isl,yes,
 ,,,
 isl_V_attr,isl,yes,
-isl_V_N,isl,,
+isl_V_N,isl,no,
 isl_N_V,isl,yes,
-isl_VP_N,isl,,
-isl_V_XP_N,isl,,
-isl_XP_V_N,isl,,
-isl_V_N_XP,isl,,
+isl_VP_N,isl,/,
+isl_V_XP_N,isl,/,
+isl_XP_V_N,isl,/,
+isl_V_N_XP,isl,/,
 isl_N_VP,isl,yes,
-isl_N_V_XP,isl,,
+isl_N_V_XP,isl,yes,
 isl_N_XP_V,isl,,
 isl_XP_N_V,isl,,
 isl_V_lnk,isl,yes,"RCs are introduced by relative conjunctions, which in Icelandic are sem and, in written and more for-mal language, er (Neijmann_2022, p. 243). "
@@ -40,8 +40,8 @@ isl_V_pred_agr,isl,,
 isl_PP_attr,isl,yes, 
 isl_PrepP,isl,yes,		
 isl_PostP,isl,no?,"[i]n certain instances, the preposition samkvæmt follows rather than precede its complement (Neijmann_2022, p. 407)."
-isl_PrepP_N,isl,yes,		
-isl_N_PrepP,isl,,
+isl_PrepP_N,isl,,		
+isl_N_PrepP,isl,yes,
 isl_PostP_N,isl,, 
 isl_N_PostP,isl,,
 isl_P_lnk,isl,,
