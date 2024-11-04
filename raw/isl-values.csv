@@ -39,7 +39,7 @@ isl_V_pred_agr,isl,,
 ,,,
 isl_PP_attr,isl,yes, 
 isl_PrepP,isl,yes,		
-isl_PostP,isl,no?,Although "[i]n certain instances, the preposition samkvæmt follows rather than precede its complement (Neijmann_2022, p. 407)."
+isl_PostP,isl,no?,"[i]n certain instances, the preposition samkvæmt follows rather than precede its complement (Neijmann_2022, p. 407)."
 isl_PrepP_N,isl,yes,		
 isl_N_PrepP,isl,,
 isl_PostP_N,isl,, 
