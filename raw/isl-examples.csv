@@ -2,6 +2,7 @@ ID,Language,Parameter,Original,Morphemic,Gloss,Translation,Source,Comment
 isl_ex_,isl,isl_A_attr isl_A_N isl_A_attr_agr,,stolt-i faðir-inn,proud-M.SG.NOM.WEAK father.NOM.SG-DEF.SG.M,the proud father,"Gísli Rúnar Harðarson, p.c.",
 isl_ex_,isl,isl_A_attr isl_A_N isl_A_attr_agr,,hin stolt-a móðir,the proud-F.SG.NOM.WEAK mother.NOM.SG,the proud mother,Gísli Rúnar Harðarson,"The DEF article inflects for GEN, NUM, CASE and it is in complementary distribution with the DEF affix. The DEF article also contributes a somewhat different semantics."
 isl_ex_,isl,isl_A_attr isl_A_N isl_A_attr_agr,,stolt-ur faðir-inn,proud-M.SG.NOM.STRONG father.NOM.SG-DEF.SG.M,the proud father,Gísli Rúnar Harðarson,obligatorily non-restrictive construal of the adjective
+isl_ex_,isl,isl_A_attr isl_N_A,,Gunnar átti hest gráan.,Gunnar had horse grey,Grunnar had a grey horse.,"Thráinsson_2007[p. 88, ex. 3.2(b)]",
 isl_ex_,isl,isl_A_attr isl_A_N isl_AP_N isl_A_XP_N,,*stolt-ur af syni sínum faðir,proud-M.SG.NOM.STRONG on son.DAT his.DAT,Intended: ‘[a] father proud of his son’,Gísli Rúnar Harðarson,
 isl_ex_,isl,isl_A_attr isl_A_N isl_AP_N isl_A_XP_N,,*stolt-i af syni sínum faðir-inn,proud-M.SG.NOM.WEAK on son.DAT his.DAT father.NOM.SG-DEF.SG.M, Intended: ‘the father proud of his son’,Gísli Rúnar Harðarson,
 isl_ex_,isl,isl_A_attr isl_A_N isl_AP_N isl_A_XP_N,,*stolt-ur af syni sínum faðir-inn,proud-M.SG.NOM.STRONG on son.DAT his.DAT father.NOM.SG-DEF.SG.M, Intended: ‘the father proud of his son’,Gísli Rúnar Harðarson,
