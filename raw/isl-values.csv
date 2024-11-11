@@ -1,7 +1,7 @@
 ID,Language,Value,Comment
 isl_A_attr,isl,yes, 
 isl_A_N,isl,yes, 
-isl_N_A,isl,?,
+isl_N_A,isl,no,not mentioned
 isl_AP_N,isl,yes, 
 isl_A_XP_N,isl,no,
 isl_XP_A_N,isl,yes,
