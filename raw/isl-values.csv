@@ -1,7 +1,7 @@
 ID,Language,Value,Comment
 isl_A_attr,isl,yes, 
 isl_A_N,isl,yes, 
-isl_N_A,isl,no,not mentioned
+isl_N_A,isl,special?,"Although adjectives typically precede the nouns they modify, as do demonstrative pronouns, the reverse order is sometimes used in relatively formal orbookish written Icelandic (Thráinsson_2007, p. 88) ."
 isl_AP_N,isl,yes, 
 isl_A_XP_N,isl,no,
 isl_XP_A_N,isl,yes,
@@ -27,24 +27,24 @@ isl_XP_V_N,isl,/,
 isl_V_N_XP,isl,/,
 isl_N_VP,isl,yes,
 isl_N_V_XP,isl,yes,
-isl_N_XP_V,isl,,
+isl_N_XP_V,isl,no?,
 isl_XP_N_V,isl,,
 isl_V_lnk,isl,yes,"RCs are introduced by relative conjunctions, which in Icelandic are sem and, in written and more for-mal language, er (Neijmann_2022, p. 243). "
 isl_V_pred,isl,,
 isl_VP,isl,,	
 isl_V_XP,isl,,		
 isl_XP_V,isl,,
-isl_V_attr_agr,isl,,
+isl_V_attr_agr,isl,yes?,
 isl_V_pred_agr,isl,,
 ,,,
 isl_PP_attr,isl,yes, 
 isl_PrepP,isl,yes,		
 isl_PostP,isl,no?,"[i]n certain instances, the preposition samkvæmt follows rather than precede its complement (Neijmann_2022, p. 407)."
-isl_PrepP_N,isl,,		
+isl_PrepP_N,isl,no?,not mentioned 		
 isl_N_PrepP,isl,yes,
 isl_PostP_N,isl,, 
 isl_N_PostP,isl,,
-isl_P_lnk,isl,,
+isl_P_lnk,isl,no?,
 isl_PP_agr,isl,,
 ,,,
 isl_M_M_N,isl,yes, 
