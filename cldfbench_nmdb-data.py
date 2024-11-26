@@ -111,6 +111,7 @@ class Dataset(BaseDataset):
                         Analyzed_Word=row['Morphemic'].split(),
                         Gloss=row['Gloss'].split(),
                         Translated_Text=row['Translation'],
+                        Comment=row['Comment'],
                         Source=[bibkey(row['Source'])] if bibkey(row['Source']) else None,
                         Source_Comment=row['Source'] if bibkey(row['Source']) is False else None
                     ))
