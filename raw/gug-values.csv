@@ -1,0 +1,44 @@
+ID,Language,Value,Comment
+gug_A,gug,yes,"Guarani does not have a clear morphological class of adjectives. Most roots that can be used as adjectives do so without any specific marking that would distinguish them from verbs or nouns (Estigarribia: 2020, p. 87). Such bare roots are categorized into this section. As modifiers, they can only be postnominal and they can not take dependents."
+gug_A_N,gug,no,
+gug_N_A,gug,yes,
+gug_A_XP_N,gug,no,
+gug_XP_A_N,gug,no,
+gug_A_N_XP,gug,no,
+gug_N_A_XP,gug,no,
+gug_N_XP_A,gug,no,
+gug_XP_N_A,gug,no,
+gug_A_XP,gug,yes/special,"the more natural alternative; [Bare roots cannot function as independent predicates, they must take verbal personal markers in such situations.]"
+gug_XP_A,gug,yes,
+
+gug_V,gug,yes,"Roots with the adjectivizer/relativizer -va (unmarked for tense), -va'ekue (adjectivizing in the past) and -va'erã (adjectivizing in the future) are categorized into this section. See section 3.3 in Estigarribia (2020) for more discussion. "
+gug_V_N,gug,yes,
+gug_N_V,gug,yes, 
+gug_V_XP_N,gug,no,
+gug_XP_V_N,gug,no,
+gug_V_N_XP,gug,unknown,
+gug_N_V_XP,gug,yes,the more common word order as compared to gug_N_XP_V
+gug_N_XP_V,gug,yes?special,
+gug_XP_N_V,gug,unknown,
+gug_V_XP,gug,/,"Forms with the suffix -va (adjectivizer/relativizer) cannot be used predicatively."
+gug_XP_V,gug,/,
+
+gug_Prep,gug,no,
+gug_Post,gug,yes,"When used to modify nominals, PostP are often introduced with an additional enclitic =gua."
+gug_PrepP_N,gug,no,
+gug_N_PrepP,gug,no,
+gug_PostP_N,gug,yes/special?,"The prenominal placement of PostP is not always possible, see examples."
+gug_N_PostP,gug,yes,"The postnominal placement of adnominal PPs appears to be the neutral/more natural word order compared to??."
+
+gug_M_Deg_N,gug,,
+gug_Deg_M_N,gug,,
+gug_M_N_Deg,gug,,
+gug_N_M_Deg,gug,,
+gug_N_Deg_M,gug,,
+gug_Deg_N_M,gug,,
+
+gug_M_M_N,gug,?,
+gug_N_M_M,gug,?,
+gug_M_N_M,gug,?,
+
+
