@@ -57,7 +57,7 @@ class Dataset(BaseDataset):
     def cmd_makecldf(self, args):
         self.schema(args.writer.cldf)
 
-        bibdata = database.parse_file(str(self.raw_dir.joinpath('References.bib')))
+        bibdata = database.parse_file(str(self.raw_dir.joinpath('Bibliography.bib')))
         refs = set()
         for key, entry in bibdata.entries.items():
             src = Source.from_entry(key, entry)
