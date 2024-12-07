@@ -138,5 +138,6 @@ class Dataset(BaseDataset):
                         Parameter_ID='_'.join(norm_id(row['ID']).split('_')[1:]),
                         Code_ID='_'.join(norm_id(row['ID']).split('_')[1:]) + '-' + code,
                         Value=row['Value'],
+                        Comment=row['Comment'],
                         Example_IDs=exs.get(norm_id(row['ID']), []),
                     ))
