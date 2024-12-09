@@ -12,7 +12,7 @@ from cldfbench import CLDFSpec
 
 from pycldf.sources import Source
 
-CODES = ['yes', 'no']
+CODES = ['unknown', 'special', 'yes', 'no']
 
 
 def norm_id(s):
