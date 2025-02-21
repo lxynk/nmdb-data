@@ -44,6 +44,10 @@ class Dataset(BaseDataset):
                 "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#source",
             },
             'Source_Comment',  # free text info about source
+            {
+                'name': 'Grammaticality_Judgement',
+                "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#grammaticalityJudgement"
+            }
         )
         # We add a list-valued foreign key from Values to Examples.
         cldf.add_columns(
@@ -89,6 +93,7 @@ class Dataset(BaseDataset):
                     ))
         langs = set()
         exs = collections.defaultdict(list)
+        ungram_signs = ['*?', '?*', '??', '*', '?', '#', '%', '!']
         for p in self.raw_dir.glob('*-examples.csv'):
             print(p)
             for row in reader(p, dicts=True):
@@ -113,7 +118,8 @@ class Dataset(BaseDataset):
                         Translated_Text=row['Translation'],
                         Comment=row['Comment'],
                         Source=[bibkey(row['Source'])] if bibkey(row['Source']) else None,
-                        Source_Comment=row['Source'] if bibkey(row['Source']) is False else None
+                        Source_Comment=row['Source'] if bibkey(row['Source']) is False else None,
+                        Grammaticality_Judgement=row['Morphemic'][0:2] if row['Morphemic'][0:2] in ungram_signs else row['Morphemic'][0:1] if row['Morphemic'][0:1] in ungram_signs else None
                     ))
                 if row.get('Parameter'):
                     for pid in row.get('Parameter').split():
