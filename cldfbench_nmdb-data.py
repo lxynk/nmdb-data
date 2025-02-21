@@ -44,7 +44,10 @@ class Dataset(BaseDataset):
                 "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#source",
             },
             'Source_Comment',  # free text info about source
-            'Grammaticality_Judgement',
+            {
+                'name': 'Grammaticality_Judgement',
+                "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#grammaticalityJudgement"
+            }
         )
         # We add a list-valued foreign key from Values to Examples.
         cldf.add_columns(
