@@ -55,7 +55,19 @@ class Dataset(BaseDataset):
             {
                 'name': 'Example_IDs',
                 'separator': ' ',
-                'propertyUrl': 'http://cldf.clld.org/v1.0/terms.rdf#exampleReference'}
+                'propertyUrl': 'http://cldf.clld.org/v1.0/terms.rdf#exampleReference'
+            }
+        )
+        cldf.add_table(
+            'abbreviations.csv',
+            {
+                'name': 'ID',
+                'propertyUrl': 'http://cldf.clld.org/v1.0/terms.rdf#id',
+            },
+            {
+                'name': 'Name',
+                'propertyUrl': 'http://cldf.clld.org/v1.0/terms.rdf#name',
+            }
         )
 
     def cmd_makecldf(self, args):
@@ -147,3 +159,9 @@ class Dataset(BaseDataset):
                         Comment=row['Comment'],
                         Example_IDs=exs.get(norm_id(row['ID']), []),
                     ))
+
+        for row in self.raw_dir.read_csv('Abbreviations.csv', dicts=True):
+            args.writer.objects['abbreviations.csv'].append(dict(
+                ID=row['ID'],
+                Name=row['Name']
+            ))
