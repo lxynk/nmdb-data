@@ -6,7 +6,7 @@ Guidelines for the creation of raw tables:
 5. wrap the content of the cell in '' if it contains a comma
 6. multiple parameters associated to an example: space separated
 7. do not put ''/"Intended:" around the translation (will be added automatically)
-8. possible grammaticality signs: '*?', '?*', '??', '*', '?', '#', '%', '!'
+8. possible grammaticality signs: `*?`, `?*`, `??`, `*`, `?`, `#`, `%`, `!`
 9. [?] use {} for missing elements in the gloss?
 10. [?] category subscripts and other markup?
 
