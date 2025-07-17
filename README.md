@@ -5,8 +5,8 @@ Guidelines for the creation of raw tables:
 4. format of refs from the bibliography: `bibkey` or `bibkey[page]`
 5. wrap the content of the cell in '' if it contains a comma
 6. multiple parameters associated to an example: space separated
-7. do not put '' around the translation (will be added automatically)
-8. [?] *? "Intended:"? placement of '' in ungrammatical examples?
+7. do not put ''/"Intended:" around the translation (will be added automatically)
+8. possible grammaticality signs: '*?', '?*', '??', '*', '?', '#', '%', '!'
 9. [?] use {} for missing elements in the gloss?
 10. [?] category subscripts and other markup?
 
