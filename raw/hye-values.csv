@@ -3,11 +3,13 @@ hye_A,hye,yes,"Adjectives and a limited number of participles (resultative, subj
 hye_A_N,hye,yes,
 hye_N_A,hye,special,"Adjectives are rigidly preposed to the noun. An exception to this rigid rule can only be found in poetic language (Dum-Tragut: 2009, p. 586)."
 hye_A_XP_N,hye,no,
-hye_XP_A_N,hye,yes,"Definite enclitic immediately follows the noun while the optional indefinite marker mi immediately precedes the noun. "
+hye_XP_A_N,hye,yes,"Definite enclitic immediately follows the noun while the optional indefinite marker mi immediately precedes the noun."
 hye_A_N_XP,hye,no,
 hye_N_A_XP,hye,special,
 hye_N_XP_A,hye,special,
 hye_XP_N_A,hye,special,
+hye_A_XP,hye,,
+hye_XP_A,hye,,
 
 hye_V,hye,yes,finite RCs
 hye_V_N,hye,no,
@@ -18,6 +20,8 @@ hye_V_N_XP,hye,,
 hye_N_V_XP,hye,yes,
 hye_N_XP_V,hye,yes,
 hye_XP_N_V,hye,unknown,
+hye_V_XP,hye,,
+hye_XP_V,hye,,
 
 hye_Prep,hye,special,
 hye_Post,hye,yes,
@@ -25,13 +29,6 @@ hye_PrepP_N,hye,yes,
 hye_N_PrepP,hye,special,stylistically marked (poetic) and information-structurally marked (contrastive focus)
 hye_PostP_N,hye,yes,
 hye_N_PostP,hye,special?,stylistically marked-poetic
-
-hye_M_Deg_N,hye,unknown,
-hye_Deg_M_N,hye,yes,"The adverbs or adjectives used in the function of an intensifier canonically precede the adjective they intensify (Dum-Tragut: 2009, p.590)."
-hye_M_N_Deg,hye,unknown,
-hye_N_M_Deg,hye,unknown,
-hye_N_Deg_M,hye,unknown,
-hye_Deg_N_M,hye,unknown,
 
 hye_M_M_N,hye,yes,"A noun-phrase may contain more than one adjective and naturally also more than one semantic type of adjective (Dum-Tragut: 2009, p.586)."
 hye_N_M_M,hye,unknown,
