@@ -1,0 +1,57 @@
+ID,Language,Value,Comment
+cym_A_attr,cym,yes, 
+cym_A_N,cym,special,"Although most adjectives follow the noun they modify, there are a few adjectives that always or often precede. See section 5.4.3 in Borsley et al. (2007) for more discussion."
+cym_N_A,cym,yes,
+cym_AP_N,cym,?, 
+cym_A_XP_N,cym,no,
+cym_XP_A_N,cym,no,
+cym_A_N_XP,cym,SPECIAL,
+cym_N_AP,cym,yes,
+cym_N_A_XP,cym,yes,
+cym_N_XP_A,cym,no,
+cym_XP_N_A,cym,no,"Welsh is strongly head-initial, in the sense that heads precede their complements across all phrase types (Borsley et al. (2007, p.7)."
+cym_A_lnk,cym,no, 
+cym_A_pred,cym,yes, 
+cym_AP,cym,yes,
+cym_A_XP,cym,yes,
+cym_XP_A,cym,no,
+cym_A_attr_agr,cym,yes,"Some adjectives have distinct morphological forms. When used attributively, the adjective agreement is optional and the general form may also be used (Borsley et al_2007, p. 178)."
+cym_A_pred_agr,cym,no,"In predicative position, adjectives never agree in gender or number with their noun (Borsley et al_2007, p. 179)."
+,,,
+cym_V_attr,cym,yes,
+cym_V_N,cym,no,no mentions in the grammar
+cym_N_V,cym,yes,
+cym_VP_N,cym,,
+cym_V_XP_N,cym,,
+cym_XP_V_N,cym,,
+cym_V_N_XP,cym,,
+cym_N_VP,cym,yes,
+cym_N_V_XP,cym,yes,
+cym_N_XP_V,cym,no?,
+cym_XP_N_V,cym,no,
+cym_V_lnk,cym,no,not mentioned in the grammar 
+cym_V_pred,cym,,
+cym_VP,cym,,	
+cym_V_XP,cym,,		
+cym_XP_V,cym,,
+cym_V_attr_agr,cym,yes,
+cym_V_pred_agr,cym,,
+,,,
+cym_PP_attr,cym,yes, 
+cym_PrepP,cym,yes,		
+cym_PostP,cym,no,no mentions in the grammar 
+cym_Prepp_N,cym,no,no mentions in the grammar	
+cym_N_PrepP,cym,yes,
+cym_PostP_N,cym,, 
+cym_N_PostP,cym,,
+cym_P_lnk,cym,no,
+cym_PP_agr,cym,no,
+,,,
+cym_M_M_N,cym,yes?,
+cym_N_M_M,cym,yes,
+cym_M_N_M,cym,yes,
+,,,
+,QUESTIONS ABOUT DEGREE MODIFIERS?,yes,both pre- and post-adjectival
+
+
+
