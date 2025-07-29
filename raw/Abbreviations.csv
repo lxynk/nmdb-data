@@ -67,6 +67,7 @@ LA,locative argument,
 LOC,locative,yes 
 LP,locative prefix,
 M,masculine,yes 
+MED,medial,
 N,neuter,yes
 NEG,negation/negative,yes
 NFIN,non-finite,
@@ -85,6 +86,7 @@ PFV,perfective,yes
 PL,plural,yes
 POSS,possessive,yes  
 POSSM,possessed form of relational roots,
+POST,post-stative aspect,
 PRED,predicative,yes 
 PRF,perfect,yes
 PRO,pronoun,
