@@ -20,7 +20,7 @@ jpn_N_V_XP,jpn,no,
 jpn_N_XP_V,jpn,no,
 jpn_XP_N_V,jpn,no,
 jpn_V_XP,jpn,no,
-jpn_XP_V,jpn,yes
+jpn_XP_V,jpn,yes,
 jpn_Prep,jpn,no,		
 jpn_Post,jpn,yes,		
 jpn_PrepP_N,jpn,no,		
