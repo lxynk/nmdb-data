@@ -2,21 +2,22 @@ ID,Language,Parameter,Original,Morphemic,Gloss,Translation,Source,Comment
 kor_ex_01,kor,kor_A,,say moca,new hat,a new hat,"Kim_2014[p. 80, ex. 6a]",
 kor_ex_02,kor,kor_A,,*Ku moca-nun say-(i)-∅-ta.,that hat-TOP new-(COP)-NPST-DECL,Intended: That hat is new.,"Kim_2014[p. 80, ex. 7a]",
 kor_ex_03,kor,kor_A,,I gong-un sae-geot-i-ta,this ball-TOP new-thing-COP-DECL/Plain,This ball is new/ a new thing,"Kim Jinsu, p.c.",
-kor_ex_14,kor,kor_Deg_M_N,,ahjoo sae ot,very new clothes,very new clothes,"Kim Jinsu, p.c.",
-kor_ex_04,kor,kor_XP_A_N,,ch’in’gu-ege sae gong,friend-DAT new ball,a ball that is new toa friend,"Kim Jinsu, p.c.",
+kor_ex_04,kor,kor_A_N,,ahjoo sae ot,very new clothes,very new clothes,"Kim Jinsu, p.c.",
+kor_ex_05,kor,kor_XP_A_N,,ch’in’gu-ege sae gong,friend-DAT new ball,a ball that is new to a friend,"Kim Jinsu, p.c.",
 
-kor_ex_05,kor,kor_V_attr kor_V_N,,ch’umch’u-nǔn yija,dance-MOD/PRS woman,a woman who dances,"Kim-Renaud _2009[p. 200]",
-kor_ex_06,kor,kor_V_attr kor_V_N,,yeppǔ-tǒ-n ǒlgul,be.pretty-RET-MOD/PST face,the face that used to be pretty,"Kim-Renaud _2009[p. 113]",
-kor_ex_07,kor,kor_V_attr kor_V_N,,ap’ǔ-n ch’in’gu-hant’e chǒnhwaha-ki-(ka) musǒp-ta.,be.sick-MOD friend-DAT give.a.phone.call-NOM-(SUBJ) be.fearsome-DECL/Plain,I dread calling the sick friend.,"Kim-Renaud _2009[p. 164]",
-kor_ex_08,kor,kor_XP_V_N,,indo-rǔl choaha-nǔn saram,India-OBJ like-MOD/PRS person,a person that likes India,"Kim-Renaud _2009[p. 195]",
-kor_ex_09,kor,kor_XP_V_N,,chip-i indo-e iss-nǔn saram,home-SUBJ India-LOC exist-MOD/PRS person,a person whose home is in India,"Kim-Renaud _2009[p. 195]",
-kor_ex_10,kor,kor_Post,,chimsim-e p’ija-lǔl mik-iss-iyo.,lunch-LOC pizza-OBJ eat-PST-DECL/Pol,I had pizza for lunch.,"Kim-Renaud _2009[p. 105]",
-kor_ex_11,kor,kor_PostP_N,,hakchang-hant’e p’yinji,dean-from letter,a letter from the Dean,"Kim Jinsu, p.c.",
-kor_ex_12,kor,kor_Deg_M_N,,maywu noph-un kenmwul,very high-MOD building,a very high building,"Kim_2014[p. 83, ex. 16b]",
-kor_ex_13,kor,kor_Deg_M_N,,ahjoo noph-en geonmul,very high-MOD building,a very tall/high building,"Kim Jinsu, p.c.",
+kor_ex_06,kor,kor_V kor_V_N,,ch’umch’u-nǔn yija,dance-MOD/PRS woman,a woman who dances,"Kim-Renaud _2009[p. 200]",
+kor_ex_07,kor,kor_V kor_V_N,,yeppǔ-tǒ-n ǒlgul,be.pretty-RET-MOD/PST face,the face that used to be pretty,"Kim-Renaud _2009[p. 113]",
+kor_ex_08,kor,kor_V kor_V_N,,ap’ǔ-n ch’in’gu-hant’e chǒnhwaha-ki-(ka) musǒp-ta.,be.sick-MOD friend-DAT give.a.phone.call-NOM-(SUBJ) be.fearsome-DECL/Plain,I dread calling the sick friend.,"Kim-Renaud _2009[p. 164]",
+kor_ex_09,kor,kor_XP_V_N,,indo-rǔl choaha-nǔn saram,India-OBJ like-MOD/PRS person,a person that likes India,"Kim-Renaud _2009[p. 195]",
+kor_ex_10,kor,kor_XP_V_N,,chip-i indo-e iss-nǔn saram,home-SUBJ India-LOC exist-MOD/PRS person,a person whose home is in India,"Kim-Renaud _2009[p. 195]",
+kor_ex_11,kor,kor_V_N,,maywu noph-un kenmwul,very high-MOD building,a very high building,"Kim_2014[p. 83, ex. 16b]",
+kor_ex_12,kor,kor_V_N,,ahjoo noph-en geonmul,very high-MOD building,a very tall/high building,"Kim Jinsu, p.c.",
+kor_ex_13,kor,kor_XP_V,,Rina-ga seonmul-eul ch’in’gu-ege ju-ess-da.,Rina-SBJ present-OBJ friend-DAT give-PST-DECL/Plain,Rina gave a present to a friend.,"Kim Jinsu, p.c.",
 
+kor_ex_14,kor,kor_Post,,chimsim-e p’ija-lǔl mik-iss-iyo.,lunch-LOC pizza-OBJ eat-PST-DECL/Pol,I had pizza for lunch.,"Kim-Renaud _2009[p. 105]",
+kor_ex_15,kor,kor_PostP_N,,hakchang-hant’e p’yinji,dean-from letter,a letter from the Dean,"Kim Jinsu, p.c.",
 
-kor_ex_15,kor,kor_M_M_N,,ch’umch’u-nǔn cal.sayngki-n ch’in’gu,dance-MOD/PRS handsome-MOD/PRS friend,a handsome friend who dances,"Kim Jinsu, p.c.",
-kor_ex_16,kor,kor_M_M_N,,ch’umch’u-nǔn yet ch’in’gu,dance-MOD/PRS old friend,a old friend who dances,"Kim Jinsu, p.c.",
-kor_ex_17,kor,kor_M_M_N,,yet ch’umch’u-nǔn ch’in’gu,old dance-MOD/PRS friend,a old friend who dances,"Kim Jinsu, p.c.","This sentence can have ambiguity, i.e. a friend who dances the old-style dance."
-kor_ex_18,kor,kor_M_M_N kor_A,,yet hǒn ot,old worn-out clothes,old worn-out clothes,"Kim Jinsu, p.c.","Native speakers comment that the stacking of such prenouns is quite rare."
+kor_ex_16,kor,kor_M_M_N,,ch’umch’u-nǔn cal.sayngki-n ch’in’gu,dance-MOD/PRS handsome-MOD/PRS friend,a handsome friend who dances,"Kim Jinsu, p.c.",
+kor_ex_17,kor,kor_M_M_N,,ch’umch’u-nǔn yet ch’in’gu,dance-MOD/PRS old friend,a old friend who dances,"Kim Jinsu, p.c.",
+kor_ex_18,kor,kor_M_M_N,,yet ch’umch’u-nǔn ch’in’gu,old dance-MOD/PRS friend,a old friend who dances,"Kim Jinsu, p.c.","This sentence can have ambiguity, i.e. a friend who dances the old-style dance."
+kor_ex_19,kor,kor_M_M_N kor_A,,yet hǒn ot,old worn-out clothes,old worn-out clothes,"Kim Jinsu, p.c.","Native speakers comment that the stacking of such prenouns is quite rare."
