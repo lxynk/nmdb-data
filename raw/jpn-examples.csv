@@ -1,13 +1,15 @@
 ID,Language,Parameter,Original,Morphemic,Gloss,Translation,Source,Comment
-jpn_ex_01,jpn,jpn_A_N,,kantan-na syukudai,easy-COP.NPST homework,an easy homework,"Nanako Kato, p.c","Japanese is an article-less language, and there is no morphological distinction between singular and plural forms of nouns. Thus, the following examples are translated with the determiner a based on the judgment of a consulted native speaker."
+jpn_ex_01,jpn,jpn_A_N jpn_A,,kantan-na syukudai,easy-COP.NPST homework,an easy homework,"Nanako Kato, p.c","Japanese is an article-less language, and there is no morphological distinction between singular and plural forms of nouns. Thus, the following examples are translated with the determiner a based on the judgment of a consulted native speaker."
 jpn_ex_02,jpn,jpn_A_N,,kantan-datta syukudai,easy-COP.PST homework,a homework which was easy,"Nanako Kato, p.c", 
 jpn_ex_03,jpn,jpn_XP_A_N,,watashi-ni.totte kantan-na syukudai,I-for easy-COP.NPST homework,a homework which is easy for me,"Nanako Kato, p.c","Kaiser et. al (2013) calls [ni totte] phrasal particles."
-jpn_ex_04,jpn,jpn_A_XP_N,,*kantan-na watashi-ni.totte syukudai,easy-COP.NPST I-for homework,Intended: ‘a homework which is easy for me’,"Nanako Kato, p.c",
-jpn_ex_05,jpn,jpn_A_N_XP,,*kantan-na syukudai watashi-ni.totte,easy-COP.NPST homework I-for,Intended: ‘a homework which is easy for me’,"Nanako Kato, p.c",
+jpn_ex_04,jpn,jpn_A_XP_N,,*kantan-na watashi-ni.totte syukudai,easy-COP.NPST I-for homework,Intended: a homework which is easy for me,"Nanako Kato, p.c",
+jpn_ex_05,jpn,jpn_A_N_XP,,*kantan-na syukudai watashi-ni.totte,easy-COP.NPST homework I-for,Intended: a homework which is easy for me,"Nanako Kato, p.c",
 jpn_ex_06,jpn,jpn_XP_A_N,,seihin-ni manzoku-na kyaku,product-to satisfied-COP.NPST customer,a customer who is satisfied with the product,"Nanako Kato, p.c","This comparative example is analogous to [easy-homework]."
 jpn_ex_07,jpn,jpn_A,,Kono syukudai-wa kantan-desu.,this homework-TOP easy-COP.NPST,This homework is easy.,"Nanako Kato, p.c",
+jpn_ex_09,jpn,jpn_XP_A,,Kono syukudai-wa watashi-ni.totte kantan-desu.,this homework-TOP I-for easy-COP.NPST,This homework is easy for me.,"Nanako Kato, p.c",
+jpn_ex_19,jpn,jpn_A_N,,totemo kantan-na syukudai,very easy-COP.NPST homework,a very easy homework,"Nanako Kato, p.c",
 ,,,,,,,,
-jpn_ex_08,jpn,jpn_V_N,,omosiro-i hon,interesting-NPST book,an interesting book,"Nanako Kato, p.c", 
+jpn_ex_08,jpn,jpn_V_N jpn_V,,omosiro-i hon,interesting-NPST book,an interesting book,"Nanako Kato, p.c", 
 jpn_ex_09,jpn,jpn_V_N,,omosiro-katta hon,interesting-PST book,a book that was interesting,"Nanako Kato, p.c", 
 jpn_ex_10,jpn,jpn_XP_V_N,,watashi-ni.totte omosiro-i hon,I-for interesting-NPST book,a book that is interesting for me,"Nanako Kato, p.c", 
 jpn_ex_11,jpn,jpn_V_XP_N,,*omosiro-i watashi-ni.totte hon,interesting-NPST I-for book,Intended:’a book that is interesting for me’,"Nanako Kato, p.c", 
@@ -16,9 +18,10 @@ jpn_ex_13,jpn,jpn_V,,Kono hon-wa omosiro-i.,this book-TOP interesting-NPST,This 
 jpn_ex_14,jpn,jpn_XP_V_N,,gakusei-ga ketta booru,student-NOM kick.PST ball,a ball which is kicked by the student,"Nanako Kato, p.c",
 jpn_ex_15,jpn,jpn_XP_V_N,,booru-o ketta gakusei,ball-ACC kick.PST student,a student who kicked the ball,"Nanako Kato, p.c",
 jpn_ex_16,jpn,jpn_V,,otokonoko-ga onnanoko-ni ageta hon,boy-NOM girl-DAT give.PST book,a book which the boy gave to the girl,"Nanako Kato, p.c",
+jpn_ex_10,jpn,jpn_XP_V,,Kono hon-wa watashi-ni.totte omosiro-i.,this book-TOP I-for interesting-NPST,This book is interesting for me,"Nanako Kato, p.c", 
+jpn_ex_14,jpn,jpn_XP_V,,Kono gakusei-ga booru ketta.,this student-NOM ball kick.PST,This student kicked the ball.,"Nanako Kato, p.c",
+jpn_ex_20,jpn,jpn_V_N,,totemo omosiro-i hon,very interesting-NPST book,a very interesting book,"Nanako Kato, p.c", 
 ,,,,,,,,
 jpn_ex_17,jpn,jpn_Post jpn_PostP_N,,tokyo-kara no densha,tokyo-from INK train,a train from Tokyo,"Nanako Kato, p.c",
 ,,,,,,,,
 jpn_ex_18,jpn,jpn_M_M_N,,kinou katta benri-na hon,yesterday buy.PST useful-COP.NPST book,a useful book that I bought yesterday,"Nanako Kato, p.c",
-jpn_ex_19,jpn,jpn_Deg_M_N,,totemo kantan-na syukudai,very easy-COP.NPST homework,a very easy homework,"Nanako Kato, p.c",
-jpn_ex_20,jpn,jpn_Deg_M_N,,totemo omosiro-i hon,very interesting-NPST book,a very interesting book,"Nanako Kato, p.c", 
