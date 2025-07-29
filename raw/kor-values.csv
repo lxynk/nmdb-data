@@ -11,7 +11,7 @@ kor_XP_N_A,kor,no,
 kor_A_XP,kor,no,
 kor_XP_A,kor,no,
 ,,,
-kor_V_attr,kor,yes,
+kor_V,kor,yes,
 kor_V_N,kor,yes,
 kor_N_V,kor,no,"In Korean, modifiers typically precede what they modify."
 kor_V_XP_N,kor,no,
