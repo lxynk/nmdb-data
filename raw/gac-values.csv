@@ -1,0 +1,38 @@
+ID,Language,Value,Comment
+gac_A,gac,yes,including adjectives and verbal participial construction indicating a stative situation
+gac_A_N,gac,yes,"including prenominal variation to the canonical postnominal modifiers or the non-verbal relativised modifier in the prenominal position"
+gac_N_A,gac,yes,
+gac_A_XP_N,gac,unknown,
+gac_XP_A_N,gac,yes, 
+gac_A_N_XP,gac,unknown,
+gac_N_A_XP,gac,unknown,
+gac_N_XP_A,gac,unknown,
+gac_XP_N_A,gac,unknown,
+
+gac_V_attr,gac,yes,"sentential modification with a sequence of two finite clauses where the previous one modifies the following one and the subject is elided in the second clause provided it is shared."
+gac_V_N,gac,no,
+gac_N_V,gac,yes,
+gac_V_XP_N,gac,no,
+gac_XP_V_N,gac,no,
+gac_V_N_XP,gac,no,
+gac_N_V_XP,gac,unknown,
+gac_N_XP_V,gac,unknown,
+gac_XP_N_V,gac,yes?,
+
+gac_Prep,gac,no,no mention in the grammar books		
+gac_Post,gac,yes,"gac postpositions come in various types,such as single words or directional suffix."
+gac_PrepP_N,gac,no,		
+gac_N_PrepP,gac,no,
+gac_PostP_N,gac,unknown,
+gac_N_PostP,gac,unknown,
+
+gac_M_Deg_N,gac,unknown,
+gac_Deg_M_N,gac,unknown,
+gac_M_N_Deg,gac,unknown,
+gac_N_M_Deg,gac,yes,
+gac_N_Deg_M,gac,unknown,
+gac_Deg_N_M,gac,unknown,
+
+gac_M_M_N,gac,unknown, 
+gac_N_M_M,gac,yes,
+gac_M_N_M,gac,unknown,
