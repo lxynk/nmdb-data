@@ -10,7 +10,6 @@ eus_N_XP_A,eus,no,adjectives in attributive position cannot dependents (unless t
 eus_XP_N_A,eus,no,adjectives in attributive position cannot dependents (unless turned into prenominal RCs) 
 eus_A_XP,eus,no,
 eus_XP_A,eus,yes,
-
 eus_V_,eus,yes,only in prenominal RC
 eus_V_N,eus,yes,
 eus_N_V,eus,no,"Such order is allowed in the past, and can still be used in eastern dialects (Hualde & Ortiz de Urbina__2003, p. 765)."
@@ -22,18 +21,14 @@ eus_N_XP_V,eus,no,
 eus_XP_N_V,eus,no,
 eus_V_XP,eus,,		
 eus_XP_V,eus,,
-
 eus_Prep,eus,no,		
-eus_Post,eus,yes,"including modifiers consisting of constituents of adverbial function and the relational suffix -ko. Asides from postpositional phrases, other types of adverbials also include items such as lexical adverbs, case-marked NPs etc.See section 3.1.4.2 in Hualde & Ortiz de Urbina (2003) for more discussion."		
+eus_Post,eus,yes,"including modifiers consisting of constituents of adverbial function and the relational suffix -ko. Asides from postpositional phrases, other types of adverbials also include items such as lexical adverbs, case-marked NPs etc.See section 3.1.4.2 in Hualde & Ortiz de Urbina (2003) for more discussion."
 eus_Prepp_N,eus,no,		
 eus_N_PrepP,eus,no,		
 eus_PostP_N,eus,yes, 
 eus_N_PostP,eus,unknown,no mentions in the grammar 
-
-,,,
 eus_M_M_N,eus,yes,"See section 4.10.3.1.3 in Hualde & Ortiz de Urbina(2003) for more discussion"
 eus_N_M_M,eus,yes,
 eus_M_N_M,eus,yes,"See section 4.10.3.1.3 in Hualde & Ortiz de Urbina(2003) for more discussion"
-,,,
 
 
