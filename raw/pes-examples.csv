@@ -1,0 +1,36 @@
+ID,Language,Parameter,Original,Morphemic,Gloss,Translation,Source,Comment
+pes_ex_01,pes,pes_A_attr pes_N_A pes_A_lnk pes_A_lnk_obl,,morabi=e razi,coach=EZ satisfied,a satisfied coach,"(Atefeh Shahbazi, p.c.)",
+pes_ex_02,pes,pes_A_attr pes_N_A pes_N_AP pes_N_A_XP pes_A_lnk pes_A_lnk_obl,,morabi=e [razi az natije],coach=EZ satisfied from result,a coach satisfied with the result,"(Atefeh Shahbazi, p.c.)", the more natural alternative
+pes_ex_03,pes,pes_A_attr pes_N_A pes_N_AP pes_N_XP_A pes_A_lnk pes_A_lnk_obl,,morabi=e [az natije razi],coach=EZ from result satisfied,a coach satisfied with the result,"(Atefeh Shahbazi, p.c.)", 
+pes_ex_04,pes,pes_A_pred,,morabi razi ast,coach satisfied be.PRS.3SG,The coach is satisfied.,"(Atefeh Shahbazi, p.c.)",
+pes_ex_05,pes,pes_A_pred pes_AP pes_A_XP,,morabi razi az natije ast,coach satisfied from result be.PRS.3SG,The coach is satisfied with the result.,"(Atefeh Shahbazi, p.c.)", 
+pes_ex_06,pes,pes_A_pred pes_AP pes_XP_A,,morabi az natije razi ast,coach from result satisfied be.PRS.3SG,The coach is satisfied with the result.,"(Atefeh Shahbazi, p.c.)", 
+pes_ex_07,pes,pes_A_attr pes_A_N,,razi-tarin morabi,satisfied-SUP coach,the most satisfied coach,"(Atefeh Shahbazi, p.c.)", no =e on the head nouns in the prenonimal superlative modifiers
+pes_ex_08,pes,pes_A_attr pes_A_N pes_AP_N pes_A_N_XP,,razi-tarin morabi az natije,satisfied-SUP coach from result,the most satisfied coach with result,"(Atefeh Shahbazi, p.c.)",raising of the adjective superlative
+pes_ex_09,pes,pes_A_attr pes_A_N pes_AP_N pes_XP_A_N,,*az natije razi-tarin morabi,from result satisfied-SUP coach,Intended: ’the most satisfied coach with result’,"(Atefeh Shahbazi, p.c.)", 
+pes_ex_10,pes,pes_A_attr pes_A_N pes_AP_N pes_A_XP_N,,*razi-tarin az natije morabi,satisfied-SUP from result coach,Intended: ’the most satisfied coach with result’,"(Atefeh Shahbazi, p.c.)", 
+pes_ex_11,pes,,,javann-i [ke razi ast],young-REL that satisfied be.PRS.3SG,the young man who is satisfied,"(Atefeh Shahbazi, p.c.)", always in full RCs
+,,,,,,,,
+pes_ex_12,pes,pes_PP_attr pes_PrepP pes_N_PrepP pes_PP_lnk pes_P_lnk_obl,,bāzi=ye zir=e miz,game=EZ under=EZ table,the game under the table,"(Roberts_2003, p. 23, ex. 4.77)",
+,,,,,,,,
+pes_ex_13,pes,pes_V_attr pes_N_V pes_N_VP pes_N_XP_V pes_V_lnk,,in javan=e [az suis bargashte],this young=EZ from Switzerland return.PST.PRF,this young man who has returned from Switzerland,"(Kahnemuyipour_2014, p. 10, ex. 15a)", Kahnemuyipour (2014) states that Ezafe vowel cannot be used with a restrictive relative clause (clauses are introduced by the relative particle -i). 
+pes_ex_14,pes,pes_V_attr pes_N_V pes_N_VP pes_N_XP_V pes_V_lnk,,javaan-i [ke az suis bargashte (ast)],young-REL that from Switzerland return.PST.PRF be.PRS.3SG,the young man who has returned from Switzerland,"(Kahnemuyipour_2014, p. 8, ex. 15b)",
+pes_ex_15,pes,pes_V_attr pes_N_V pes_N_VP pes_N_XP_V,,*in javan=e [az suis bargashte ast],this young=EZ from Switzerland return.PST.PRF be.PRS.3SG,Intended: ’this young man who has returned from Switzerland’,"(Atefeh Shahbazi, p.c.)",ast only in full RCs
+pes_ex_16,pes,pes_V_attr pes_N_V pes_N_VP pes_N_XP_V,,mard=i ke diruz did-am,young-REL that yesterday see.PST.1SG,the man who I saw yesterday,"(Atefeh Shahbazi, p.c.)",
+pes_ex_17,pes,pes_V_attr pes_N_V pes_N_VP pes_N_XP_V,,*in mard=e [did-am],this young=EZ that see.PST.1SG,Intended: ’this young man who I saw’,"(Atefeh Shahbazi, p.c.)",needs to be passive here (reduced RCs)
+,,,,,,,,
+pes_ex_18,pes,pes_N_M_M,,[[morabi]=e razi]=e xošhal,coach=EZ satisfied glad,a happy satisfied coach,"(Atefeh Shahbazi, p.c.)", 
+pes_ex_,pes,,,morabi=e [razi az natije]=e xošhal,coach=EZ satisfied from result=EZ glad,a happy coach satisfied with the result,"(Atefeh Shahbazi, p.c.)", 
+pes_ex_,pes,,,morabi=e [az natije razi]=e xošhal,coach=EZ from result satisfied=EZ glad,a happy coach satisfied with the result,"(Atefeh Shahbazi, p.c.)", 
+pes_ex_,pes,,,[zan o/va šohar]=e xošbaxt,wife and husband=EZ happy,happy wife and husband,"(Atefeh Shahbazi, p.c.)", 
+pes_ex_,pes,,,morabi=e [razi va xošhal]=e hame-chiz-dan,coach=EZ satisfied and glad=EZ all-thing-know,a happy and satisfied wise coach,"(Atefeh Shahbazi, p.c.)", 
+,,,,,,,,
+pes_ex_,pes,,,madar-an=e [be farzand-an=e xod moftaxar],mother-PL=EZ in child-PL=EZ own proud,mothers proud of their children,"(Zahra Mirrazi, p.c.)", 
+pes_ex_,pes,,,madar-an=e javan=e [moftaxar be farzand-an=e xod],mother-PL=EZ young=EZ [proud in child-PL=EZ own],young mothers proud of their children,"(Zahra Mirrazi, p.c.)", 
+pes_ex_,pes,,,madar-an=e javan=e [be farzand-an=e xod moftaxar],mother-PL=EZ young=EZ [in child-PL=EZ own proud],young mothers proud of their children,"(Zahra Mirrazi, p.c.)", 
+pes_ex_,pes,,,madar-an=e [be farzand-an=e xod moftaxar]=e javan,mother-PL=EZ in child-PL=EZ own proud=EZ young,mothers proud of their children,"(Zahra Mirrazi, p.c.)", 
+pes_ex_,pes,,,madar-an=e be farzand-an=e javan=e xod moftaxar,mother-PL=EZ in child-PL=EZ young=EZ own proud,mothers proud of their young children,"(Zahra Mirrazi, p.c.)", 
+pes_ex_,pes,,,madar-an=e moftaxar be farzand-an=e javan=e xod,mother-PL=EZ proud in child-PL=EZ young=EZ own,mothers proud of their young children,"(Zahra Mirrazi, p.c.)", 
+pes_ex_,pes,,,madar-an=e moftaxar be iran=e javan,mother-PL=EZ proud in iran=EZ young,young mothers proud of iran/ mothers proud of young iran,"(Zahra Mirrazi, p.c.)", 
+pes_ex_,pes,,,?/*madar-an=e [moftaxar be farzand-an=e xod]=e javan,mother-PL=EZ proud in child-PL=EZ own=EZ young,Intended:”young mothers proud of their kids”,"(Zahra Mirrazi, p.c.)", 
+,,,,,,,,

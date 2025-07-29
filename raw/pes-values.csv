@@ -1,0 +1,58 @@
+ID,Language,Value,Comment
+pes_A_attr,pes,yes,
+pes_A_N,pes,special,only superlatives can be used prenominally 
+pes_N_A,pes,yes,
+pes_AP_N,pes,?,
+pes_A_XP_N,pes,no,
+pes_XP_A_N,pes,no,
+pes_A_N_XP,pes,yes,
+pes_N_AP,pes,yes,
+pes_N_A_XP,pes,yes,the more natura alternative 
+pes_N_XP_A,pes,yes,
+pes_XP_N_A,pes,no,
+pes_A_lnk,pes,yes, 
+pes_A_lnk_obl,pes,yes, postnominal modifiers require the use of =e while prenominal superlative modifiers do not need =e
+pes_A_pred,pes,yes, 
+pes_AP,pes,yes,
+pes_A_XP,pes,yes,
+pes_XP_A,pes,yes,
+pes_A_attr_agr,pes,no,
+pes_A_pred_agr,pes,no, 
+,,,
+pes_V_attr,pes,yes,in RCs and reduced RCs
+pes_V_N,pes,no,
+pes_N_V,pes,yes,
+pes_VP_N,pes,/,
+pes_V_XP_N,pes,/,
+pes_XP_V_N,pes,/,
+pes_V_N_XP,pes,/,
+pes_N_VP,pes,yes,
+pes_N_V_XP,pes,no,
+pes_N_XP_V,pes,yes,
+pes_XP_N_V,pes,no,
+pes_V_lnk,pes,yes,-i on head noun (with REL ke) in full RCs and =e on head noun in reduced RCs 
+pes_V_lnk_obl,pes,yes, 
+pes_V_pred,pes,,
+pes_VP,pes,,	
+pes_V_XP,pes,,
+pes_XP_V,pes,,		
+pes_V_attr_agr,pes,yes,
+pes_V_pred_agr,pes,,
+,,,
+pes_PP_attr,pes,yes, 
+pes_PrepP,pes,yes,		
+pes_PostP,pes,no,		
+pes_PrepP_N,pes,no,		
+pes_N_PrepP,pes,yes,		
+pes_PostP_N,pes,/, 
+pes_N_PostP,pes,/,
+pes_PP_lnk,pes,yes,
+pes_P_lnk_obl,pes,yes,=e 
+pes_P_agr,pes,no,
+,,,
+pes_M_M_N,pes,,
+pes_N_M_M,pes,yes,
+pes_M_N_M,pes,,
+
+
+
