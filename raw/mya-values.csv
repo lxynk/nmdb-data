@@ -8,7 +8,10 @@ mya_A_N_XP,mya,no,
 mya_N_A_XP,mya,no,
 mya_N_XP_A,mya,no,
 mya_XP_N_A,mya,no,
-mya_V_attr,mya,yes,"The most frequent and flexible of the modifying constructions is the one consisting of a verb attached to the following noun by a special syntactic marker θɔ̀/ðɔ̀ in formal or tέ/dɛ́ in colloquial language (Jenny, 2022)."
+mya_A_XP,mya,no,
+mya_XP_A,mya,no,
+
+mya_V,mya,yes,"The most frequent and flexible of the modifying constructions is the one consisting of a verb attached to the following noun by a special syntactic marker θɔ̀/ðɔ̀ in formal or tέ/dɛ́ in colloquial language (Jenny, 2022)."
 mya_V_N,mya,yes,
 mya_N_V,mya,no,"REL clauses in Burmese can never be placed after the noun, not even as an after-thought. The REL marker (creaky tone on the NFUT or FUT marker) marks dependence on the following element, so there must necessarily follow a head noun (Mathias Jenny, p.c.)."
 mya_V_XP_N,mya,no,
@@ -17,18 +20,16 @@ mya_V_N_XP,mya,no,
 mya_N_V_XP,mya,no,
 mya_N_XP_V,mya,no,
 mya_XP_N_V,mya,no,
+mya_V_XP,mya,no,
+mya_XP_V,mya,yes,
+
 mya_Prep,mya,no,"Instead of prepositions, Burmese uses postpositions."
 mya_Post,mya,yes,including derived postposition and locative marker 
 mya_PrepP_N,mya,no,		
 mya_N_PrepP,mya,no,
 mya_PostP_N,mya,yes,
 mya_N_PostP,mya,no, 
-mya_M_Deg_N,mya,,
-mya_Deg_M_N,mya,,
-mya_M_N_Deg,mya,,
-mya_N_M_Deg,mya,,
-mya_N_Deg_M,mya,,
-mya_Deg_N_M,mya,,
+
 mya_M_M_N,mya,yes, 
 mya_N_M_M,mya,yes,N and property verbs with a fixed meaning
 mya_M_N_M,mya,yes,
