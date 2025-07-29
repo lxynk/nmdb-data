@@ -1,16 +1,20 @@
 ID,Language,Parameter,Original,Morphemic,Gloss,Translation,Source,Comment
 mya_ex_01,mya,mya_A,,ʔeiɴ-ɟì,house-be.big,a/the big house,"Jenny_2022[p. 165]",
 mya_ex_02,mya,mya_A,,sa-yè-sʰəya,text-write-teacher,writer/ author,"Jenny_Hnin_Tun_2016[p. 105]",
-mya_ex_03,mya,mya_A,,*ye θeiʔ ʔè,water very be.cold,Intended: ‘very cold water’,"Mathias Jenny, p.c.","Post-nominal verbal modifiers cannot be extended by any adverbials. Negation may be acceptable in some cases in colloquial Burmese, but not in the standard language (Mathias Jenny, p.c.)."
+mya_ex_03,mya,mya_A,,*ye θeiʔ ʔè,water very be.cold,Intended: very cold water,"Mathias Jenny, p.c.","Post-nominal verbal modifiers cannot be extended by any adverbials. Negation may be acceptable in some cases in colloquial Burmese, but not in the standard language (Mathias Jenny, p.c.)."
 mya_ex_04,mya,mya_A,,θu ʔeiɴ ʔəθiʔ sʰauʔ-ne-dɛ.,3 house NML.new to.build-stay-NFUT,He is building a new house,"Jenny_2022[p. 168, ex. 1a]","The noun and the nominalized verb should be seen as standing in an APPOSITIONAL relation, rather than a MODIFIER-MODIFIED relation (Jenny, 2021)."
+
 mya_ex_05,mya,mya_V_attr mya_V_N,,ʨənɔ ʨaiʔ-tɛ́ hìn hma-pè-ba.,1M like-NFUT.DEP curry order-give-POL,Please order the curry I like.,"Jenny_Hnin_Tun_2016[p. 261]",
 mya_ex_06,mya,mya_XP_V_N,,θu-gá ŋa móun wɛ-pè-gɛ́=dɛ́ kaun.má.lè le.,3-SBJ 1FAM sweets buy-give-DISPL-NFUT.DEP girl EMPH,This is the girl for whom I bought the sweets.,"Jenny_Hnin_Tun_2016[p. 262]",
 mya_ex_07,mya,mya_XP_V_N,,mìn ʔɛ́di sa yè-dɛ́ bɔ̀.pin ŋá-go pè.,2FAM that text write-NFUT.DEP pen 1FAM.DEP-OBJ give,Give me the pen with which you wrote that letter.,"Jenny_Hnin_Tun_2016[p. 262]",
-mya_ex_08,mya,mya_Post,,myanma-nain.ŋan ʔətwɛʔ ʨò.zà-yá-mɛ.,Myanmar-country for make.effort-get-FUT,We have to try hard for Myanmar.,"Jenny_Hnin_Tun_2016[p. 181]", 
-mya_ex_09,mya,mya_Post,,θu-gá ʨənɔ́-ʔəpɔ hmi.kʰo-dɛ.,3-SBJ 1M.DEP-above rely-NFUT,He relies on me.,"Jenny_Hnin_Tun_2016[p. 173]", 
-mya_ex_10,mya,mya_PostP_N,,nain.ŋan-ʥà-ðà-dwe ʔətwɛʔ làn-hɲun-sa.ʔouʔ,country-other-son-PL for way-show-book,guide book for foreigners,"Jenny_Hnin_Tun_2016[p. 182]", 
-mya_ex_11,mya,mya_PostP_N,,tauɴ-pɔ-gá tɛ̀,mountain-upon-ABL hut,a hut on the mountain,"Mathias Jenny, p.c.", 
-mya_ex_12,mya,mya_N_M_M,,*ʔein-ʨì-kàun,house-be.big-be.good,Intended: a good big house,"Mathias Jenny, p.c.",This is not possible because 'a good big house' is not lexicalized. 
-mya_ex_13,mya,mya_N_M_M,,lu-zò-dʑì,person-be.bad-be.big,a big bandite,"Mathias Jenny, p.c.",possible because 'lu-zò-dʑì' is a lexicalized noun 
-mya_ex_14,mya,mya_M_N_M,,ʨənɔ ʨaiʔ-tɛ́ ʔein-ʨì,1M like-NFUT.DEP house-be.big,the big house that I like,"Mathias Jenny, p.c.",possible and commonly used
-mya_ex_15,mya,mya_M_M_N,,ʨənɔ ʨaiʔ-tɛ́ ʨì-tɛ́ ʔeiɴ,1M like-NFUT.DEP be.big-NFUT.DEP house,the big house that I like (the house which is big and which I like),"Mathias Jenny, p.c.",possible but less complex constructions like ex.14 may be preferred
+mya_ex_08,mya,mya_XP_V,,meiʔ.sʰwe-dwe-go pʰeiʔ-sa we-laiʔ-mɛ.,friend-PL-OBJ invite-text distribute-follow-FUT,I’ll send out the invitation to the friends.,"Jenny_Hnin_Tun_2016[p. 290]",
+
+mya_ex_09,mya,mya_Post,,myanma-nain.ŋan ʔətwɛʔ ʨò.zà-yá-mɛ.,Myanmar-country for make.effort-get-FUT,We have to try hard for Myanmar.,"Jenny_Hnin_Tun_2016[p. 181]", 
+mya_ex_10,mya,mya_Post,,θu-gá ʨənɔ́-ʔəpɔ hmi.kʰo-dɛ.,3-SBJ 1M.DEP-above rely-NFUT,He relies on me.,"Jenny_Hnin_Tun_2016[p. 173]", 
+mya_ex_11,mya,mya_PostP_N,,nain.ŋan-ʥà-ðà-dwe ʔətwɛʔ làn-hɲun-sa.ʔouʔ,country-other-son-PL for way-show-book,guide book for foreigners,"Jenny_Hnin_Tun_2016[p. 182]", 
+mya_ex_12,mya,mya_PostP_N,,tauɴ-pɔ-gá tɛ̀,mountain-upon-ABL hut,a hut on the mountain,"Mathias Jenny, p.c.", 
+
+mya_ex_13,mya,mya_N_M_M,,*ʔein-ʨì-kàun,house-be.big-be.good,Intended: a good big house,"Mathias Jenny, p.c.",This is not possible because 'a good big house' is not lexicalized. 
+mya_ex_14,mya,mya_N_M_M,,lu-zò-dʑì,person-be.bad-be.big,a big bandite,"Mathias Jenny, p.c.",such stacking is possible because 'lu-zò-dʑì' is a lexicalized noun 
+mya_ex_15,mya,mya_M_N_M,,ʨənɔ ʨaiʔ-tɛ́ ʔein-ʨì,1M like-NFUT.DEP house-be.big,the big house that I like,"Mathias Jenny, p.c.",possible and commonly used
+mya_ex_16,mya,mya_M_M_N,,ʨənɔ ʨaiʔ-tɛ́ ʨì-tɛ́ ʔeiɴ,1M like-NFUT.DEP be.big-NFUT.DEP house,the big house that I like (the house which is big and which I like),"Mathias Jenny, p.c.",possible but less complex constructions like ex.14 may be preferred
