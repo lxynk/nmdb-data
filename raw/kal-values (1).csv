@@ -1,0 +1,56 @@
+ID,Language,Value,Comment
+kal_A_attr,kal,special,"There is no morphological category of adjective in West Greenlandic. Adjectival function is served by a subset of (stative) verbal and nominal bases (Fortescue_1984, p. 204). But there are a few nominals which are principally adjectival (Fortescue_1984, p. 108). There are also a few affixes which function as nominal extenders, thus having a ‘adjectival’ meaning (Fortescue_1984, p. 317)."
+kal_A_N,kal,unknown?,
+kal_N_A,kal,yes,
+kal_AP_N,kal,/, 
+kal_A_XP_N,kal,/,
+kal_XP_A_N,kal,/,
+kal_A_N_XP,kal,/,
+kal_N_AP,kal,unknown,
+kal_N_A_XP,kal,,
+kal_N_XP_A,kal,,
+kal_XP_N_A,kal,,
+kal_A_lnk,kal,no, 
+kal_A_pred,kal,no,"must be verbalized with u-be (or similar affix) when used predicatively (Fortescue_1984, p. 302)."
+kal_AP,kal,unknown,
+kal_A_XP,kal,,
+kal_XP_A,kal,,
+kal_A_attr_agr,kal,yes,"agree in number and case. See Fortescue (1984, p.303) for more discussion."
+kal_A_pred_agr,kal,,
+,,,
+kal_V_attr,kal,yes,intranstive participal
+kal_V_N,kal,special,
+kal_N_V,kal,yes,
+kal_VP_N,kal,yes/special,
+kal_V_XP_N,kal,unknown,
+kal_XP_V_N,kal,yes/special/unknown,
+kal_V_N_XP,kal,unknown,
+kal_N_VP,kal,yes,
+kal_N_V_XP,kal,no?,
+kal_N_XP_V,kal,yes,
+kal_XP_N_V,kal,unknown,
+kal_V_lnk,kal,?,depends on how intransitive participle marking will be treated
+kal_V_pred,kal,no,
+kal_VP,kal,,	
+kal_V_XP,kal,,		
+kal_XP_V,kal,,
+kal_V_attr_agr,kal,yes,"agree in person and number. See Fortescue (1984, p.303) for more discussion."
+kal_V_pred_agr,kal,,
+,,,
+kal_PP_attr,kal,yes, 
+kal_PrepP,kal,unknown/no,		
+kal_PostP,kal,yes,"1. adpositional cases 2. postpositions derived from nouns 3. postpositions derived from verbs. See (Kahn & Valijärvi_2022, p. 281ff.) for more."
+kal_PrepP_N,kal,/,
+kal_N_PrepP,kal,/,		
+kal_PostP_N,kal,yes, 
+kal_N_PostP,kal,unknown,
+kal_P_lnk,kal,no?,
+kal_PP_agr,kal,no?,
+,,,
+kal_M_M_N,kal,unknown,
+kal_N_M_M,kal,yes,
+kal_M_N_M,kal,yes,
+,,,
+,QUESTIONS ABOUT DEGREE MODIFIERS?,,
+
+
