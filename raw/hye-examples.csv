@@ -1,0 +1,28 @@
+ID,Language,Parameter,Original,Morphemic,Gloss,Translation,Source,Comment
+hye_ex_01,hye,hye_A,,im kardac’-ac girk’-ě šat hetak’rk’ir ēr.,my read-PTCP.RES book.NOM-the INS interesting 3SG.COP.PST,The book I have read was very interesting.,"Dum-Tragut_2009[p. 210, ex. 414]",
+hye_ex_02,hye,hye_A,,Ani-n barkac’-ac ē ir ełb-or vra.,Ani.NOM-DEF get_angry-PTCP.RES 3SG.COP her brother-DAT POST,Ani is angry with her brother.,"Dum-Tragut_2009[p. 180, ex. 345]",
+hye_ex_03,hye,hye_A,,(Na) hpart ē ir tłay-ov.,3SG proud 3SG.COP REFL.3SG.GEN boy-INS,S/he is proud of his/her son.,"Hasmik Sargsian, p.c.","information-structurally neutral word order. ē is a kind of focus marker and the element preceding it is focused."
+hye_ex_04,hye,hye_A,,(Na) ē ir tłay-ov hpart.,3SG 3SG.COP REFL.3SG.GEN boy-INS proud,S/he is proud of his/her son.,"Hasmik Sargsian, p.c.","constrative focus on [s/he]"
+hye_ex_05,hye,hye_A_N,,ančor˚ni čutik-n sirun karap kdar˚n-a.,unsightly chick.NOM-the pretty swan.NOM become-COND.FUT.3SG,The ugly duckling will turn into a beautiful swan.,"Dum-Tragut_2009[p. 586, ex. 781]",
+hye_ex_06,hye,hye_A,,(Na) ē hpart ir tłay-ov.,3SG 3SG.COP proud REFL.3SG.GEN boy-INS proud,S/he is proud of his/her son.,"Hasmik Sargsian, p.c.","constrative focus on [s/he]"
+hye_ex_07,hye,hye_XP_A_N,,ir tłay-ov hpart (mi) hayr,REFL.3SG.GEN boy-INS proud (one/INDEF) father,a father proud of his son,"Hasmik Sargsian, p.c.",
+hye_ex_08,hye,hye_XP_A_N,,ir tłay-ov hpart hayr-ə,REFL.3SG.GEN boy-INS proud father-DEF,the father proud of his son,"Hasmik Sargsian, p.c.",
+hye_ex_09,hye,hye_A_XP_N,,*hpart ir tłay-ov hayr(-ə),proud 3SG.GEN boy-INS proud father,a/the father proud of his son,"Hasmik Sargsian, p.c.","maybe possible appositively with comma intonation: Proud of his son, the father ..."
+hye_ex_10,hye,hye_A_N_XP,,*hpart hayr(-ə) ir tłay-ov,proud father(-DEF) REFL.3SG.GEN boy-INS,the/a father proud of his son,"Hasmik Sargsian p.c.",
+hye_ex_11,hye,hye_XP_N_A,,ir tłay-ov hayr *(mi) hpart,REFL.3SG.GEN boy-INS father one/INDEF proud,a father proud of his son,"Hasmik Sargsian, p.c.","poetic use with ‘mi’ after the noun"
+hye_ex_12,hye,hye_XP_N_A,,ir tłay-ov *(mi) hayr hpart,REFL.3SG.GEN one/INDEF boy-INS father proud,a father proud of his son,"Hasmik Sargsian, p.c.","poetic use or appositive with ‘mi’ before the noun"
+hye_ex_13,hye,hye_N_A_XP,,hayr-ə hpart ir tłay-ov,father-DEF proud REFL.3SG.GEN one/INDEF boy-INS,the father proud of his son,"Hasmik Sargsian, p.c.","poetic or appositive"
+hye_ex_14,hye,hye_N_XP_A,,hayr-ə ir tłay-ov hpart,father-DEF REFL.3SG.GEN one/INDEF boy-INS proud,the father proud of his son,"Hasmik Sargsian, p.c.","poetic or appositive"
+,,,,,,,,
+hye_ex_15,hye,hye_N_V hye_N_XP_V,,Novosibirsk-um ostikan-ner-ě jerbakalel en 10-amya ałjk-a or-ě t’mranyut’-er-i vačar˚k’-ov ēr zbałv-um.,Novosibirsk-LOC policeman-PL.NOM-the arrest-PTCP.PERF 3SG.COP 10-year girl-DAT REL.NOM-the drug-DAT-PL sell-INST she was work-PTCP.PRES,In Novosibirsk (the) policemen arrested a ten-year old girl who was involved in drug-selling.,"Dum-Tragut_2009[p. 371, ex. 168]",
+hye_ex_16,hye,hye_N_V hye_N_V_XP,,es ayn erjanik-ner-ic’ em ov baxt ē unec’-el tesn-el-u nman ankrkneli darpasapah-i xał-ě.,I.NOM that lucky-PL-ABL I am wh.NOM luck it_is have-PTCP.PERF. see-INF-DAT similar unique goalie-DAT game.NOM-the,I am one of the lucky ones who have had the chance tosee the game of a similarly unique goalie.,"Dum-Tragut_2009[p. 604, ex. 842]",
+,,,,,,,,
+hye_ex_17,hye,hye_Prep,,avtobus-ə aṙanc' ułevor-ner-i ē.,bus-DEF without passenger-PL-GEN COP.3SG,The bus is without passengers.,"Hasmik Sargsian, p.c.","'without' only possible as a preposition"
+hye_ex_18,hye,hye_Post,,girk'-ə sełan-i vra ē.,book-DEF table-GEN on COP.3SG,The book is on the table.,"Hasmik Sargsian, p.c.","'without' only possible as a preposition"
+hye_ex_19,hye,hye_PrepP_N,,aṙanc' ułevor-ner-i avtobus,without passenger-PL-GEN bus,a bus without passengers,"Hasmik Sargsian, p.c.",
+hye_ex_20,hye,hye_N_PrepP,,?avtobus aṙanc' ułevor-ner-i,bus without passenger-PL-GEN,a bus without passengers,"Hasmik Sargsian, p.c.","stylistically marked (poetic) and information-structurally marked (contrastive focus on 'without passengers')"
+hye_ex_21,hye,hye_PostP_N,,sełan-i vra-yi girk'-ə,table-GEN on-GEN book-DEF,the book one the (a) table,"Hasmik Sargsian, p.c.","'on' is only possible as a postposition. Here, the first gen licensed by the postposition, second gen licensed by the modification structure."
+hye_ex_22,hye,hye_N_PostP,,??girk'-ə sełan-i vra-yi,book-DEF table-GEN on-GEN,the book one the (a) table,"Hasmik Sargsian, p.c.","stylistically marked/poetic"
+,,,,,,,,
+hye_ex_23,hye,hye_M_M_N,,mec hin spitak tun,big old white house,a big old white house,"Dum-Tragut_2009[p. 588, ex. 788d]",
+hye_ex_24,hye,hye_Deg_M_N,,Ruben-ě un-i namakaniš-ner-i šat mec havak’acu.,Ruben.NOM-the have-PRES.3.SG stamp-PL-DAT INT big collection.NOM,Ruben has a very big stamp-collection.,"Dum-Tragut_2009[p. 590, ex. 791, adapted]",
