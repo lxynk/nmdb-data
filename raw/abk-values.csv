@@ -1,0 +1,39 @@
+ID,Language,Value,Comment
+abk_A_attr,abk,yes,
+abk_A_N,abk,yes but,"Only for certain lexical classes of adjectives (e.g. indicating nationality and others, see p.222)."
+abk_N_A,abk,yes,
+abk_AP_N,abk,, 
+abk_A_XP_N,abk,,
+abk_XP_A_N,abk,,
+abk_N_AP,abk,no,Must be converted into (non-finite) stative verbs.
+abk_N_A_XP,abk,/,
+abk_N_XP_A,abk,/,
+abk_A_lnk,abk,no,
+abk_A_pred,abk,no,Must be converted into (finite) stative verbs.
+abk_AP,abk,/,
+abk_A_XP,abk,/,
+abk_XP_A,abk,/,
+,,,
+abk_V_attr,abk,yes,Non-finite stative verbs.
+abk_V_N,abk,yes,
+abk_N_V,abk,yes,
+abk_VP_N,abk,yes,
+abk_V_XP_N,abk,yes, 
+abk_XP_V_N,abk,yes,
+abk_N_VP,abk,yes,
+abk_N_V_XP,abk,yes,
+abk_N_XP_V,abk,yes,
+abk_V_lnk,abk,yes,Non-finite stative suffix -w (plus agreement prefix).
+abk_V_pred,abk,yes,Finite stative verbs.
+abk_VP,abk,yes,	
+abk_V_XP,abk,yes,		
+abk_XP_V,abk,yes,
+,,,
+abk_PP_attr,abk,yes,
+abk_PrepP,abk,no,		
+abk_PostP,abk,yes,		
+abk_PrepP_N,abk,/,		
+abk_N_PrepP,abk,/,		
+abk_PostP_N,abk,yes,"PPs preferably, though not obligatorily, precede the noun (Hewitt_1979[p. 113])."
+abk_N_PostP,abk,yes,
+abk_PP_lnk,abk,no,
