@@ -15,7 +15,7 @@ jpn_V_N,jpn,yes,
 jpn_N_V,jpn,no,
 jpn_V_XP_N,jpn,no,
 jpn_XP_V_N,jpn,yes,
-jpn_V_N_XP,jpn,no,some might find such word order acceptable with prosodic break
+jpn_V_N_XP,jpn,no/special,some might find such word order acceptable with prosodic break
 jpn_N_V_XP,jpn,no,
 jpn_N_XP_V,jpn,no,
 jpn_XP_N_V,jpn,no,
