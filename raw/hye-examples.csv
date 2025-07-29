@@ -1,8 +1,8 @@
 ID,Language,Parameter,Original,Morphemic,Gloss,Translation,Source,Comment
 hye_ex_01,hye,hye_A,,im kardac’-ac girk’-ě šat hetak’rk’ir ēr.,my read-PTCP.RES book.NOM-the INS interesting 3SG.COP.PST,The book I have read was very interesting.,"Dum-Tragut_2009[p. 210, ex. 414]",
-hye_ex_02,hye,hye_A,,Ani-n barkac’-ac ē ir ełb-or vra.,Ani.NOM-DEF get_angry-PTCP.RES 3SG.COP her brother-DAT POST,Ani is angry with her brother.,"Dum-Tragut_2009[p. 180, ex. 345]",
-hye_ex_03,hye,hye_A,,(Na) hpart ē ir tłay-ov.,3SG proud 3SG.COP REFL.3SG.GEN boy-INS,S/he is proud of his/her son.,"Hasmik Sargsian, p.c.","information-structurally neutral word order. ē is a kind of focus marker and the element preceding it is focused."
-hye_ex_04,hye,hye_A,,(Na) ē ir tłay-ov hpart.,3SG 3SG.COP REFL.3SG.GEN boy-INS proud,S/he is proud of his/her son.,"Hasmik Sargsian, p.c.","constrative focus on [s/he]"
+hye_ex_02,hye,hye_A hye_A_XP,,Ani-n barkac’-ac ē ir ełb-or vra.,Ani.NOM-DEF get_angry-PTCP.RES 3SG.COP her brother-DAT POST,Ani is angry with her brother.,"Dum-Tragut_2009[p. 180, ex. 345]",
+hye_ex_03,hye,hye_A hye_A_XP,,(Na) hpart ē ir tłay-ov.,3SG proud 3SG.COP REFL.3SG.GEN boy-INS,S/he is proud of his/her son.,"Hasmik Sargsian, p.c.","information-structurally neutral word order. ē is a kind of focus marker and the element preceding it is focused."
+hye_ex_04,hye,hye_A hye_XP_A,,(Na) ē ir tłay-ov hpart.,3SG 3SG.COP REFL.3SG.GEN boy-INS proud,S/he is proud of his/her son.,"Hasmik Sargsian, p.c.","constrative focus on [s/he]"
 hye_ex_05,hye,hye_A_N,,ančor˚ni čutik-n sirun karap kdar˚n-a.,unsightly chick.NOM-the pretty swan.NOM become-COND.FUT.3SG,The ugly duckling will turn into a beautiful swan.,"Dum-Tragut_2009[p. 586, ex. 781]",
 hye_ex_06,hye,hye_A,,(Na) ē hpart ir tłay-ov.,3SG 3SG.COP proud REFL.3SG.GEN boy-INS proud,S/he is proud of his/her son.,"Hasmik Sargsian, p.c.","constrative focus on [s/he]"
 hye_ex_07,hye,hye_XP_A_N,,ir tłay-ov hpart (mi) hayr,REFL.3SG.GEN boy-INS proud (one/INDEF) father,a father proud of his son,"Hasmik Sargsian, p.c.",
@@ -25,4 +25,4 @@ hye_ex_21,hye,hye_PostP_N,,sełan-i vra-yi girk'-ə,table-GEN on-GEN book-DEF,th
 hye_ex_22,hye,hye_N_PostP,,??girk'-ə sełan-i vra-yi,book-DEF table-GEN on-GEN,the book one the (a) table,"Hasmik Sargsian, p.c.","stylistically marked/poetic"
 ,,,,,,,,
 hye_ex_23,hye,hye_M_M_N,,mec hin spitak tun,big old white house,a big old white house,"Dum-Tragut_2009[p. 588, ex. 788d]",
-hye_ex_24,hye,hye_Deg_M_N,,Ruben-ě un-i namakaniš-ner-i šat mec havak’acu.,Ruben.NOM-the have-PRES.3.SG stamp-PL-DAT INT big collection.NOM,Ruben has a very big stamp-collection.,"Dum-Tragut_2009[p. 590, ex. 791, adapted]",
+hye_ex_24,hye,hye_A_N,,Ruben-ě un-i namakaniš-ner-i šat mec havak’acu.,Ruben.NOM-the have-PRES.3.SG stamp-PL-DAT INT big collection.NOM,Ruben has a very big stamp-collection.,"Dum-Tragut_2009[p. 590, ex. 791, adapted]",
