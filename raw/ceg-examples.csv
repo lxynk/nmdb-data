@@ -1,0 +1,35 @@
+﻿ID,Language,Paremeter,Original,Morphemic,Gloss,Translation ,Source,Comment
+ceg_ex_08,ceg,ceg_A_attr ceg_N_A,,dɨkɨ shɨ jok p-ɨjɨ-k poro-k.,this.M.SG DUR 1SG 1SG-path-M.SG.PF old-M.SG.PF,This is my old path.,"(Ciucci_2019, p. 8, ex. 20)","Within the NP, adjectives, along with number words, follow the head (which is mostly a noun).If the NP is in argument or predicative form, both the head and the adjective agree in gender, number and form. See (Ciucci_2019, p. 8).'"
+ceg_ex_09,ceg,ceg_A_attr ceg_N_A,,tɨk-iya õr ɨti-ch koot-ɨt / õr ɨtɨ-lo koot-uwo.,1SG-buy 3PL 3.pillow-M.SG.AF soft-M.SG.AF / 3PL 3.pillow-M.PL soft-M.PL,I buy a soft pillow / soft pillows.,"(Ciucci_2019, p. 8, ex. 21)","Within the NP, adjectives, along with number words, follow the head (which is mostly a noun).If the NP is in argument or predicative form, both the head and the adjective agree in gender, number and form. See (Ciucci_2019, p. 8).'"
+ceg_ex_10,ceg,ceg_A_attr ceg_N_A ceg_N_AP ceg_N_A_XP,,ch-iyuhu l-ahwos-o oom-o=ho ɨre.,3-say 3.REFL.POSS-word-M.PL good-M.PL=for 3SG,S/he blesses her/him. (lit: S/he says words good for her/him.)',"(Ciucci, p.c.)","It is not very common, but it is documented. The adpositional phrase follows the noun.'"
+ceg_ex_04,ceg,ceg_A_pred,,p-ɨlehe-t mɨhnɨ-k. ,1SG-face-M.SG.AF ugly-M.SG.PF,My face is ugly.,"(Ciucci_2019, p. 5, ex. 8a)",There is no verb ‘be’ in Chamacoco. The predicative function of nouns and adjective is expressed by a dedicated predicative form (PRED).' (Comments from Ciucci)
+ceg_ex_05,ceg,ceg_A_pred,,hnakɨrb-ich ɨhɨ̃r-t.,man-M.SG.AF beautiful-M.SG.AF,The man is handsome.,"(Ciucci_2019, p. 5, ex. 8b)","The original contrast between predicative form and argument form is disappearing in Chamacoco. One of the consequences is that the argument form can also carry out predicative function. See (Ciucci_2019, p. 3). Ciucci (2019, p. 3) also states that the non-verbal predicative forms carry more morphological material than the same lexical elements in non-predicative function.'"
+ceg_ex_06,ceg,ceg_A_pred ceg_AP ceg_A_XP,,Ele kuch-ɨt om=ɨhɨ yok.,this.M.SG thing-M.SG good.M/F.SG.PRED(PF?)=for 1SG,This thing is good for me. ,"(Ciucci, p.c.)",The {adpositional} phrase always occurs after the adjective.'
+ceg_ex_07,ceg,ceg_A_pred ceg_AP ceg_XP_A,,pwert_ehe-t ich kushjãr-o wɨshɨ ɨ̃rhew.,room-M.SG.AF EMPH thing-M.PL many.M.PL full,The room is full of many things.,"(Ciucci_2019, p. 10, ex. 32)","Although it is not frequent, an adjective can be found as possessor or possessed within a possessive NP. Here the possessed is the invariable adjective ‘full’. See (Ciucci_2019, p. 10). '"
+ceg_ex_11,ceg,ceg_A_Ink stacking??,,t-ish hnakɨrb-ich wɨsh-t uje ɨhɨr-k.,1SG-meet man-M.SG.AF liberal-M.SG.AF SUB generous-M.SG.PF,I met a liberal man who is generous.,"(Ciucci_2019, p. 10, ex. 27)",Relative clauses are often used to avoid sequences of adjectives within the same NP.
+ceg_ex_12,ceg,ceg_A_Ink,,pohoch wɨsh-t uushɨ.,dog-M.SG.AF black-M.SG.AF 3.run,The black dog is running. ,"(Ciucci_2019, p. 10, ex. 26a)",
+ceg_ex_13,ceg,ceg_A_Ink ceg_A_Ink_obl,,pohoch wɨs uushɨ.,dog-M.SG.AF black-M.SG.PF 3.run,The black dog is running. (lit: The dog which is black is running.)',"(Ciucci_2019, p. 10, ex. 26a)","Ciucci (2019, p. 10) states that relative clauses are introduced by the subordinator uje, but it can be omitted.'"
+,,,,,,,,
+ceg_ex_15,ceg,ceg_V_attr ceg_N_V ceg_V_Ink ceg_V_Ink_obl(?),,asa tɨmchar-rza uje tuk-umo ye [t-ɨkey]=pe.,that.F.SG woman-F.SG.AF SUB 1SG-see NEG 1SG-forget=NEG,I do not forget that woman whom I saw. ,"(Ciucci_2019, p. 5, ex. 9b)",
+ceg_ex_16,ceg,ceg_V_attr ceg_N_V ceg_N_V_XP ceg_V_Ink ceg_V_Ink_obl(?),,T-itɨm olak par uje erze pukuhnin-o õr eyucha nẽhe ese oyayuwa-t uje loshɨp-o de-yo.,1SG-tell 2PL SUB SUB that.PL child-M.PL 3PL 3.remember FUT that.M.SG giant_anaconda-M.SG.AF SUB 3-eat animal-M.PL big-M.PL,I tell you so that these children will remind of this anaconda which eats big animals.,"(Ciucci_2016, p. 637, ex. 162)",
+,,,,,,,,
+ceg_ex_14,ceg,ceg_P_attr ceg_Prep ceg_N_Prep,,tɨk-iya pɨkɨpɨ-ta par ɨnitɨ-ta.,1SG-buy clothes-F.SG for cold-F.SG,I buy clothes for the cold. ,"(Ciucci, p.c.)","Chamacoco has a limited number of adpositions, thus, such structure is less frequent. The adpositional phrase always follows the noun. (Comments from Ciucci)"
+ceg_ex_14??,ceg,ceg_P_attr ceg_Post ceg_N_Post,,Hnakɨrb-ich umo oyayuwa-t=ɨhɨ onoo-ta ehe-t.,man-M.SG.AF 3.see giant_anaconda-M.SG.AF=PREP river-F.SG.AF 3.inside-M.SG.AF,The man sees the giant anaconda in the river.,"(Ciucci_2016, p. 214, ex. 208b)",ehet is morphologically a nominal. 
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+ceg_ex_02,ceg,,,hutɨ-ta wɨhɨ̃r-ta di-ch ,book-F.SG red-F.SG big/very-F.SG,a very red book,"(Ciucci_2016, p. 336, ex. 159)",No in any form (Full Form?)
+ceg_ex_03,ceg,,,loshi-yo tre de-yo kahr-o hn ɨhɨ̃r-tso,fish-M.PL three big-M.PL yellow-M.PL and beautiful-M.PL,"three beautiful, big, yellow fish'","'(Ciucci_2016, p. 365, ex. 155)",No in any form (Full Form?)
+ceg_ex_16,ceg,,,Tɨmchar-rza apubitɨ-ta,woman-F.SG.AF young-woman-F.SG.AF,young woman,"(Ciucci_2019, p. 10, ex. 33a)'",nouns as nominal modifiers 
+ceg_ex_17,ceg,,,onoo-t(a) w-ar-e,river-F.SG.AF 3-dirtiness-M.PL,The river is dirty.,"(Ciucci_2019, p. 10, ex. 34b)'",
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
