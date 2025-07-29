@@ -1,0 +1,36 @@
+ID,Language,Value,Comment
+isl_A,isl,yes, 
+isl_A_N,isl,yes, 
+isl_N_A,isl,special,"Although adjectives typically precede the nouns they modify, as do demonstrative pronouns, the reverse order is sometimes used in relatively formal or bookish written Icelandic (Thráinsson_2007, p. 88)."
+isl_A_XP_N,isl,no,
+isl_XP_A_N,isl,unknown,both grammatical and ungrammatical examples in grammar books
+isl_A_N_XP,isl,no,
+isl_N_A_XP,isl,yes,
+isl_N_XP_A,isl,special,"Contrastive semantics is needed here (Gísli Rúnar Harðarson, p.c) "
+isl_XP_N_A,isl,no,
+isl_V,isl,yes,
+isl_V_N,isl,no,
+isl_N_V,isl,yes,
+isl_V_XP_N,isl,,
+isl_XP_V_N,isl,,
+isl_V_N_XP,isl,,
+isl_N_V_XP,isl,yes,
+isl_N_XP_V,isl,unknown,
+isl_XP_N_V,isl,unknown,
+isl_Prep,isl,yes,
+isl_Post,isl,no?,no mention in the grammar book 	
+isl_PrepP_N,isl,unknown,		
+isl_N_PrepP,isl,yes,
+isl_PostP_N,isl,, 
+isl_N_PostP,isl,,
+isl_M_Deg_N,isl,unknown,	
+isl_Deg_M_N,isl,yes,
+isl_M_N_Deg,isl,unknown,
+isl_N_M_Deg,isl,unknown,	
+isl_N_Deg_M,isl,unknown,
+isl_Deg_N_M,isl,unknown,
+isl_M_M_N,isl,yes, 
+isl_N_M_M,isl,unknown,
+isl_M_N_M,isl,unknown,
+
+

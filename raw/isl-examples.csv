@@ -1,0 +1,35 @@
+ID,Language,Parameter,Original,Morphemic,Gloss,Translation,Source,Comment
+isl_ex_01,isl,isl_A,,hin stolt-a móðir,the proud-F.SG.NOM.WEAK mother.NOM.SG,the proud mother,"Gísli Rúnar Harðarson, p.c.","The DEF article inflects for GEN, NUM, CASE and it is in complementary distribution with the DEF affix. The DEF article also contributes a somewhat different semantics."
+isl_ex_02,isl,isl_A,,Jón er stolt-ur.,John is proud-M.SG.NOM.STRONG,John is proud.,"Gísli Rúnar Harðarson, p.c.",
+isl_ex_03,isl,isl_A,,Jón er stolt-i.,John is proud-M.SG.NOM.WEAK,John is proud.,"Gísli Rúnar Harðarson, p.c.", "Weak declension is possible on the adjective only for [is the A one] constructions, but in this case the presence of a demonstrative is obligatory: John is DEM ADJ-weak]."
+isl_ex_04,isl,isl_A,,Jón er stolt-ur af syni sínum.,John is proud-M.SG.NOM.STRONG on son.DAT his.DAT,John is proud of his son.,"Gísli Rúnar Harðarson, p.c.","This word order of A_XP in the predicative position is the prefrred than the alternative order of XP_A, possibly IS-trigger"
+
+isl_ex_05,isl,isl_A_N,,stolt-i faðir-inn,proud-M.SG.NOM.WEAK father.NOM.SG-DEF.SG.M,the proud father,"Gísli Rúnar Harðarson, p.c.",
+isl_ex_06,isl,isl_A_N,,stolt-ur faðir-inn,proud-M.SG.NOM.STRONG father.NOM.SG-DEF.SG.M,the proud father,"Gísli Rúnar Harðarson, p.c.",obligatorily non-restrictive construal of the adjective
+isl_ex_07,isl,isl_A_N,,Gunnar átti hest gráan.,Gunnar had horse grey,Grunnar had a grey horse.,"Thráinsson_2007[p. 88, ex. 3.2b]",
+isl_ex_08,isl,isl_A_XP_N,,*stolt-ur af syni sínum faðir,proud-M.SG.NOM.STRONG on son.DAT his.DAT,Intended: ‘[a] father proud of his son’,"Gísli Rúnar Harðarson, p.c.",
+isl_ex_09,isl,isl_A_XP_N,,*stolt-i af syni sínum faðir-inn,proud-M.SG.NOM.WEAK on son.DAT his.DAT father.NOM.SG-DEF.SG.M, Intended: ‘the father proud of his son’,"Gísli Rúnar Harðarson, p.c.",
+isl_ex_10,isl,isl_A_XP_N,,*stolt-ur af syni sínum faðir-inn,proud-M.SG.NOM.STRONG on son.DAT his.DAT father.NOM.SG-DEF.SG.M, Intended: ‘the father proud of his son’,"Gísli Rúnar Harðarson, p.c.",
+isl_ex_11,isl,isl_A_N_XP,,*stolt-ur faðir af syni sínum,proud-M.SG.NOM.STRONG father on son.DAT his.DAT,Intended: ‘father proud of his son’,"Gísli Rúnar Harðarson, p.c.",
+isl_ex_12,isl,isl_A_N_XP,,*stolt-i faðir-inn af syni sínum,proud-M.SG.NOM.WEAK father.NOM.SG-DEF.SG.M on son.DAT his.DAT,Intended: ‘the father proud of his son’,"Gísli Rúnar Harðarson, p.c.",
+isl_ex_13,isl,isl_XP_A_N,,af syni sínum stolt-ur faðir,on son.DAT his.DAT proud-M.SG.NOM.STRONG father,father proud of his son,"Gísli Rúnar Harðarson, p.c.",
+isl_ex_14,isl,isl_XP_A_N,,af syni sínum stolt-i faðir-inn,on son.DAT his.DAT proud-M.SG.NOM.WEAK father.NOM.SG-DEF.SG.M,the father proud of his son,"Gísli Rúnar Harðarson, p.c.",
+isl_ex_15,isl,isl_XP_A_N,,af syni sínum stolt-ur faðir-inn,on son.DAT his.DAT proud-M.SG.NOM.STRONG father.NOM.SG-DEF.SG.M,the father proud of his son,"Gísli Rúnar Harðarson, p.c.",
+isl_ex_16,isl,isl_XP_A_N,,*konu sinni trúr maður,wife his.DAT faithful man,Intended: ‘man faithful to his wife’,"Thráinsson_2007[p. 108, ex. (i)b]","Adjectives taking NP complements (and assigning case to them) cannot occur in the usual prenominal position in Icelandic (Thráinsson_2007, p. 108)."
+isl_ex_17,isl,isl_N_A_XP,,faðir stolt-ur af syni sínum,father proud-M.SG.NOM.STRONG on son.DAT his.DAT,father proud of his son,"Gísli Rúnar Harðarson, p.c.",
+isl_ex_18,isl,isl_N_A_XP,,*faðir-inn stolt-i af syni sínum, father.NOM.SG-DEF.SG.M proud-M.SG.NOM.WEAK on son.DAT his.DAT,Intended: ‘the father proud of his son’,"Gísli Rúnar Harðarson, p.c.",
+isl_ex_19,isl,isl_N_A_XP,,faðir-inn stolt-ur af syni sínum, father.NOM.SG-DEF.SG.M proud-M.SG.NOM.STRONG on son.DAT his.DAT,the father proud of his son,"Gísli Rúnar Harðarson, p.c.",non-restrictive??
+isl_ex_20,isl,isl_N_XP_A,,faðir af syni sínum stolt-ur,father on son.DAT his.DAT proud-M.SG.NOM.STRONG,father proud of his son,"Gísli Rúnar Harðarson, p.c.",contrastive semantics is needed
+isl_ex_21,isl,isl_N_XP_A,,*faðir-inn af syni sínum stolt-i,father.NOM.SG-DEF.SG.M on son.DAT his.DAT proud-M.SG.NOM.WEAK,Intended: ‘the father proud of his son’,"Gísli Rúnar Harðarson, p.c.",non-restrictive??
+isl_ex_22,isl,isl_N_XP_A,,faðir-inn af syni sínum stolt-ur,father.NOM.SG-DEF.SG.M on son.DAT his.DAT proud-M.SG.NOM.STRONG,the father proud of his son,"Gísli Rúnar Harðarson, p.c.",non-restrictive?? but contrastive semantics is need
+
+isl_ex_23,isl,isl_N_V isl_N_V_XP,,Konan [sem ég talaði við] er hollensk.,woman-the that I talked with is Dutch,The woman that I talked to is Dutch.,"Thráinsson_2007[p. 5, ex. 1.10]",
+isl_ex_24,isl,isl_N_V isl_N_V_XP,,Maðurinn sem hringdi í gærkvöldi er kominn að hitta þig.,man-the that called in last-night is come to see you,The man that called last night has come to see you.,"Thráinsson_2007[p. 362, ex. 7.54a]",
+isl_ex_25,isl,isl_V,,Íslendingar sem borða mikinn fisk verða almennt gamli,Icelanders that eat much fish become in general old,"Icelanders that eat a lot of fish become old in general./ Icelanders, who eat a lot of fish, become old in general.","Thráinsson_2007[p. 5, ex. 1.11]",ambiguous between restrictive and non-restrictive reading
+
+isl_ex_26,isl,isl_Prep,,um háls hans,around neck his.GEN,around his neck.,"Thráinsson_2007[p. 95, ex. 3.20]",formal
+isl_ex_27,isl,isl_N_PrepP,,Bókin mín um íslenska setningafræði fékk góða dóma.,book-the my on Icelandic syntax got good reviews,My book on Icelandic syntax got good reviews.,"Thráinsson_2007[p. 93, ex. 3.16a]",
+isl_ex_28,isl,isl_N_PrepP,,konan þarna með hattinn,woman-the there with hat-the,the woman (over) there in the hat.,"Thráinsson_2007[p. 120, ex. 3.65a]",
+
+isl_ex_29,isl,isl_Deg_M_N,,hið ofsalega gula borð,the extremely yellow table,the extremely yellow table,"Thráinsson_2007[p. 106, ex. 3.43]",
+
