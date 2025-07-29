@@ -1,14 +1,19 @@
 ID,Language,Parameter,Original,Morphemic,Gloss,Translation,Source,Comment
-eus_ex_01,eus,eus_A eus_N_M_M,,etxe zuri txiki polit bat,house white little pretty a,a pretty little white house,"Hualde_Ortiz_de_Urbina_2003, p.137, ex.100)",
-eus_ex_02,eus,eus_A eus_N_A eus_N_AP,,*emakume [bere lanaz harro] a,woman her work.INST proud DET,Intended: a woman proud of her work,"(Hualde et al._2003, p.138, ex.103)","Transitive adjective phrases are confined to predicate position, and may not occur inside a noun phrase (Hualde & Ortiz de Urbina_, p.138)."
+eus_ex_01,eus,eus_A eus_N_M_M,,etxe zuri txiki polit bat,house white little pretty a,a pretty little white house,"Hualde_Ortiz_de_Urbina_2003[p. 137, ex. 100]",
+eus_ex_02,eus,eus_A eus_N_A eus_N_XP_A,,*emakume [bere lanaz harro] a,woman her work.INST proud DET,Intended: a woman proud of her work,"Hualde_Ortiz_de_Urbina_2003[p. 138, ex. 103]","Transitive adjective phrases are confined to predicate position, and may not occur inside a noun phrase (Hualde & Ortiz de Urbina_, p.138)."
 eus_ex_03,eus,eus_V_attr eus_V_N eus_XP_V_N eus_V_lnk eus_V_lnk_obl,,[bere lanaz harroa dagoen] emakumea,her work.INST proud.DET is.COMP woman-DET,a woman who is proud of her work,"(Trask_2003, p.138, ex.104)","When used to modify a noun phrase, transitive adjective phrases must be in the forms of relative clauses(Hualde & Ortiz de Urbina_2003, p.138)."
 eus_ex_04,eus,eus_A_attr eus_A_N,,euskal idazleak,Basque writer.DET.PL,Basque writers,"(Hualde & Ortiz de Urbina_2003, p.139)", "Some modifiers denoting nationality can precede or (occasionally) follow the head noun, but euskal is unique, in that it is explicitly a combining form and hence must precede the head."
 eus_ex_05,eus,eus_A_attr eus_A_N,,esku ezkerra,left hand.DET,the left hand,"(Hualde & Ortiz de Urbina_2003, p.139)",
 eus_ex_06,eus,eus_A_pred eus_AP eus_XP_A,,Bere lan-az harroa dago.,his work.INST proud.DET is,She is proud of her work.,"(Hualde & Ortiz de Urbina_2003, p.138, ex.102)","Such transitive adjective phrases are confined to predicate position, and may not occur inside a noun phrase (Hualde & Ortiz de Urbina_2003, p.138)."
 eus_ex_07,eus,eus_A_pred,,Liburu hau interesgarri-a da.,book this interesting.DET is,This book is interesting.,"(Hualde & Ortiz de Urbina_2003, p. 121, ex.78)",
 eus_ex_08,eus,eus_V_attr eus_V_N eus_V_lnk eus_V_lnk_obl,,azkarra den emakumea,smart.DET AUX.COMP woman.DET,the woman that is smart,"(Laka_1996, p. 25, ex.1d)", 
-eus_ex_09,eus,eus_A_attr eus_N_A,,etxe errea,house burn.PERF,a burned-out house,"(Hualde & Ortiz de Urbina_2003, p. 142)","The perfective participle of a verb may function as an ordinary lexical adjective. In Eastern varieties (only), such articples can alsp take modifiers and complements and can used in a prenominal position (Hualde & Ortiz de Urbina_2003, p. 142)."
-eus_ex_10,eus,eus_A_attr eus_N_A,,haur ongi ikasiak,child ok learn.PERF.DET.PL,well-educated children,"(Hualde & Ortiz de Urbina_2003, p. 142)","The perfective participle of a verb may function as an ordinary lexical adjective. In Eastern varieties (only), such articples can alsp take modifiers and complements and can used in a prenominal position (Hualde & Ortiz de Urbina_2003, p. 142).  "
+eus_ex_09,eus,eus_A eus_N_A,,etxe errea,house burn.PERF,a burned-out house,"(Hualde & Ortiz de Urbina_2003, p. 142)","The perfective participle of a verb may function as an ordinary lexical adjective. In Eastern varieties (only), such articples can alsp take modifiers and complements and can used in a prenominal position (Hualde & Ortiz de Urbina_2003, p. 142)."
+eus_ex_10,eus,eus_A eus_N_A,,haur ongi ikasiak,child ok learn.PERF.DET.PL,well-educated children,"(Hualde & Ortiz de Urbina_2003, p. 142)","The perfective participle of a verb may function as an ordinary lexical adjective. In Eastern varieties (only), such articples can alsp take modifiers and complements and can used in a prenominal position (Hualde & Ortiz de Urbina_2003, p. 142).  "
+
+eus_ex_01,eus,eus_A eus_XP_A,,Bere lan-az harroa dago.,his work-INST proud-DET is,She is proud of her work,"Hualde_Ortiz_de_Urbina_2003[p. 138, ex. 102]",
+
+
+
 ,,,,,,,,
 eus_ex_11,eus,eus_V_attr eus_V_N eus_VP_N eus_XP_V_N eus_V_lnk eus_V_lnk_obl,,[loreak eman dizkiodan] neska,flowers give AUX.COMP girl,the girl I gave flowers to,"(Hualde & Ortiz de Urbina_2003, p. 149, ex.112)",
 eus_ex_12,eus,eus_V_attr eus_V_N eus_V_lnk eus_V_lnk_obl,,[etorri ez den] gizona, come not AUX.COMP man.DET, the man who didn’t come,"(Hualde & Ortiz de Urbina_2003, p. 523, ex.1090)",
