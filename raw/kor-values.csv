@@ -1,6 +1,6 @@
 ID,Language,Value,Comment
 kor_A,kor,special,"There is arguably no adjective class in Korean but there exists a small list of so-called prenouns that can have adjective-like meaning."
-kor_A_N,kor,no,
+kor_A_N,kor,yes,
 kor_N_A,kor,no,
 kor_A_XP_N,kor,no,
 kor_XP_A_N,kor,yes,
@@ -8,7 +8,7 @@ kor_A_N_XP,kor,no,
 kor_N_A_XP,kor,no,
 kor_N_XP_A,kor,no,
 kor_XP_N_A,kor,no,
-kor_A_XP,kor,no,
+kor_A_XP,kor,no,"Such prenouns can not be used predicatively. A verbal counterpart needs to be used in such situations." 
 kor_XP_A,kor,no,
 ,,,
 kor_V,kor,yes,
@@ -25,8 +25,8 @@ kor_XP_V,kor,yes,
 ,,,
 kor_Prep,kor,no,
 kor_Post,kor,special,"There is no postposition category in Korean, but there exist some particles that indicate such meaning."
-kor_PrepP_N,kor,no,
-kor_N_PrepP,kor,no,
+kor_PrepP_N,kor,,
+kor_N_PrepP,kor,,
 kor_PostP_N,kor,yes,
 kor_N_PostP,kor,no,
 ,,,
