@@ -1,5 +1,5 @@
 ID,Language,Value,Comment
-jpn_A,jpn,yes,"Na-Adjective/ adjectives that require a copula when used predicatively are categorized into this section."
+jpn_A,jpn,yes,"The so-called na-adjective/ adjectives that require a copula when used predicatively are categorized into this section."
 jpn_A_N,jpn,yes,
 jpn_N_A,jpn,no,
 jpn_A_XP_N,jpn,no,
@@ -10,23 +10,26 @@ jpn_N_XP_A,jpn,no,
 jpn_XP_N_A,jpn,no,
 jpn_A_XP,jpn,no,
 jpn_XP_A,jpn,yes,
-jpn_V,jpn,yes,i-adjectives are also categorized into this section.
+
+jpn_V,jpn,yes,The so-called i-adjectives are also categorized into this section.
 jpn_V_N,jpn,yes,
 jpn_N_V,jpn,no,
 jpn_V_XP_N,jpn,no,
 jpn_XP_V_N,jpn,yes,
-jpn_V_N_XP,jpn,no/special,some might find such word order acceptable with prosodic break
+jpn_V_N_XP,jpn,no,Some might find such word order acceptable with prosodic break.
 jpn_N_V_XP,jpn,no,
 jpn_N_XP_V,jpn,no,
 jpn_XP_N_V,jpn,no,
 jpn_V_XP,jpn,no,
 jpn_XP_V,jpn,yes,
+
 jpn_Prep,jpn,no,		
 jpn_Post,jpn,yes,		
-jpn_PrepP_N,jpn,no,		
-jpn_N_PrepP,jpn,no,		
+jpn_PrepP_N,jpn,,		
+jpn_N_PrepP,jpn,,		
 jpn_PostP_N,jpn,yes, 
 jpn_N_PostP,jpn,no,
+
 jpn_M_M_N,jpn,yes,
 jpn_N_M_M,jpn,no,
 jpn_M_N_M,jpn,no,
