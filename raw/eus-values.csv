@@ -1,13 +1,13 @@
 ID,Language,Value,Comment
 eus_A,eus,yes,including both lexical adjectives and perfective participles of verbs
-eus_A_N,eus,special,"several types of modifiers can (optionally) be used prenominally, see section 3.1.3.2 in Hualde & Ortiz de Urbina(2003) for more discussion."
+eus_A_N,eus,special,"Several types of modifiers can (optionally) be used prenominally, see section 3.1.3.2 in Hualde & Ortiz de Urbina(2003) for more discussion."
 eus_N_A,eus,yes,
 eus_A_XP_N,eus,no,no mentions in the grammar
 eus_XP_A_N,eus,no,no mentions in the grammar 
 eus_A_N_XP,eus,no,no mentions in the grammar
 eus_N_A_XP,eus,no,adjectives in attributive position cannot take dependents (unless turned into prenominal RCs) 
 eus_N_XP_A,eus,no,adjectives in attributive position cannot take dependents (unless turned into prenominal RCs) 
-eus_XP_N_A,eus,special,
+eus_XP_N_A,eus,special,"When a degree modifier occurs inside a noun phrase with a head noun, the modifier precedes the noun while the adjective follows."
 eus_A_XP,eus,no,
 eus_XP_A,eus,yes,
 eus_V,eus,yes,only in prenominal RC
