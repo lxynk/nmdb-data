@@ -1,0 +1,41 @@
+ID,Language,Value,Comment
+kpy_A,kpy,yes,Attributive adjectives can be either incorporated into the noun or be independent words.
+kpy_A_N,kpy,yes,
+kpy_N_A,kpy,yes,"Incorportated attributive adjectives can’t be postnominal, while free attributive adjectives allow different word order."
+kpy_A_XP_N,kpy,,
+kpy_XP_A_N,kpy,,
+kpy_A_N_XP,kpy,,
+kpy_N_A_XP,kpy,,
+kpy_N_XP_A,kpy,,
+kpy_XP_N_A,kpy,,
+
+kpy_V_attr,kpy,yes,RCs
+kpy_V_N,kpy,no mention,
+kpy_N_V,kpy,yes,
+kpy_V_XP_N,kpy,,
+kpy_XP_V_N,kpy,,
+kpy_V_N_XP,kpy,,
+kpy_N_V_XP,kpy,yes,
+kpy_N_XP_V,kpy,,
+kpy_XP_N_V,kpy,,
+
+kpy_Prep,kpy,unknown,no mention in the grammar books	
+kpy_Post,kpy,yes,indicated by the suffix marker attached to the end of the noun
+kpy_PrepP_N,kpy,,		
+kpy_N_PrepP,kpy,,
+kpy_PostP_N,kpy,yes,no speicial information structure (the more natural word order)
+kpy_N_PostP,kpy,yes,indicates special information structure
+
+kpy_M_Deg_N,kpy,,
+kpy_Deg_M_N,kpy,,
+kpy_M_N_Deg,kpy,,
+kpy_N_M_Deg,kpy,,
+kpy_N_Deg_M,kpy,,
+kpy_Deg_N_M,kpy,,
+
+kpy_M_M_N,kpy,yes?, 
+kpy_N_M_M,kpy,yes,stacking of relative clauses is possible 
+kpy_M_N_M,kpy,,
+
+
+

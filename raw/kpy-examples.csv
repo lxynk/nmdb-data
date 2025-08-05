@@ -1,0 +1,22 @@
+ID,Language,Parameter,Original,Morphemic,Gloss,Translation,Source,Comment
+kpy_ex_01,kpy,kpy_A,,ɣəmmo n-ə-pəttoŋ-eɣəm.,1SG.ABS ADJ-EP-rich-1SG.PRED,I am rich.,"Rafael Abramovitz, p.c.",
+kpy_ex_02,kpy,kpy_A kpy_A_N,,təleʔun majŋ-ə-kajŋ-ə-n.,see.1SG.S>3SG.O.PST big-EP-bear-EP-ABS.SG,I saw a big bear.,"Rafael Abramovitz, p.c.",incorportated attributive adjective 
+kpy_ex_03,kpy,kpy_A kpy_A_N,,təleʔun n-ə-mejəŋ-qin kajŋ-ə-n.,see.1SG.S>3SG.O.PST ADJ-EP-big-ADJ.SG bear-EP-ABS.SG,I saw a big bear.,"Rafael Abramovitz, p.c.",free attributive adjective  
+kpy_ex_04,kpy,kpy_N_A,,*təleʔun kajŋ-ə-majŋ-ə-n.,see.1SG.S>3SG.O.PST bear-EP-big-EP-ABS.SG,I saw a big bear.,"Abramovitz_2021[p. 155, ex. 311a]",
+kpy_ex_05,kpy,kpy_N_A,,təleʔun kajŋ-ə-n n-ə-mejəŋ-qin.,see.1SG.S>3SG.O.PST bear-EP-ABS.SG ADJ-EP-big-ADJ.SG,I saw a big bear.,"Abramovitz_2021[p. 155, ex. 311a]",
+kpy_ex_06,kpy,kpy_N_V_XP,,eʎʔa-na-k mik-ə-ne-k ∅-ine-n-ə-kj-ev-i ɣəmmo metʔa-ŋ ∅-k-aŋaŋja-ŋvo-ŋ-∅.,woman-OBL.SG-ERG who-EP-OBL.SG-ERG 2/3.S/A.IND-1SG.O-CAUS-EP-wake.up-VBLZ-AOR 1SG.ABS beautiful-ADV 2/3.S/A.IND-PRS-sing-HAB-PRS-3.S.IND,The woman that woke me up sings well.,"Abramovitz_2021[p. 155, ex. 311a]",
+kpy_ex_07,kpy,kpy_N_V_XP,,ŋanen-ʔojamtawelʔ-ə-ŋ mek-ə-na-ŋ t-ə-je-jəl-ŋ-ə-ne-w kanpeta-w ∅-ku-tejk-ə-ŋ-nin jaja-wwe.,DIST.DEM-person-EP-DAT who-EP-OBL.SG-DAT 1SG.ERG 1SG.S/A-EP-FUT-give-FUT-EP-3.O-3PL candy-ABS.PL 2/3.S/A.IND-PRS-make-EP-PRS-3SG.A>3.O house-ABS.PL,The person to whom I gave candies build houses.,"Abramovitz_2021[p. 165, ex. 324a]",
+kpy_ex_08,kpy,kpy_Post,,ə-nan to ənək-partija-ta nanəpʎepavən jon-at-ɣəjŋ-ə-n mujək-nute-k.,3SG-ERG and 3SG.POSS-party-ERG fix.3NSG.S >3SG.O.PST live-VB-NMLZ-EP-ABS.SG 1NSG.POSS-land-LOC,He and his party fixed life in our land.,"Rafael Abramovitz, p.c.",
+kpy_ex_09,kpy,kpy_Post,,menno winə qət͡ɕʔet-ə-ŋqo wajamlana-jtəŋ?,where.be.3SG road.ABS.SG Palana-EP-ABL Lesnaya-ALL,Where is the road from Palana toLesnaya?,"Rafael Abramovitz, p.c.",
+kpy_ex_10,kpy,kpy_PostP_N,,lajv-ə-ɣəjŋ-ə-n umk-ə-k,walk-EP-NMLZ-EP-ABS.SG forest-EP-LOC,a walk in the woods,"Rafael Abramovitz, p.c.",no special information structure
+kpy_ex_11,kpy,kpy_N_PostP,,umk-ə-k lajv-ə-ɣəjŋ-ə-n,forest-EP-LOC walk-EP-NMLZ-EP-ABS.SG,a walk in the woods,"Rafael Abramovitz, p.c.","correlates with information structure, here (not in the tundra) "
+kpy_ex_12,kpy,kpy_M_M_N,,(ɣəmmo) t’-om-l’əql’aŋ-kemetʕa-n’-coccəm-av-ə-k-∅.,(1SG.ABS) 1SG.S-warm-winter-clothes-CAUS-get.prepared-CAUS-E-1SG.S-PFV, I prepared warm winter clothes.,"Kurebito_2017[p. 843, ex. 34a]",both adjectives? Or one modifier is noun?
+kpy_ex_13,kpy,kpy_M_M_N,,(ɣəm-nan) n-om-qinew ləqleŋ-kine-w kimitʕa-w t’-ə-n-coccəm-aw-naw-∅.,(1SG.ERG) PRP-warm-ABS.PL winter-REL-ABS.PL clothes-ABS.PL 1SG.A-E-CAUS-get.prepared-CAUS-3PL.P.PFV, I prepared the warm winter clothes.,"Kurebito_2017[p. 843, ex. 34b]",
+kpy_ex_14,kpy,kpy_N_M_M,,ŋavət͡ɕŋ-a mik-ə-ne-k ∅-en-aŋja-j mik-ə-ne-k ɣət͡ɕt͡ɕi na-ja-kətʔajŋa-ɣe wutku ∅-ku-jun-et-ə-ŋ-∅.,woman-ERG who-EP-OBL.SG-ERG 2/3.S/A.IND-1SG.O-praise-AOR who-EP-OBL.SG-ERG 2SG.ABS INV-FUT-scold-2SG.O here 2/3.S/A/IND-PRS-live-VBLZ-EP-PRS-3.S.IND,The woman who praised me who will scold you lives here.,"Abramovitz_2021[p. 162, ex. 321a, adapted]",
+kpy_ex_15,kpy,kpy_N_M_M,,pit͡ɕɣ-ə-n/ pit͡ɕɣ-e jeq-e t-ewji-k jaq-ə-ŋ ɣə-nan ∅-ineɣej-ə-n t͡ɕoʎt͡ɕoʎ n-ə-mel-qin.,Food-EP-ABS.SG/ food-INST what-INST 1SG.S/A-eat-1SG.S what-EP-DAT 2SG-ERG 2/3.S/A.IND-add-EP-3(SG).O salt.ABS.SG ADJ-EP-good-ADJ.SG,The food that I ate that you added salt to is tasty.,"Abramovitz_2021[p. 162, ex. 321b, adapted]",
+,,,,,,,,
+kpy_ex_,kpy,kpy_A_N??,,n-ə-mejəŋ-qin təleʔun kajŋ-ə-n.,ADJ-EP-big-ADJ.SG see.1SG.S>3SG.O.PST bear-EP-ABS.SG,I saw a big bear.,"Rafael Abramovitz, p.c.","free adjectives + left-branch extraction"
+kpy_ex_,kpy,??,,mujək-nəmnəm-ə-k kujunetəŋ ʔujemtewilʔ-ə-n əməŋ mekə-na-ŋ n-ə-ŋotə-qen.,1NSG-village-EP-LOC live.3SG.PRS person-EP-ABS.SG all who-OBL.SG-DAT ADJ-EP-angry-ADJ.3SG,"In our village there lives a person who is angry at everyone (lit. an angry-ateveryone person.)","Rafael Abramovitz, p.c.",
+
+
+
