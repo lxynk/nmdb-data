@@ -7,7 +7,7 @@ eus_XP_A_N,eus,no,no mentions in the grammar
 eus_A_N_XP,eus,no,no mentions in the grammar
 eus_N_A_XP,eus,no,adjectives in attributive position cannot take dependents (unless turned into prenominal RCs) 
 eus_N_XP_A,eus,no,adjectives in attributive position cannot take dependents (unless turned into prenominal RCs) 
-eus_XP_N_A,eus,no,adjectives in attributive position cannot take dependents (unless turned into prenominal RCs) 
+eus_XP_N_A,eus,special,
 eus_A_XP,eus,no,
 eus_XP_A,eus,yes,
 eus_V,eus,yes,only in prenominal RC
