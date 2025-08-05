@@ -1,15 +1,15 @@
 ID,Language,Value,Comment
 mya_A,mya,no,"No clear class of adjectives can be postulated in Burmese. What are adjectives in English mostly function as verbs in Burmese. Instead of adjectives, they are a class of stative verbs (or property verbs) in Burmese, with the same syntactic possibilities as other verbs (Jenny & Hnin Tun, 2016, p. 9). Another type of construction, the most challenging one in terms of form and function, consists of a noun and a postnominal verb in nominalized form (Jenny, 2022, p. 163)."
-mya_A_N,mya,no,
-mya_N_A,mya,no,
-mya_A_XP_N,mya,no,
-mya_XP_A_N,mya,no, 
-mya_A_N_XP,mya,no,
-mya_N_A_XP,mya,no,
-mya_N_XP_A,mya,no,
-mya_XP_N_A,mya,no,
-mya_A_XP,mya,no,
-mya_XP_A,mya,no,
+mya_A_N,mya,,
+mya_N_A,mya,,
+mya_A_XP_N,mya,,
+mya_XP_A_N,mya,, 
+mya_A_N_XP,mya,,
+mya_N_A_XP,mya,,
+mya_N_XP_A,mya,,
+mya_XP_N_A,mya,,
+mya_A_XP,mya,,
+mya_XP_A,mya,,
 
 mya_V,mya,yes,"The most frequent and flexible of the modifying constructions is the one consisting of a verb attached to the following noun by a special syntactic marker θɔ̀/ðɔ̀ in formal or tέ/dɛ́ in colloquial language (Jenny, 2022)."
 mya_V_N,mya,yes,
