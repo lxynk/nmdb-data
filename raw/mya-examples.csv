@@ -1,7 +1,7 @@
 ID,Language,Parameter,Original,Morphemic,Gloss,Translation,Source,Comment
 mya_ex_01,mya,mya_A,,ʔeiɴ-ɟì,house-be.big,a/the big house,"Jenny_2022[p. 165]",
 mya_ex_02,mya,mya_A,,sa-yè-sʰəya,text-write-teacher,writer/ author,"Jenny_Hnin_Tun_2016[p. 105]",
-mya_ex_03,mya,mya_A,,*ye θeiʔ ʔè,water very be.cold,Intended: very cold water,"Mathias Jenny, p.c.","Post-nominal verbal modifiers cannot be extended by any adverbials. Negation may be acceptable in some cases in colloquial Burmese, but not in the standard language (Mathias Jenny, p.c.)."
+mya_ex_03,mya,mya_A,,*ye θeiʔ ʔè,water very be.cold,very cold water,"Mathias Jenny, p.c.","Post-nominal verbal modifiers cannot be extended by any adverbials. Negation may be acceptable in some cases in colloquial Burmese, but not in the standard language (Mathias Jenny, p.c.)."
 mya_ex_04,mya,mya_A,,θu ʔeiɴ ʔəθiʔ sʰauʔ-ne-dɛ.,3 house NML.new to.build-stay-NFUT,He is building a new house,"Jenny_2022[p. 168, ex. 1a]","The noun and the nominalized verb should be seen as standing in an APPOSITIONAL relation, rather than a MODIFIER-MODIFIED relation (Jenny, 2021)."
 
 mya_ex_05,mya,mya_V mya_V_N,,ʨənɔ ʨaiʔ-tɛ́ hìn hma-pè-ba.,1M like-NFUT.DEP curry order-give-POL,Please order the curry I like.,"Jenny_Hnin_Tun_2016[p. 261]",
@@ -18,3 +18,4 @@ mya_ex_13,mya,mya_N_M_M,,*ʔein-ʨì-kàun,house-be.big-be.good,Intended: a good
 mya_ex_14,mya,mya_N_M_M,,lu-zò-dʑì,person-be.bad-be.big,a big bandite,"Mathias Jenny, p.c.",such stacking is possible because 'lu-zò-dʑì' is a lexicalized noun 
 mya_ex_15,mya,mya_M_N_M,,ʨənɔ ʨaiʔ-tɛ́ ʔein-ʨì,1M like-NFUT.DEP house-be.big,the big house that I like,"Mathias Jenny, p.c.",possible and commonly used
 mya_ex_16,mya,mya_M_M_N,,ʨənɔ ʨaiʔ-tɛ́ ʨì-tɛ́ ʔeiɴ,1M like-NFUT.DEP be.big-NFUT.DEP house,the big house that I like (the house which is big and which I like),"Mathias Jenny, p.c.",possible but less complex constructions like ex.14 may be preferred
+
