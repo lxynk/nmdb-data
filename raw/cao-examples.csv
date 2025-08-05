@@ -11,19 +11,22 @@ cao_ex_09,cao,cao_A_XP,,naa motó tsi ȿo [yói karetera ka=tí].,DEM motorcycle
 cao_ex_10,cao,cao_XP_A,,naa motó tsi ȿo [karetera ka=tí yói].,DEM motorcycle P5 DECL highway go=NMLZ:PURP bad,The motorcycle is bad for driving on the highway.,"Adam Tallman, p.c.",
 cao_ex_11,cao,cao_A_XP,,naa yoȿa tsi ȿo [hia adán=kí].,DEM woman P5 DECL pretty Adam=DAT,This woman is pretty to Adam (Adam finds her pretty).,"Adam Tallman, p.c.",
 cao_ex_12,cao,cao_XP_A,,naa yoȿa tsi ȿo [adán=kí hia].,DEM woman P5 DECL Adam=DAT pretty,This woman is pretty to Adam (Adam finds her pretty).,"Adam Tallman, p.c.",
+
 cao_ex_13,cao,cao_V cao_N_V,,awi óʂa=ka tsáya hóni siri=’ wa=kɨ,wife sleep=REL see man old=ERG TR=DE:P,The old man saw his wife who was asleep.,"Tallman_2018[p. 148, ex. 3.31]",
 cao_ex_14,cao,cao_V cao_V_N cao_M_N_M,,ha ʃi-toʂ-a=kan=(ʔ)á=ka kaʃi yoi tsi kiá pakɨ=ní=kɨ.,3 chest-hit-TR=PL=NMLZ:P=REL bat poor P5 REP fall=REMP=DEC:P,The poor bat who they hit in the chest fell.,"Tallman_2018[p. 144, ex. 3.27]",
 cao_ex_15,cao,cao_N_XP_V,,yoȿa [adán=kí hia=ka] haba=kɨ hawɨ́ ȿóbo=kí.,woman Adam=DAT pretty=REL run=DECL.PST 3SG.GEN house=DAT,A woman pretty to Adam (which Adam finds pretty) ran to his house.,"Adam Tallman, p.c.",
 cao_ex_16,cao,cao_N_XP_V,,honi ȿobo tsaya=ȿɨni raaʔa yoȿa=’ wa=kɨ.,man house look_at=ADJLZ scold woman=ERG TR=DECL.PST,The woman scolded the man who always looks at houses (lit. the always-house-looking man).,"Adam Tallman, p.c.","The speaker stated that the sentence sounded better if there was a pause after the first word – suggesting that there was really something hard to process about this sentence."
 cao_ex_17,cao,cao_N_XP_V,,yoȿa raaʔa honi ȿobo tsaya=ȿɨni=’ wa=kɨ.,woman scold man house look_at=ADJLZ=ERG TR=DECL.PST,The man who always looks at houses (lit. the always-house-looking man) scolded the woman/wife.,"Adam Tallman, p.c.","Unclear whether the construction should be regarded as complex APs or appositional N-clausal N combinations."
 cao_ex_18,cao,cao_XP_V,,yoʂa pistia tsayá tsi ha wa=tɨkɨ(n)=ka(n)=ní=kɨ,woman small see P5 3 TR=AGAIN=PL=REMP=DEC:P,They saw the young woman again.,"Tallman_2018[p. 335, ex. 5.124]",
+
 cao_ex_19,cao,cao_Post,,katʃa=ȿó ina hɨri=’ pabɨ=má=ki.,outside=A dog Gere=ERG dance=CAUS=DECL.PST,Gere made the dog dance from outside (i.e. Gere was outside).,"Adam Tallman, p.c.","If an adjunct that modifies an N(P) is in first or last position in the clause, then it can be marked for a participant agreement marking that tells you which of the core arguments it is associated with."
-cao_ex_20,cao,cao,cao_Post,,kára míʃni=bo no inia i=pao=ní=kɨ toro=kí,rubber little=PL 1PL sell AUX=HAB=REMP=DEC:P Toro=DAT,We used to sell a little bit of rubber to Toro.,"Tallman_2018[p. 332, ex. 5.118]",
+cao_ex_20,cao,cao_Post,,kára míʃni=bo no inia i=pao=ní=kɨ toro=kí,rubber little=PL 1PL sell AUX=HAB=REMP=DEC:P Toro=DAT,We used to sell a little bit of rubber to Toro.,"Tallman_2018[p. 332, ex. 5.118]",
 cao_ex_21,cao,cao_N_PostP,,*honi noti=’,man canoe=SPAT,the man in the canoe,"Adam Tallman, p.c.",
 cao_ex_22,cao,cao_N_PostP,,honi noti=’=ka,man canoe=SPAT=REL,the man (who is) in the canoe,"Adam Tallman, p.c.",
 cao_ex_23,cao,cao_PostP_N,,naa ȿobo=’=ka ȿokobo,DEM house=SPAT=REL child,this child in the house,"Tallman_2018[p. 1152, ex. 14.81]",
 cao_ex_24,cao,cao_N_Post,,honi pia=yá,man arrow=COM,the man with the arrow,"Adam Tallman, p.c.",The comitative marker allows the relevant word order.
 cao_ex_25,cao,cao_PostP_N,,oi=yá tiá,rain=COM season,the rainy season (lit. the time with rain/sun),"Tallman_2018[p. 824, ex. 10.44a, adapted]",prenominal comitative
+
 
 
 
