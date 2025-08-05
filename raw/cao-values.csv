@@ -1,52 +1,35 @@
 ID,Language,Value,Comment
-cao_A_mod,cao,yes,
+cao_A,cao,yes,
 cao_A_N,cao,no,
 cao_N_A,cao,yes,
-cao_AP_N,cao,/,
-cao_A_XP_N,cao,/,
-cao_XP_A_N,cao,/,
-cao_N_AP,cao,yes,
+cao_A_XP_N,cao,no,
+cao_XP_A_N,cao,no,
+cao_A_N_XP,cao,no,
 cao_N_A_XP,cao,yes,
-cao_N_XP_A,cao,no,ungrammaticality? processing difficulties?
-cao_A_attr,cao,yes,BUT...
-cao_A_attr_obl,cao,no,But =ka(to) is obligatory in N_XP_A cases. 
-cao_A_attr_pos,cao,/,
-cao_A_pred,cao,yes,
-cao_A_dep,cao,yes,
+cao_N_XP_A,cao,no,This N_XP_A word order needs to be relativized with =ka(to) (REL marker).
+cao_XP_N_A,cao,unknown,
 cao_A_XP,cao,yes,the more natural alternative
 cao_XP_A,cao,yes,
 ,,,
-cao_V_mod,cao,yes,
-cao_V_N,cao,no,see section 5.3.3 in Tallman (2018) for further clarification
+cao_V,cao,yes,
+cao_V_N,cao,no?yes?,example of prenominal REL exists but also see section 5.3.3 in Tallman (2018) for further clarification
 cao_N_V,cao,yes,
-cao_VP_N,cao,/,
-cao_V_XP_N,cao,/,
-cao_XP_V_N,cao,/,
-cao_N_VP,cao,yes,
-cao_N_V_XP,cao,?,
+cao_V_XP_N,cao,unknown,
+cao_XP_V_N,cao,unknown,
+cao_V_N_XP,cao,unknown,
+cao_N_V_XP,cao,unknown,
 cao_N_XP_V,cao,yes,
-cao_V_attr,cao,yes,
-cao_V_attr_obl,cao,yes,
-cao_V_attr_pos,cao,,attached to the adjectivalized verb stem
-cao_V_pred,cao,?,
-cao_V_dep,cao,?,	
-cao_V_XP,cao,?,		
-cao_XP_V,cao,?,
+cao_XP_N_V,cao,unknown,
+cao_V_XP,cao,unknown,
+cao_XP_V,cao,yes,
 ,,,
-cao_C_mod,cao,yes,BUT...
-cao_C_N,cao,no,
-cao_N_C,cao,yes,
-cao_C_attr,cao,yes,=ka(to)
-cao_C_attr_obl,cao,yes,
-cao_C_attr_pos,cao,,attached to the predicate of the RC (? or to the last element of the RC)
-,,,
-cao_P_mod,cao,yes,
-cao_Prep,cao,no(?),		
-cao_Post,cao,yes,		
-cao_Prep_N,cao,/,		
-cao_N_Prep,cao,/,		
+cao_Prep,cao,no,no mentions in the grammar	
+cao_Post,cao,yes,Relativization/nominalization with ka(to) & comitative with yá 		
+cao_Prep_N,cao,,		
+cao_N_Prep,cao,,		
 cao_Post_N,cao,yes, 
 cao_N_Post,cao,yes,
-cao_P_attr,cao,yes,
-cao_P_attr_obl,cao,yes,Relativization/nominalization with ka(to) & comitative with yá
-cao_P_attr_pos,cao,,attached to the last element of the adpositional phrases
+,,,
+cao_M_M_N,cao,unknown,
+cao_N_M_M,cao,unknown,
+cao_M_N_M,cao,yes,
