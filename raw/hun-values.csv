@@ -1,0 +1,33 @@
+ID,Language,Value,Comment
+hun_A,hun,yes,
+hun_A_N,hun,yes,
+hun_N_A,hun,no,
+hun_A_XP_N,hun,no,
+hun_XP_A_N,hun,yes,
+hun_A_N_XP,hun,no,
+hun_N_A_XP,hun,no,
+hun_N_XP_A,hun,no,
+hun_XP_N_A,hun,no,
+hun_A_XP,hun,yes,
+hun_XP_A,hun,yes,
+hun_V,hun,yes,
+hun_V_N,hun,no,
+hun_N_V,hun,yes,
+hun_V_XP_N,hun,no,
+hun_XP_V_N,hun,no,
+hun_V_N_XP,hun,no,
+hun_N_V_XP,hun,yes,
+hun_N_XP_V,hun,yes,
+hun_XP_N_V,hun,no,
+hun_V_XP,hun,yes,
+hun_XP_V,hun,yes,
+hun_Prep,hun,no,no mention in the grammar
+hun_Post,hun,yes,"Hungarian postpositions come in various types, such as free-standing postposition and lexical case suffixes."
+hun_PrepP_N,hun,,  
+hun_N_PrepP,hun,,
+hun_N_PostP,hun,yes,
+hun_PostP_N,hun,special,requires the attributivizer -i in addition (or else can be transformed into a complex participial modifier)
+hun_M_M_N,hun,yes, 
+hun_N_M_M,hun,unknown,
+hun_M_N_M,hun,unknown,
+

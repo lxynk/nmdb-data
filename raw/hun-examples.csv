@@ -1,0 +1,31 @@
+ID,Language,Parameter,Original,Morphemic,Gloss,Translation,Source,Comment
+hun_ex_01,hun,hun_A hun_A_XP,,János független a szüle-i-től.,John independent the parents-his/her-from,John is independent of his parents.,"Dóra Kata Takács, p.c.",
+hun_ex_02,hun,hun_A hun_XP_A,,János a szüle-i-től független.,John the parents-his/her-from independent,John is independent of his parents.,"Dóra Kata Takács, p.c.", "focus on ‘a szüle-i-től’ with the meaning ‘independent of his parents and not someone else’"
+hun_ex_03,hun,hun_A hun_A_N,,egy független fiú,a/one independent boy,an independent boy,"Dóra Kata Takács, p.c.",
+hun_ex_04,hun,hun_A_N,,a független fiú-k-nak,the independent boy-PL-DAT,the independent boys,"Dóra Kata Takács, p.c.","NO case marking on attributive adjectives possible"
+hun_ex_05,hun,hun_N_A,,*egy/a fiú független,a/the boy independent,the/an independent boy,"Dóra Kata Takács, p.c.",
+hun_ex_06,hun,hun_A_XP_N,,*egy független a szüle-i-től fiú,a/one independent the parents-his/her-from boy,a boy independent of his parents,"Dóra Kata Takács, p.c.",
+hun_ex_07,hun,hun_XP_A_N,,egy a szüle-i-től független fiú,a/one the parents-his/her-from independent boy,a boy independent of his parents,"Dóra Kata Takács, p.c.",
+hun_ex_08,hun,hun_A_N_XP,,*egy független fiú a szüle-i-től,a/one independent boy parents-his/her-from,a boy independent of his parents,"Dóra Kata Takács, p.c.",
+hun_ex_09,hun,hun_N_A_XP,,*egy fiú független a szüle-i-től,a/one boy independent the parents-his/her-from,a boy independent of his parents,"Dóra Kata Takács, p.c.",
+hun_ex_10,hun,hun_N_XP_A,,*egy fiú a szüle-i-től független,a/one boy the parents-his/her-from independent,a boy independent of his parents,"Dóra Kata Takács, p.c.",
+hun_ex_11,hun,hun_XP_N_A,,*egy a szüle-i-től fiú független,a/one the parents-his/her-from boy independent,a boy independent of his parents,"Dóra Kata Takács, p.c.",
+hun_ex_12,hun,hun_XP_A_N,,a rendkívül unalmas előadás,the extremely boring lecture,the extremely boring lecture,"Kenesei_et_al_1998[p. 83, ex. 229a]",
+
+hun_ex_13,hun,hun_V hun_ N_V,,"(Az) a könyv, amely-et Anna olvas-ott, érdekes volt.",that the book which-ACC Anna read-PST interesting was,The book that Anna was reading was interesting.,"Kenesei_et_al_1998[p. 38, ex. 101]",
+hun_ex_14,hun,hun_N_V_XP,,"(Az) a nyolc lány, aki-(k) olvast-a/ák a könyvet",that the eight girl who-(PL) read-DEF.SG/PL the book.ACC,the eight girls that have read the book,"Kenesei_et_al_1998[p. 40, ex. 106a]","The relative pronoun in the restrictive clause can optionally agree with the singular head noun in number."
+hun_ex_15,hun,hun_N_XP_V,,"(Az) a lány, aki a könyvet olvassa, beteg volt.",that the girl who the book.ACC reads.DEF sick was,The girl who’s reading the book was sick.,"Kenesei_et_al_1998[p. 39, ex. 104a, adapted]",
+hun_ex_16,hun,hun_V_XP,,A védők sokáig tartották a várat a törökök ellen.,the defenders long held the fort-ACC the Turks against,The defenders held the fort against the Turks for a long time.,"Kenesei_et_al_1998[p. 8, ex. 1a]",
+hun_ex_17,hun,hun_XP_V,,A várat sokáig tartották a védők a törökök ellen.,the fort-ACC long held the defenders the Turks against,"As for the fort, the defenders held it against the Turks for a long time.","Kenesei_et_al_1998[p. 8, ex. 1c, adapted]",
+
+hun_ex_18,hun,hun_Post,,A gyerekek a ház mögött ugrálnak.,the children the house behind jump.3PL,The children are jumping around behind the house.,"Hegedűs_2021[p. 2, ex. 1b]",
+hun_ex_19,hun,hun_Post,,gyerekek a kert-ben ugrálnak.,the children the garden-INE jump.3PL,The children are jumping in the garden.,"Hegedűs_2021[p. 2, ex. 1a]",
+hun_ex_20,hun,hun_N_PostP,,egy séta az erdő-ben,a/one walk the forest-INE,a walk in the forest,"Dóra Kata Takács, p.c.",
+hun_ex_21,hun,hun_PostP_N,,egy busz utasok nélkül,a/one bus passengers without,a bus without passangers,"Dóra Kata Takács, p.c.",
+hun_ex_22,hun,hun_PostP_N,,*egy az erdő-ben séta,a/one the forest-INE walk,a walk in the forest,"Dóra Kata Takács, p.c.",
+hun_ex_23,hun,hun_PostP_N,,*egy utasok nélkül busz,a/one passangers without bus,a bus without passangers,"Dóra Kata Takács, p.c.",
+hun_ex_24,hun,hun_PostP_N,,egy utasok nélkül-i busz,a/one passangers without bus,a bus without passangers,"Dóra Kata Takács, p.c.","-i here as some sort of adjectivizer/attributivizer is required."
+hun_ex_25,hun,hun_PostP_N,,egy az erdő-ben tett séta,a/one the forest-INE made walk,a walk (which one had) in the forest,"Dóra Kata Takács, p.c.",
+
+hun_ex_26,hun,hun_M_M_N,,a sikeres okos vizsla,the successful clever hound,the successful clever hound,"Kenesei_et_al_1998[p. 93, ex. 257]",
+
