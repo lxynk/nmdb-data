@@ -1,0 +1,32 @@
+ID,Language,Value,Comment
+gug_A,gug,yes,"Guaraní does not have a clear morphological class of adjectives: most roots that can be used as adjectives do so without any specific marking that would distinguish them from verbs or nouns (Estigarribia 2020: p. 87). Bare roots can function as noun modifiers; in this function, they can only be postnominal and cannot take dependents. However, bare roots cannot function as independent predicates, they must take verbal personal markers (prefixes) to be able to do so."
+gug_A_N,gug,no,
+gug_N_A,gug,yes,
+gug_A_XP_N,gug,no,
+gug_XP_A_N,gug,no,
+gug_A_N_XP,gug,no,
+gug_N_A_XP,gug,no,
+gug_N_XP_A,gug,no,
+gug_XP_N_A,gug,no,
+gug_A_XP,gug,yes,"Bare roots cannot function as independent predicates, they must take verbal personal markers to be able to do so. The neutral/more natural word order is for the dependent to follow such forms, but the alternative is possible as well."
+gug_XP_A,gug,special,"Bare roots cannot function as independent predicates, they must take verbal personal markers to be able to do so. The neutral/more natural word order is for the dependent to follow such forms, but the alternative is possible as well."
+gug_V,gug,yes,"Another kind of nominal modifiers are roots marked with a verbal agreement prefix and the adjectivizing/relativizing suffix -va (unmarked for tense), -va'ekue (past), or -va'erã (future). Such forms cannot be used predicatively."
+gug_V_N,gug,special,"Noun-modifying -va forms are normally placed postnominally, but they can also occur in the prenominal position."
+gug_N_V,gug,yes,
+gug_V_XP_N,gug,no,Prenominal -va forms cannot take dependents neither to their right nor to their left.
+gug_XP_V_N,gug,no,Prenominal -va forms cannot take dependents neither to their right nor to their left.
+gug_V_N_XP,gug,unknown,
+gug_N_V_XP,gug,yes,
+gug_N_XP_V,gug,special,"N_V_XP is the more common/more natural word order as compared to N_XP_V, but the latter is possible as well."
+gug_XP_N_V,gug,unknown,
+gug_V_XP,gug,yes,See A10. Forms with -va cannot be used predicatively.
+gug_XP_V,gug,special,See A11. Forms with -va cannot be used predicatively.
+gug_Prep,gug,no,
+gug_Post,gug,yes,
+gug_PrepP_N,gug,,
+gug_N_PrepP,gug,,
+gug_PostP_N,gug,special,"When used to modify nouns, postpositional phrases are often introduced with an additional enclitic =gua. The postnominal placement of adnominal PPs is the neutral/more natural one. Their prenominal placement is sometimes possible as well, but not always, see examples."
+gug_N_PostP,gug,yes,"When used to modify nouns, postpositional phrases are often introduced with an additional enclitic =gua. The postnominal placement of adnominal PPs is the neutral/more natural one. Their prenominal placement is sometimes possible as well, but not always, see examples."
+gug_M_M_N,gug,unknown,
+gug_N_M_M,gug,unknown,
+gug_M_N_M,gug,unknown,

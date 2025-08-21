@@ -6,12 +6,13 @@
         }
     ],
     "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#StructureDataset",
-    "dcat:accessURL": "https://github.com/xrotwang/nmdb-data",
+    "dc:source": "sources.bib",
+    "dcat:accessURL": "git@github.com:lxynk/nmdb-data",
     "prov:wasDerivedFrom": [
         {
-            "rdf:about": "https://github.com/xrotwang/nmdb-data",
+            "rdf:about": "git@github.com:lxynk/nmdb-data",
             "rdf:type": "prov:Entity",
-            "dc:created": "a60f4d5",
+            "dc:created": "5cedf54",
             "dc:title": "Repository"
         },
         {
@@ -24,7 +25,7 @@
     "prov:wasGeneratedBy": [
         {
             "dc:title": "python",
-            "dc:description": "3.10.12"
+            "dc:description": "3.8.10"
         },
         {
             "dc:title": "python-packages",
@@ -36,7 +37,7 @@
     "tables": [
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#ValueTable",
-            "dc:extent": 149,
+            "dc:extent": 29,
             "tableSchema": {
                 "columns": [
                     {
@@ -153,7 +154,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#LanguageTable",
-            "dc:extent": 7,
+            "dc:extent": 1,
             "tableSchema": {
                 "columns": [
                     {
@@ -225,7 +226,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#ParameterTable",
-            "dc:extent": 50,
+            "dc:extent": 31,
             "tableSchema": {
                 "columns": [
                     {
@@ -248,12 +249,6 @@
                         "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#description",
                         "required": false,
                         "name": "Description"
-                    },
-                    {
-                        "datatype": "json",
-                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#columnSpec",
-                        "required": false,
-                        "name": "ColumnSpec"
                     }
                 ],
                 "primaryKey": [
@@ -264,7 +259,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#CodeTable",
-            "dc:extent": 100,
+            "dc:extent": 124,
             "tableSchema": {
                 "columns": [
                     {
@@ -318,7 +313,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#ExampleTable",
-            "dc:extent": 112,
+            "dc:extent": 21,
             "tableSchema": {
                 "columns": [
                     {
@@ -384,6 +379,19 @@
                         "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#comment",
                         "required": false,
                         "name": "Comment"
+                    },
+                    {
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#source",
+                        "separator": ";",
+                        "name": "Source"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "Source_Comment"
+                    },
+                    {
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#grammaticalityJudgement",
+                        "name": "Grammaticality_Judgement"
                     }
                 ],
                 "foreignKeys": [
@@ -415,6 +423,25 @@
                 ]
             },
             "url": "examples.csv"
+        },
+        {
+            "dc:extent": 119,
+            "tableSchema": {
+                "columns": [
+                    {
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#id",
+                        "name": "ID"
+                    },
+                    {
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#name",
+                        "name": "Name"
+                    }
+                ],
+                "primaryKey": [
+                    "ID"
+                ]
+            },
+            "url": "abbreviations.csv"
         }
     ]
 }

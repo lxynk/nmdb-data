@@ -1,51 +1,32 @@
-ID,Name,Description,ColumnSpec
-A_mod,A_mod,Are there (non-deverbal) adjectival modifiers?,
-A_N,A_N,Can adjectival modifiers be placed prenominally?,
-N_A,N_A,Can adjectival modifiers be placed postnominally?,
-AP_N,AP_N,Can prenominal adjectival modifiers take dependents?,
-A_XP_N,A_XP_N,Can the dependent follow the head in prenominal adjectival modifiers?,
-XP_A_N,XP_A_N,Can the dependent precede the head in prenominal adjectival modifiers?,
-N_AP,N_AP,Can postnominal adjectival modifiers take dependents?,
-N_A_XP,N_A_XP,Can the dependent follow the head in postnominal adjectival modifiers?,
-N_XP_A,N_XP_A,Can the dependent precede the head in postnominal adjectival modifiers?,
-A_attr,A_attr,Can adjectival modifiers have an overt attributive marker?,
-A_attr_obl,A_attr_obl,Is the attributive marker obligatory with adjectival modifiers?,
-A_attr_pos,A_attr_pos,What is the position of the attributive marker with adjectival modifiers?,
-A_pred,A_pred,Can adjectives be used as predicates?,
-A_dep,A_dep,Can predicative adjectives take dependents?,
-A_XP,A_XP,Can the dependent follow a predicative adjective?,
-XP_A,XP_A,Can the dependent precede a predicative adjective?,
-V_mod,V_mod,Are there deverbal modifiers?,
-V_N,V_N,,
-N_V,N_V,,
-VP_N,VP_N,,
-V_XP_N,V_XP_N,,
-XP_V_N,XP_V_N,,
-N_VP,N_VP,,
-N_V_XP,N_V_XP,,
-N_XP_V,N_XP_V,,
-V_attr,V_attr,,
-V_attr_obl,V_attr_obl,,
-V_attr_pos,V_attr_pos,,
-V_pred,V_pred,,
-V_dep,V_dep,,
-V_XP,V_XP,,
-XP_V,XP_V,,
-C_mod,C_mod,Are there clausal modifiers?,
-C_int,C_int,,
-C_ext,C_ext,,
-C_N,C_N,,
-N_C,N_C,,
-C_attr,C_attr,,
-C_attr_obl,C_attr_obl,,
-C_attr_pos,C_attr_pos,,
-P_mod,P_mod,Are there adpositional modifiers?,
-Prep,Prep,,
-Post,Post,,
-Prep_N,Prep_N,,
-N_Prep,N_Prep,,
-Post_N,Post_N,,
-N_Post,N_Post,,
-P_attr,P_attr,,
-P_attr_obl,P_attr_obl,,
-P_attr_pos,P_attr_pos,,
+ID,Name,Description
+A,A,A01: Does the language have adjective-like modifiers of nouns?
+A_N,A_N,A02: Can adjectival modifiers without dependents be placed prenominally?
+N_A,N_A,A03: Can adjectival modifiers without dependents be placed postnominally?
+A_XP_N,A_XP_N,A04: Can the head of a prenominal adjectival modifier precede its dependent?
+XP_A_N,XP_A_N,A05: Can the head of a prenominal adjectival modifier follow its dependent?
+A_N_XP,A_N_XP,A06: Can the dependent of a prenominal adjectival modifier follow the modified noun?
+N_A_XP,N_A_XP,A07: Can the head of a postnominal adjectival modifier precede its dependent?
+N_XP_A,N_XP_A,A08: Can the head of a postnominal adjectival modifier follow its dependent?
+XP_N_A,XP_N_A,A09: Can the dependent of a postnominal adjectival modifier precede the modified noun?
+A_XP,A_XP,A10: Can adjectival elements precede their dependents in other structures (e.g. when used predicatively)?
+XP_A,XP_A,A11: Can adjectival elements follow their dependents in other structures (e.g. when used predicatively)?
+V,V,V01: Does the language have verb-based modifiers of nouns?
+V_N,V_N,V02: Can verbal modifiers without dependents be placed prenominally?
+N_V,N_V,V03: Can verbal modifiers without dependents be placed postnominally?
+V_XP_N,V_XP_N,V04: Can the head of a prenominal verbal modifier precede its dependent?
+XP_V_N,XP_V_N,V05: Can the head of a prenominal verbal modifier follow its dependent?
+V_N_XP,V_N_XP,V06: Can the dependent of a prenominal verbal modifier follow the modified noun?
+N_V_XP,N_V_XP,V07: Can the head of a postnominal verbal modifier precede its dependent?
+N_XP_V,N_XP_V,V08: Can the head of a postnominal verbal modifier follow its dependent?
+XP_N_V,XP_N_V,V09: Can the dependent of a postnominal verbal modifier precede the modified noun?
+V_XP,V_XP,V10: Can verbal elements precede their dependents in other structures (e.g. when used in a main clause)?
+XP_V,XP_V,V11: Can verbal elements follow their dependents in other structures (e.g. when used in a main clause)?
+Prep,Prep,P01: Does the language have prepositions?
+Post,Post,P02: Does the language have postpositions?
+PrepP_N,PrepP_N,P03: Can prepositional phrases modify nouns prenominally?
+N_PrepP,N_PrepP,P04: Can prepositional phrases modify nouns postnominally?
+PostP_N,PostP_N,P05: Can postpositional phrases modify nouns prenominally?
+N_PostP,N_PostP,P06: Can postpositional phrases modify nouns postnominally?
+M_M_N,M_M_N,M01: Is stacking of prenominal modifiers (of any type) possible?
+N_M_M,N_M_M,M02: Is stacking of postnominal modifiers (of any type) possible?
+M_N_M,M_N_M,M03: Is co-occurrence of prenominal and postnominal modifiers (of any type) possible?
