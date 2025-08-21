@@ -1,0 +1,120 @@
+ID,Name
+A,agent-like argument of canonical transitive verb
+ABL,ablative
+ABS,absolutive
+ABSNT,absent
+ACC,accusative
+ACT,active
+ACTR,actor
+ADJ,adjective
+ADJLZ,adjectivalizer
+ADV,adverb(ial)
+AGR,agreement
+ALL,allative
+ANIM,animate
+ANTIP,antipassive
+APPL,applicative
+ART,article
+AUX,auxiliary
+BEN,benefactive
+CAUS,causative
+CIS,cislocative ('hither')
+CLF,classifier
+CNS,conjunctive subject
+COM,comitative
+COMP,complementizer
+COMPL,completive
+COND,conditional
+COP,copula
+CR,consonant reduplication
+CVB,converb
+DAT,dative
+DECL,declarative
+DEF,definite
+DEM,demonstrative
+DET,determiner
+DIR,directive
+DIRTR,directive (full control) transitivizer
+DIST,distal
+DISTR,distributive
+DPT,dependent clause marker
+DU,dual
+DUR,durative
+DYN,dynamic
+EP,epenthesis
+ERG,ergative
+EXCL,exclusive
+EXIS,existential
+F,feminine
+FIN,finite
+FOC,focus
+FUT,future
+GEN,genitive
+HAB,habitual
+IMP,imperative
+INACT,inactive
+INAN,inanimate
+INCL,inclusive
+IND,indicative
+INDF,indefinite
+INDTR,indirective transitivizer
+INF,infinitive
+INS,instrumental
+INTR,intransitive
+IPFV,imperfective
+IRR,irrealis
+LA,locative argument
+LOC,locative
+LP,locative prefix
+M,masculine
+MED,medial
+N,neuter
+NEG,negation/negative
+NFIN,non-finite
+NHUM,non-human
+NMLZ,nominalizer/nominalization
+NOM,nominative
+NPST,non-past
+NTS,non-topical subject
+O,object
+OBJ,object
+OBL,oblique
+OBV,obviative
+P,patient-like argument of canonical transitive verb
+PASS,passive
+PFV,perfective
+PL,plural
+POSS,possessive
+POSSM,possessed form of relational roots
+POST,post-stative aspect
+PRED,predicative
+PRF,perfect
+PRO,pronoun
+PROG,progressive
+PROH,prohibitive
+PROX,proximal/proximate
+PRS,present
+PST,past
+PTCP,participle
+PURP,purposive
+Q,question particle/marker
+QUOT,quotative
+RECP,reciprocal
+REFL,reflexive
+REL,relative
+RELTR,relational (applicative) transitivizer
+REM,remote
+RES,resultative
+S,subject
+SBJ,subject
+SBJV,subjunctive
+SG,singular
+SGV,singulative
+SPAT,spatial
+STAT,stative
+TAM,tense/aspect/mood
+TOP,topic
+TR,transitive
+UNDR,undergoer
+VOC,vocative
+YNQ,yes-no question
