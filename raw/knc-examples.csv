@@ -1,12 +1,13 @@
 ID,Language,Parameter,Original,Morphemic,Gloss,Translation,Source,Comment
-knc_ex_,knc,knc_A,,Fátò ádɘ́ àndí-rò kúrà.,house this we-for big,This house is too big for us.,"John Hutchison, p.c.",
-knc_ex_,knc,knc_A,,Fátò àndí-rò kúrà ádɘ́ Álì-yè gárzɘ́nà.,house this we-for big Ali-by built,This house that is big for us was built by Ali.,"John Hutchison, p.c.",
-knc_ex_,knc,knc_A,,Fátò ádə̀ àndí-rò kúrà.,house this we-for big,This house is (too) big for us.,"John Hutchison, p.c.",
-knc_ex_,knc,knc_V knc_N_V,,kâm lèzə́nà-də́,person go.3SG.PRF-DET,the person who went,"Hutchison_Skinner[1981, p. 218, adapted]",
-knc_ex_,knc,knc_N_XP_V,,kâm kàsúwù-làn rúkə́nà-də́,person market-in see.1SG.PRF-DET,the person that I saw in the market,"Hutchison_Skinner[1981, p. 222, adapted]",
-knc_ex_,knc,knc_N_XP,,kâm kû Yêrwà-rò lèzə́nàdə́,person today Yêrwà-to go.3SG.PRF-DET,the person that went to Yerwa today,"Hutchison_Skinner[1981, p. 223, adapted]",
-knc_ex_,knc,knc_Post,,Kâm-də́ kàsúwù-làn.,person-DEF market-in,The person is at the market.,"John Hutchison, p.c.",
-knc_ex_,knc,knc_PostP_N,,Kâm kàsúwù kúrà-làn-də́ Músaga nòzə́nà.,person market big-in-DEF Musa knows,The person (that is) at the large/central market knows Musa.,"John Hutchison, p.c.",
+knc_ex_01,knc,knc_A,,Fátò ádɘ́ àndí-rò kúrà.,house this we-for big,This house is too big for us.,"John Hutchison, p.c.",
+knc_ex_02,knc,knc_A,,Fátò àndí-rò kúrà ádɘ́ Álì-yè gárzɘ́nà.,house this we-for big Ali-by built,This house that is big for us was built by Ali.,"John Hutchison, p.c.",
+knc_ex_03,knc,knc_A,,Fátò ádə̀ àndí-rò kúrà.,house this we-for big,This house is (too) big for us.,"John Hutchison, p.c.",
+knc_ex_04,knc,knc_V knc_N_V,,kâm lèzə́nà-də́,person go.3SG.PRF-DET,the person who went,"Hutchison_Skinner[1981, p. 218, adapted]",
+knc_ex_05,knc,knc_N_XP_V,,kâm kàsúwù-làn rúkə́nà-də́,person market-in see.1SG.PRF-DET,the person that I saw in the market,"Hutchison_Skinner[1981, p. 222, adapted]",
+knc_ex_06,knc,knc_N_XP,,kâm kû Yêrwà-rò lèzə́nàdə́,person today Yêrwà-to go.3SG.PRF-DET,the person that went to Yerwa today,"Hutchison_Skinner[1981, p. 223, adapted]",
+knc_ex_07,knc,knc_Post,,Kâm-də́ kàsúwù-làn.,person-DEF market-in,The person is at the market.,"John Hutchison, p.c.",
+knc_ex_08,knc,knc_PostP_N,,Kâm kàsúwù kúrà-làn-də́ Músaga nòzə́nà.,person market big-in-DEF Musa knows,The person (that is) at the large/central market knows Musa.,"John Hutchison, p.c.",
+
 
 
 
