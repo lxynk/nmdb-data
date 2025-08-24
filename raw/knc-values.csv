@@ -1,0 +1,37 @@
+ID,Language,Value,Comment
+ID,Language,Value,Comment
+knc_A,knc,no,"The lexical category adjective does not exist in Kanuri. But some adjectivial nouns can be used as modifier (Hutchison & Skinner, 1981)."
+knc_A_N,knc,,
+knc_N_A,knc,,
+knc_A_XP_N,knc,,
+knc_XP_A_N,knc,, 
+knc_A_N_XP,knc,,
+knc_N_A_XP,knc,,
+knc_N_XP_A,knc,,
+knc_XP_N_A,knc,,
+knc_A_XP,knc,,
+knc_XP_A,knc,,
+,,,
+knc_V,knc,yes,
+knc_V_N,knc,no,
+knc_N_V,knc,yes,
+knc_V_XP_N,knc,no,
+knc_XP_V_N,knc,no, 
+knc_V_N_XP,knc,no,
+knc_N_V_XP,knc,no,
+knc_N_XP_V,knc,yes,"In Kanuri the canonical SOV order of constituents applies also within sentences in complex NPs (Hutchison & Skinner, 1981, p. 190)."
+knc_XP_N_V,knc,no,
+knc_V_XP,knc,no,
+knc_XP_V,knc,yes,canonical word order
+,,,
+knc_Prep,knc,no,no mentions in the grammar
+knc_Post,knc,yes, 
+knc_PrepP_N,knc,,		
+knc_N_PrepP,knc,,
+knc_PostP_N,knc,no,
+knc_N_PostP,knc,yes, 
+,,,
+knc_M_M_N,knc,no, 
+knc_N_M_M,knc,yes,
+knc_M_N_M,knc,no,
+
