@@ -1,0 +1,37 @@
+ID,Language,Value,Comment
+qvi_A,qvi,yes,
+qvi_A_N,qvi,yes, 
+qvi_N_A,qvi,no, 
+qvi_A_XP_N,qvi,yes,
+qvi_XP_A_N,qvi,yes, 
+qvi_A_N_XP,qvi,unknown,
+qvi_N_A_XP,qvi,no,
+qvi_N_XP_A,qvi,no,
+qvi_XP_N_A,qvi,no,
+qvi_A_XP,qvi,yes,
+qvi_XP_A,qvi,yes,
+,,,
+qvi_V,qvi,yes,
+qvi_V_N,qvi,yes, 
+qvi_N_V,qvi,special,In extraposed RC the modifying clause appear to the right of the heand and need not be continuous with the head. 
+qvi_V_XP_N,qvi,no,"Such word order may appear acceptable in certain constructions; however, these are not instances of clausal modifier constructions."
+qvi_XP_V_N,qvi,yes,
+qvi_V_N_XP,qvi,no,
+qvi_N_V_XP,qvi,no,
+qvi_N_XP_V,qvi,yes, 
+qvi_XP_N_V,qvi,no,
+qvi_V_XP,qvi,yes,
+qvi_XP_V,qvi,yes,the unmarked word order 
+,,,
+qvi_Prep,qvi,no,There is no preposition. 
+qvi_Post,qvi,yes,  
+qvi_PrepP_N,qvi,,  
+qvi_N_PrepP,qvi,,
+qvi_PostP_N,qvi,yes, 
+qvi_N_PostP,qvi,yes,
+,,,
+qvi_M_M_N,qvi,yes,"The nominal modifiers are in restricted to one of each type. Adjectives and relative clauses constitute an exception to this." 
+qvi_N_M_M,qvi,unknown,
+qvi_M_N_M,qvi,unknown,
+
+
