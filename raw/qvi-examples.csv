@@ -1,0 +1,32 @@
+ID,Language,Parameter,Original,Morphemic,Gloss,Translation,Source,Comment
+qvi_ex_,qvi,qvi_A qvi_A_N,,yuraj wasi,white house,a/ the white house,"Cole_1982[p. 77, ex. 396]",
+qvi_ex_,qvi,qvi_A,,kushi-sha-mi ka-ni,happy-nice-EV be-1,I am nice and happy.,"Cole_1982[p. 186, ex. 738a]",
+qvi_ex_,qvi,qvi_XP_A_N,,maymi sumaj wagra-ta riku-rka-ni,very beautiful cow-ACC see-PST-1,I saw a very beautiful cow.,"Cole_1982[p. 71, ex. 264]",
+qvi_ex_,qvi,qvi_A qvi_XP_A,,Marya-ta kushilla-mi ka-ni,Maria-ACC happy-EV be-1,I am happy about Maria.,"Cole_1982[p. 74, ex. 278]",
+qvi_ex_,qvi,qvi_XP_A,,Ñuka trabaju-manta kushi-mi ka-ni.,1SG work-ALL happy-EV be-1,I am happy about my work.,"Santiago David Gualapuro Gualapuro, p.c.",
+qvi_ex_,qvi,qvi_A_XP,,Kushi-mi ñuka trabaju-manta ka-ni.,happy-EV 1SG work-ALL be-1,I am happy about my work.,"Santiago David Gualapuro Gualapuro, p.c.",
+qvi_ex_,qvi,qvi_XP_A_N,,Rijsi-ni pay-paj trabaju-manta kushi runa-ta-ka.,know-1 3SG-POSS work-ALL happy man-TOP-ACC,I know a happy man about his work.,"Santiago David Gualapuro Gualapuro, p.c.",
+qvi_ex_,qvi,qvi_A_XP_N,,Rijsi-ni kushi pay-paj trabaju-manta runa-ta-ka.,know-1 happy 3SG-POSS work-ALL man-TOP-ACC, I know a happy man about his work.,"Santiago David Gualapuro Gualapuro, p.c.",
+
+qvi_ex_,qvi,qvi_V qvi_V_N,,shamu-shka runa,come-NMLZ man,the man who came,"Cole_1982[p. 54, ex. 180a]",
+qvi_ex_,qvi,qvi_V qvi_V_N,,kan kwintu-ta villa-shka kwitsa,you story-ACC tell-NMLZ girl,the girl to whom you told the story,"Cole_1982[p. 54, ex. 182b]",
+qvi_ex_,qvi,qvi_XP_V_N,,Marya riku-shka runa,Maria see-NMLZ man,the man whom Maria saw,"Cole_1982[p. 47, ex. 155a]",
+qvi_ex_,qvi,qvi_XP_V_N,,Juan juya-shka,Juan love-NMLZ woman,the woman Juan loves/ the woman who loves Juan,"Cole_1982[p. 49, ex. 161]","Adjective clauses are subjected to case marking. Without case marking, the both interpretations are possible."
+qvi_ex_,qvi,qvi_V,,[wambra wagra-ta randi-shka] ali wagra-mi,boy cow-ACC buy-NMLZ good cow-EV,The cow which the boy bought is a good cow.,"Cole_1982[p. 49, ex. 163]",internally head relative clauses
+qvi_ex_,qvi,qvi_V qvi_N_V qvi_N_XP_V,,Kwitsa-ta juya-ni Juan-wan tushu-shka ka-shka-ta,girl-ACC love-1 Juan-with dance-NMLZ be-NMLZ-ACC,I love the girl who had danced with Juan.,"Cole_1982[p. 51, ex. 170]",The head and the modifying clause are each case-marked to indicate the grammatical role of the relative clause as a whole. 
+qvi_ex_,qvi,qvi_XP_V_N,,Juan wajta-rka Marya riku-shka runa-ta-ka.,Juan hit-PST Maria see-NMLZ man-TOP-ACC,Juan hit the man who saw Maria/whom Maria saw.,"Santiago David Gualapuro Gualapuro, p.c.",
+qvi_ex_,qvi,qvi_V_XP_N,,*Juan wajta-rka riku-shka-mi Marya-ka runa-ta-ka.,Juan hit-PST see-NMlZ-EV Maria-ACC person-TOP-ACC,Juan hit the man who saw Maria/whom Maria saw.,"Santiago David Gualapuro Gualapuro, p.c.",
+qvi_ex_,qvi,qvi_V_XP_N,,*Juan wajta-rka riku-shka Marya runa-ta-ka.,Juan hit-PST see-NMLZ Maria man-TOP-ACC,Juan hit the man who saw Maria/whom Maria saw.,"Santiago David Gualapuro Gualapuro, p.c.",
+qvi_ex_,qvi,qvi_V_XP_N,,Juan wajta-rka riku-shka Marya-ka runa-ta-ka.,Juan hit-PST see-NMLZ Maria man-TOP-ACC,Juan hit (the so-called) Marya man.,"Santiago David Gualapuro Gualapuro, p.c.","In this sentence, Marya is the runa (man) who got hit. The word “rikushka” here has the “so called” meaning."
+qvi_ex_,qvi,qvi_V_XP,,chay wasi-ta-mi Juzi rura-rka,that house-ACC-EV Jose make-PST.3,Jose made that house.,"Cole_1982[p. 71, ex. 262]",
+qvi_ex_,qvi,qvi_XP_V,,pay-paj tayta-ka cha wambra-ta-mi wajta-rka,he-of father-TOP that child-ACC-EV hit-PST.3,His father hit that child.,"Cole_1982[p. 69, ex. 248]",
+
+qvi_ex_,qvi,qvi_Post,,wasi-man,house-to,to the house,"Cole_1982[p. 75, ex. 286a]",
+qvi_ex_,qvi,qvi_PostP_N,,Kitu-manda runa,Quito-from man,the man from Quito,"Cole_1982[p. 77, ex. 301]",
+qvi_ex_,qvi,qvi_PostP_N,,Chay Kitu-manda runa sumaj-ta trabaja-rka.,that Quito-from man beautiful-ACC work-PST,That man from Quito worked very well.,"Santiago David Gualapuro Gualapuro, p.c.",the canonical form 
+qvi_ex_,qvi,qvi_N_PostP,,Chay runa Kitu-manda sumaj-ta trabaja-rka.,that man Quito-from beautiful-ACC work-PST,That man from Quito worked very well.,"Santiago David Gualapuro Gualapuro, p.c.",
+
+qvi_ex_,qvi,qvi_M_M_N,,chay jutan yana wasi,that big black house,that big black house,"Cole_1982[p. 77, ex. 303]",
+qvi_ex_,qvi,qvi_M_M_N,,chay fiuka riku-shka Utavalu-manda shamu-shka runa,that I see-NMLZ Otavalo-from come-NMLZ man,that man I saw that came frm Otavalo,"Cole_1982[p. 77, ex. 303]",
+
+
