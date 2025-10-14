@@ -30,7 +30,7 @@ qvi_N_PrepP,qvi,,
 qvi_PostP_N,qvi,yes, 
 qvi_N_PostP,qvi,yes,
 ,,,
-qvi_M_M_N,qvi,yes,"The nominal modifiers are in restricted to one of each type. Adjectives and relative clauses constitute an exception to this." 
+qvi_M_M_N,qvi,yes, 
 qvi_N_M_M,qvi,unknown,
 qvi_M_N_M,qvi,unknown,
 
