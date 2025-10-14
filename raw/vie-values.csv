@@ -9,7 +9,7 @@ vie_N_A_XP,vie,yes,
 vie_N_XP_A,vie,no,
 vie_XP_N_A,vie,no,"This word order is only grammatical as a clause-level fronting, but ungrammatical as nominal modifier."
 vie_A_XP,vie,yes,
-vie_XP_A.vie,no,
+vie_XP_A,vie,no,
 ,,,
 vie_V,vie,yes,
 vie_V_N,vie,no, 
