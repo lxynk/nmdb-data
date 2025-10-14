@@ -1,0 +1,35 @@
+ID,Language,Value,Comment
+vie_A,vie,yes,
+vie_A_N,vie,special,"The order A-N occurs in lexicalized Sino-Vietnamese compouds. The preposed elements behave like bound morphoemes, and do not take complements (Trang Phan)."
+vie_N_A,vie,yes,"When an adjective modifies a noun in a noun phrase, it follows the noun."
+vie_A_XP_N,vie,no,
+vie_XP_A_N,vie,no,
+vie_A_N_XP,vie,no,
+vie_N_A_XP,vie,yes, 
+vie_N_XP_A,vie,no,
+vie_XP_N_A,vie,no,"This word order is only grammatical as a clause-level fronting, but ungrammatical as nominal modifier."
+vie_A_XP,vie,yes,
+vie_XP_A.vie,no,
+,,,
+vie_V,vie,yes,
+vie_V_N,vie,no, 
+vie_N_V,vie,yes, 
+vie_V_XP_N,vie,no,
+vie_XP_V_N,vie,no,
+vie_V_N_XP,vie,no,
+vie_N_V_XP,vie,yes, 
+vie_N_XP_V,vie,no,
+vie_XP_N_V,vie,no,
+vie_V_XP,vie,yes,Vietnamese has a SVO word order.
+vie_XP_V,vie,no,Vietnamese is a head-initial language. 
+,,,
+vie_Prep,vie,yes,
+vie_Post,vie,no,no mentions in the grammar  
+vie_PrepP_N,vie,no,  
+vie_N_PrepP,vie,yes,
+vie_PostP_N,vie,, 
+vie_N_PostP,vie,,
+,,,
+vie_M_M_N,vie,unknown?no?,
+vie_N_M_M,vie,yes,
+vie_M_N_M,vie,unknown?no?,
