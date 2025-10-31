@@ -1,0 +1,34 @@
+ID,Language,Value,Comment
+tur_A,tur,yes,
+tur_A_N,tur,yes,Attributive adjectives precede the noun they modify. 
+tur_N_A,tur,no, 
+tur_A_XP_N,tur,no,
+tur_XP_A_N,tur,yes, 
+tur_A_N_XP,tur,yes,
+tur_N_A_XP,tur,no,
+tur_N_XP_A,tur,no,
+tur_XP_N_A,tur,no,
+tur_A_XP,tur,yes,
+tur_XP_A.tur,yes,
+tur_V,tur,yes,
+tur_V_N,tur,yes,
+tur_N_V,tur,no, 
+tur_V_XP_N,tur,no,
+tur_XP_V_N,tur,yes,
+tur_V_N_XP,tur,no,
+tur_N_V_XP,tur,no,
+tur_N_XP_V,tur,no, 
+tur_XP_N_V,tur,no,
+tur_V_XP,tur,no,
+tur_XP_V,tur,yes, 
+tur_Prep,tur,no,no mentions in the grammar
+tur_Post,tur,yes,
+tur_PrepP_N,tur,,
+tur_N_PrepP,tur,,
+tur_PostP_N,tur,yes,Only some of the bare postpositions can function as modifiers within a noun phrase. 
+tur_N_PostP,tur,no,
+tur_M_M_N,tur,yes,
+tur_N_M_M,tur,no,
+tur_M_N_M,tur,no,
+
+
